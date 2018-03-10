@@ -581,6 +581,7 @@ for (drawPlot in c('initiationResults', 'cessationResults')) {
 
 
 ciPlots;
+ciPlotsLight;
 
 
 ###########################################################################
