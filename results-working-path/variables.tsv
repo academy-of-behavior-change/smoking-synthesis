@@ -1,0 +1,716 @@
+"uniqueVarID"	"study"	"variable"	"moment"	"type"	"datatype"	"dependent"	"direction"	"psytype"	"parent"	"description"	"comment"	"values"	"labels"	"classification_P"	"classification"
+"ahmed2004.r_afraidtosayno"	"ahmed2004.r"	"afraid to say no"	"0"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"NA"	NA	NA	NA	"self-efficacy"	"self-efficacy"
+"ahmed2004.r_curiosity"	"ahmed2004.r"	"curiosity"	"0"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"Curious to test what it was like"	NA	NA	NA	"attitude"	"attitude"
+"ahmed2004.r_everyonesmokes"	"ahmed2004.r"	"everyone smokes"	"0"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"NA"	NA	NA	NA	"descriptive norm"	"descriptive norm"
+"ahmed2004.r_feellonely"	"ahmed2004.r"	"feel lonely"	"0"	"question"	"logical"	"initiation"	"consistent"	"belief"	NA	"Page 203, left column, halfway first paragraph."	NA	NA	NA	"attitude"	"attitude"
+"ahmed2004.r_forfun"	"ahmed2004.r"	"for fun"	"0"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"NA"	NA	NA	NA	"attitude"	"attitude"
+"ahmed2004.r_forgetproblems"	"ahmed2004.r"	"forget problems"	"0"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"NA"	NA	NA	NA	"attitude"	"attitude"
+"ahmed2004.r_gumdisease"	"ahmed2004.r"	"gum disease"	"0"	"question"	"logical"	"initiation"	"inconsistent"	"belief"	"NA"	"NA"	NA	NA	NA	"risk perception"	"risk perception"
+"ahmed2004.r_heartdisease"	"ahmed2004.r"	"heart disease"	"0"	"question"	"logical"	"initiation"	"inconsistent"	"belief"	"NA"	"NA"	NA	NA	NA	"risk perception"	"risk perception"
+"ahmed2004.r_knowledgeofhealthrisks"	"ahmed2004.r"	"knowledge of health risks"	"1"	"aggregate"	"numeric"	"initiation"	"inconsistent"	"determinant"	"NA"	"Knowledge was operationalised as the sum of 'yes' answers to whether smoking causes lung cancer, heart disease, stroke, oral cancer and gum disease"	NA	NA	NA	"risk perception"	"risk perception"
+"ahmed2004.r_lifeisboring"	"ahmed2004.r"	"life is boring"	"0"	"question"	"logical"	"initiation"	"consistent"	"belief"	NA	"Page 203, left column, halfway first paragraph."	NA	NA	NA	"attitude"	"attitude"
+"ahmed2004.r_lungcancer"	"ahmed2004.r"	"lung cancer"	"0"	"question"	"logical"	"initiation"	"inconsistent"	"belief"	"NA"	"NA"	NA	NA	NA	"risk perception"	"risk perception"
+"ahmed2004.r_mouthcancer"	"ahmed2004.r"	"mouth cancer"	"0"	"question"	"logical"	"initiation"	"inconsistent"	"belief"	"NA"	"NA"	NA	NA	NA	"risk perception"	"risk perception"
+"ahmed2004.r_relax"	"ahmed2004.r"	"relax"	"0"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"NA"	NA	NA	NA	"attitude"	"attitude"
+"ahmed2004.r_shorttermhealthrisk"	"ahmed2004.r"	"short-term health risk"	"0"	"question"	"logical"	"initiation"	"inconsistent"	"belief"	"NA"	"NA"	NA	NA	NA	"risk perception"	"risk perception"
+"ahmed2004.r_smoking"	"ahmed2004.r"	"smoking"	"1"	"question"	"logical"	"initiation"	"consistent"	"behavior"	"NA"	"0 = nonsmoking, 1 = smoking"	NA	NA	NA	"behavior"	"behavior"
+"ahmed2004.r_stress"	"ahmed2004.r"	"stress"	"1"	"question"	"logical"	"initiation"	"consistent"	"determinant"	NA	"Stress composite score; Page 203, left column, 1/3rd of first paragraph."	NA	NA	NA	"stress"	"stress"
+"ahmed2004.r_stressathomereason"	"ahmed2004.r"	"stress at home (reason)"	"0"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"NA"	NA	NA	NA	"stress"	"stress"
+"ahmed2004.r_stressathomestress"	"ahmed2004.r"	"stress at home (stress)"	"1"	"question"	"logical"	"initiation"	"consistent"	"belief"	NA	"Page 203, left column, halfway first paragraph."	NA	NA	NA	"stress"	"stress"
+"ahmed2004.r_stressatschoolwork"	"ahmed2004.r"	"stress at school work"	"1"	"question"	"logical"	"initiation"	"consistent"	"belief"	NA	"Page 203, left column, halfway first paragraph."	NA	NA	NA	"stress"	"stress"
+"ahmed2004.r_stroke"	"ahmed2004.r"	"stroke"	"0"	"question"	"logical"	"initiation"	"inconsistent"	"belief"	"NA"	"NA"	NA	NA	NA	"risk perception"	"risk perception"
+"ahmed2004.r_tobecool"	"ahmed2004.r"	"to be cool"	"0"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"NA"	NA	NA	NA	"injunctive norm"	"injunctive norm"
+"ahmed2004.r_topleaseafriend"	"ahmed2004.r"	"to please a friend"	"0"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"NA"	NA	NA	NA	"injunctive norm"	"injunctive norm"
+"Ayo-Yusuf2010.r_cessation"	"Ayo-Yusuf2010.r"	"Cessation"	"1"	"question"	"logical"	"cessation"	"consistent"	"behavior"	"NA"	"NA"	"NA"	NA	NA	"behavior"	"behavior"
+"Ayo-Yusuf2010.r_descriptivenormhome"	"Ayo-Yusuf2010.r"	"Descriptive norm (home)"	"1"	"question"	"logical"	"cessation"	"consistent"	"belief"	NA	NA	"NA"	NA	NA	"descriptive norm"	"descriptive norm"
+"Ayo-Yusuf2010.r_descriptivenormworkplace"	"Ayo-Yusuf2010.r"	"Descriptive norm (workplace)"	"1"	"question"	"logical"	"cessation"	"consistent"	"belief"	NA	NA	"NA"	NA	NA	"descriptive norm"	"descriptive norm"
+"Ayo-Yusuf2010.r_smokingisharmful"	"Ayo-Yusuf2010.r"	"Smoking is harmful"	"1"	"question"	"logical"	"cessation"	"consistent"	"belief"	NA	NA	"NA"	NA	NA	"risk perception"	"risk perception"
+"Barton1982.r_smokerapproximatesidealconformity"	"Barton1982.r"	"Smoker approximates ideal conformity"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	NA	NA	NA	NA	NA	"attitude"	"attitude"
+"Barton1982.r_smokerapproximatesidealdrinkingbehavior"	"Barton1982.r"	"Smoker approximates ideal drinking behavior"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	NA	NA	NA	NA	NA	"attitude"	"attitude"
+"Barton1982.r_smokerapproximatesidealgoodness"	"Barton1982.r"	"Smoker approximates ideal goodness"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	NA	NA	NA	NA	NA	"attitude"	"attitude"
+"Barton1982.r_smokerapproximatesidealhealthiness"	"Barton1982.r"	"Smoker approximates ideal healthiness"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	NA	NA	NA	NA	NA	"attitude"	"attitude"
+"Barton1982.r_smokerapproximatesideallooks"	"Barton1982.r"	"Smoker approximates ideal looks"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	NA	NA	NA	NA	NA	"attitude"	"attitude"
+"Barton1982.r_smokerapproximatesidealmaturity"	"Barton1982.r"	"Smoker approximates ideal maturity"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	NA	NA	NA	NA	NA	"attitude"	"attitude"
+"Barton1982.r_smokerapproximatesidealrelaxedness"	"Barton1982.r"	"Smoker approximates ideal relaxedness"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	NA	NA	NA	NA	NA	"attitude"	"attitude"
+"Barton1982.r_smokerapproximatesidealschoolperformance"	"Barton1982.r"	"Smoker approximates ideal school performance"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	NA	NA	NA	NA	NA	"attitude"	"attitude"
+"Barton1982.r_smokerapproximatesidealsexualorientation"	"Barton1982.r"	"Smoker approximates ideal sexual orientation"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	NA	NA	NA	NA	NA	"attitude"	"attitude"
+"Barton1982.r_smokerapproximatesidealsociability"	"Barton1982.r"	"Smoker approximates ideal sociability"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	NA	NA	NA	NA	NA	"attitude"	"attitude"
+"Barton1982.r_smokerapproximatesidealtoughness"	"Barton1982.r"	"Smoker approximates ideal toughness"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	NA	NA	NA	NA	NA	"attitude"	"attitude"
+"Barton1982.r_smokerapproximatesidealwisdom"	"Barton1982.r"	"Smoker approximates ideal wisdom"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	NA	NA	NA	NA	NA	"attitude"	"attitude"
+"Barton1982.r_smokinginitiationintention"	"Barton1982.r"	"Smoking initiation intention"	"1"	"question"	"numeric"	"initiation"	"consistent"	"proxy"	NA	NA	NA	NA	NA	"intention"	"intention"
+"Berg2013.r_cravingscausedisregardofsetrules"	"Berg2013.r"	"Cravings cause disregard of set rules"	NA	"question"	"text"	"cessation"	"inconsistent"	"belief"	NA	"I was so badly addicted that the nurse caught me trying to slip down to go out because my daughter would take me out with the IV thing rolling
+it along to go outside and smoke. One time the nurse wouldnt let me go downstairs, so I had a window in my room. I opened it up and climbed
+out on the roof and smoked."	NA	NA	NA	"disengagement beliefs"	"disengagement beliefs"
+"Berg2013.r_familyadvicemotivatestoquit"	"Berg2013.r"	"Family advice motivates to quit"	NA	"question"	"text"	"cessation"	"consistent"	"belief"	NA	"Both of my daughters were like Mom, you cannot smoke and take radiation and chemotherapy, so I just quit"	"Table 4 page 804"	NA	NA	"injunctive norm"	"injunctive norm"
+"Berg2013.r_initiationofcancertreatmentmotivatestoquit"	"Berg2013.r"	"Initiation of cancer treatment motivates to quit"	NA	"question"	"text"	"cessation"	"consistent"	"belief"	NA	"'I was shocked when he told me that statistically, as many as 3/4 of the people who quit start back again. I was floored by that information. Once he told me that
+and then the treatment started almost immediately, the desire was gone."	"Table 4 page 804"	NA	NA	"attitude"	"attitude"
+"Berg2013.r_nootherreliefavailableanxiety"	"Berg2013.r"	"No other relief available (anxiety)"	NA	"question"	"text"	"cessation"	"inconsistent"	"belief"	NA	"I have quit so many times. The year or two years before, I dont think I was smoking; but then I started again because I felt really stressed and sort
+of hopeless when I first found out [I had cancer], and just discouraged. I know its a bad attitude, but Im so sick anyway, who cares? I might as well
+smoke since I enjoyed it for so many years. Out of stress and anxiety I started again."	"Table 4 page 804"	NA	NA	"attitude"	"attitude"
+"Berg2013.r_nootherreliefavailablehopelessness"	"Berg2013.r"	"No other relief available (hopelessness)"	NA	"question"	"text"	"cessation"	"inconsistent"	"belief"	NA	"The thought of going ahead and smoking anyway because you are already probably... it is difficult because I think about my colon and stuff. I
+cant. Its hard. Its very, very hard. That makes me want [a cigarette] because I dont have nobody to talk to."	"Table 4 page 804"	NA	NA	"attitude"	"attitude"
+"Berg2013.r_nootherreliefavailablestress"	"Berg2013.r"	"No other relief available (stress)"	NA	"question"	"text"	"cessation"	"inconsistent"	"belief"	NA	"I have quit so many times. The year or two years before, I dont think I was smoking; but then I started again because I felt really stressed and sort
+of hopeless when I first found out [I had cancer], and just discouraged. I know its a bad attitude, but Im so sick anyway, who cares? I might as well
+smoke since I enjoyed it for so many years. Out of stress and anxiety I started again. "	"Table 4 page 804"	NA	NA	"attitude"	"attitude"
+"Berg2013.r_quittingaidessuccessofchemotherapytreatment"	"Berg2013.r"	"Quitting aides success of chemotherapy treatment"	NA	"question"	"text"	"cessation"	"consistent"	"belief"	NA	"When they first told me I was still in the hospital. Of course you cant smoke there. 
+I came home and told my kids what the doctor had told me. I didnt slow down [on my smoking], 
+but then I had an appointment when I was going to start my chemo and radiation, and she told me, you
+know, if you are smoking, the radiation and chemo wont work. Youll be doing this for nothing."	"Table 4 page 804"	NA	NA	"attitude"	"attitude"
+"Berg2013.r_quittingcausesseverediscomfort"	"Berg2013.r"	"Quitting causes severe discomfort"	NA	"question"	"text"	"cessation"	"inconsistent"	"belief"	NA	"Its very addicting. Gosh, its addicting. It makes you crazy. Its crazy, but I have actually looked for cigarette butts before, in the ashtray. Ive looked
+for some in my car, under the car seat, to see if maybe one had fallen out of my purse. Its like you tear up the house. It’s like you’re an addict. Its
+just bad"	NA	NA	NA	"attitude"	"attitude"
+"Berg2013.r_quittingdecreasescancerspread"	"Berg2013.r"	"Quitting decreases cancer spread"	NA	"question"	"text"	"cessation"	"consistent"	"belief"	NA	"I don’t want the cancer to spread. The way I understand it, cigarettes or the nicotine is like throwing fertilizer on a fl ower garden. It makes it
+grow."	"Table 4 page 804"	NA	NA	"risk perception"	"risk perception"
+"Berg2013.r_quittingdecreasesimminenceofdeath"	"Berg2013.r"	"Quitting decreases imminence of death"	NA	"question"	"text"	"cessation"	"consistent"	"belief"	NA	"I used to be one of those people that thought “well you’ve got to die of something.” I realize,
+now more than ever, those are just words. That is just somebody trying to be a smart aleck. But when the doctor tells you you’ve got cancer,
+your whole world changes."	"Table 4 page 804"	NA	NA	"risk perception"	"risk perception"
+"Berg2013.r_quittingisdifficultwithsmokingpartner"	"Berg2013.r"	"Quitting is difficult with smoking partner"	NA	"question"	"text"	"cessation"	"inconsistent"	"belief"	NA	"My wife smokes. It is difficult to be in the house with a smoker. I am not blaming it on my wife in any stretch of the imagination, but if she didnt
+smoke it would be easier"	NA	NA	NA	"descriptive norm"	"descriptive norm"
+"Berg2013.r_quittingissmart"	"Berg2013.r"	"Quitting is smart"	NA	"question"	"text"	"cessation"	"consistent"	"belief"	NA	"Well, most of my health problems are probably more or less related to cigarette smoking, I smoked so long. I know its not good for me; quitting
+is the reasonable thing to do. People who still smoke are not very smart. And then I dont feel good about myself when I did start again, because
+its not a smart thing to do"	"Table 4 page 804"	NA	NA	"attitude"	"attitude"
+"Berg2013.r_quittingmakeshealthproblemsbeyondcancerlesslikely"	"Berg2013.r"	"Quitting makes health problems beyond cancer less likely"	NA	"question"	"text"	"cessation"	"consistent"	"belief"	NA	"I thought about people just having lung cancer. I didnt know that it was also the cause of 
+bladder cancer. I went to the eye doctor the other day because I was having trouble seeing. He asked me if I 
+smoked. I said I did until about a month or so ago. He said I had something behind my eyes
+that was related to smoking. So many things are caused by it. It is not just cancer."	"Table 4 page 804"	NA	NA	"risk perception"	"risk perception"
+"Berg2013.r_quittingmakesphysicianprovidecancertreatment"	"Berg2013.r"	"Quitting makes physician provide cancer treatment"	NA	"question"	"text"	"cessation"	"consistent"	"belief"	NA	"Once the diagnosis was in and the doctor said that, unless I agreed to quit he wasnt going to treat me, it was an easy decision. I was shocked
+when he told me that statistically, as many as 3/4 of the people who quit start back again. I was floored by that information. Once he told me that
+and then the treatment started almost immediately, the desire was gone."	"Table 4 page 804"	NA	NA	"risk perception"	"risk perception"
+"Berg2013.r_quittingraisesmentaladdiction"	"Berg2013.r"	"Quitting raises mental addiction"	NA	"question"	"text"	"cessation"	"inconsistent"	"belief"	NA	"Smoking is not just one habit. Even though my body had stopped being addicted to the nicotine, I still have to deal with the fact of wanting the
+cigarette. It is not a physical addiction anymore, but it is very much so a mental addiction"	NA	NA	NA	"disengagement beliefs"	"disengagement beliefs"
+"Berg2013.r_quittingwilldecreasetheoddsofmorechemotherapytreatment"	"Berg2013.r"	"quitting will decrease the odds of more chemotherapy treatment"	NA	"question"	"text"	"cessation"	"consistent"	"belief"	NA	"Once you go through chemotherapy and five to six weeks of radiation, and feel like you want to
+die, the last thing you want to do is have to go through that again. That is a heck of a motivator"	"Table 4 page 804"	NA	NA	"risk perception"	"risk perception"
+"Berg2013.r_quittingwithpartner"	"Berg2013.r"	"Quitting with partner"	NA	"question"	"text"	"cessation"	"consistent"	"belief"	NA	"My husband quit because he saw that I had started smoking again. 
+  I think that he felt responsible for me having started again, so he quit."	"Table 4 page 804"	NA	NA	"injunctive norm"	"injunctive norm"
+"Berg2013.r_regretofreinitiationaidesquitting"	"Berg2013.r"	"Regret of re-initiation aides quitting"	NA	"question"	"text"	"cessation"	"consistent"	"belief"	NA	"NA"	"Table 4 page 804"	NA	NA	"attitude"	"attitude"
+"Berg2013.r_selfcontrolisdifficultaroundsmokers"	"Berg2013.r"	"Self-control is difficult around smokers"	NA	"question"	"text"	"cessation"	"inconsistent"	"belief"	NA	"The bad thing with that is if youre constantly around people that smoke, theres always the temptation to have a cigarette. You just have to
+control yourself and think Im not going to have one."	NA	NA	NA	"self-efficacy"	"self-efficacy"
+"Berg2013.r_smokingalleviatesstress"	"Berg2013.r"	"Smoking alleviates stress"	NA	"question"	"text"	"cessation"	"inconsistent"	"belief"	NA	"When I get nervous, if I have a bad day, or some of those things, it makes me want to smoke. That is the fi rst thing I turn to when I have a bad day
+or things weren’t going my way, I would have a cigarette and smoke"	"Table 4 page 804"	NA	NA	"attitude"	"attitude"
+"Berg2013.r_surgeonrefusestooperateonsmokers"	"Berg2013.r"	"Surgeon refuses to operate on smokers"	NA	"question"	"text"	"cessation"	"consistent"	"belief"	NA	"Then there comes a point with me when somebody tells me youve got lung cancer, youve got this cancer, and if youve never smoked before
+in your life, you wouldnt be going through this. When youve got one of the top surgeons in the country that says Im not going to operate on
+you if you dont do this, then that was the end of it for me."	"Table 4 page 804"	NA	NA	"attitude"	"attitude"
+"Berg2013.r_useofreplacementstimulushelpsbreaksmokinghabit"	"Berg2013.r"	"Use of replacement stimulus helps break smoking habit"	NA	"question"	"text"	"cessation"	"consistent"	"belief"	NA	"Particularly after I eat and in the morning with coffee is just a habit to wake up and have that cigarette. It was really hard to break that habit. I used
+straws, mostly straws. I would puff on a straw"	NA	NA	NA	"self-efficacy"	"self-efficacy"
+"Bewley1974.r_badideaforchildrentosmoke"	"Bewley1974.r"	"Bad idea for children to smoke"	"1"	"question"	"logical"	"initiation"	"inconsistent"	"belief"	"NA"	"Boys were asked if they agreed with statement in variable."	"retrieved from page 42. Table IX"	"NA"	"NA"	"attitude"	"attitude"
+"Bewley1974.r_nicetosmokewithfriends"	"Bewley1974.r"	"Nice to smoke with friends"	"1"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"Boys were asked if they agreed with statement in variable."	"retrieved from page 42. Table IX"	"NA"	"NA"	"injunctive norm"	"injunctive norm"
+"Bewley1974.r_parentsshouldnotbeangryiftheirchildrensmoke"	"Bewley1974.r"	"Parents should not be angry if their children smoke"	"1"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"Boys were asked if they agreed with statement in variable."	"retrieved from page 42. Table IX"	"NA"	"NA"	"moral norm"	"moral norm"
+"Bewley1974.r_peoplemyagesmoketoshowoff"	"Bewley1974.r"	"People my age smoke to show off"	"1"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"Boys were asked if they agreed with statement in variable."	"retrieved from page 42. Table IX"	"NA"	"NA"	"attitude"	"attitude"
+"Bewley1974.r_smokingcausescancer"	"Bewley1974.r"	"Smoking causes cancer"	"1"	"question"	"logical"	"initiation"	"inconsistent"	"belief"	"NA"	"Boys were asked if they agreed with statement in variable."	"retrieved from page 42. Table IX"	"NA"	"NA"	"risk perception"	"risk perception"
+"Bewley1974.r_smokingisawasteofmoney"	"Bewley1974.r"	"Smoking is a waste of money"	"1"	"question"	"logical"	"initiation"	"inconsistent"	"belief"	"NA"	"Boys were asked if they agreed with statement in variable."	"retrieved from page 42. Table IX"	"NA"	"NA"	"attitude"	"attitude"
+"Bewley1974.r_smokingisenjoyable"	"Bewley1974.r"	"Smoking is enjoyable"	"1"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"Boys were asked if they agreed with statement in variable."	"retrieved from page 42. Table IX"	"NA"	"NA"	"attitude"	"attitude"
+"Bewley1974.r_smokingisnotharmful"	"Bewley1974.r"	"Smoking is not harmful"	"1"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"Boys were asked if they agreed with statement in variable."	"retrieved from page 42. Table IX"	"NA"	"NA"	"risk perception"	"risk perception"
+"Bewley1974.r_smokingmakesyoufeelgrownup"	"Bewley1974.r"	"Smoking makes you feel grown up"	"1"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"Boys were asked if they agreed with statement in variable."	"retrieved from page 42. Table IX"	"NA"	"NA"	"attitude"	"attitude"
+"Bewley1974.r_smokingstatus"	"Bewley1974.r"	"Smoking status"	"1"	"question"	"ordinal"	"initiation"	"consistent"	"behavior"	"NA"	"The category to which boys are assigned based on their smoking behaviour."	"Retrieved from Table IX, page 43"	"0 | 1 | 2 | 3"	"Non-smoker | Experimental Smoker | Light Smoker | Heavy Smoker"	"behavior"	"behavior"
+"Bidstrup2009.r_attitudetowardsmoking"	"Bidstrup2009.r"	"Attitude toward smoking"	"1"	"aggregate"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"I that smoking is bad/not bad for my health, I think smoking is very stupid/not stupid"	"NA"	"NA"	"NA"	"attitude"	"attitude"
+"Bidstrup2009.r_bestfriendsmokes"	"Bidstrup2009.r"	"Best friend smokes"	"1"	"question"	"nominal"	"initiation"	"consistent"	"belief"	"NA"	"Does your best friend smoke?"	"Figure 3, p. 387"	"1 | 2 | 3"	"No | Don't know | Yes"	"descriptive norm"	"descriptive norm"
+"Bidstrup2009.r_bestfriendsmokesnodontknow"	"Bidstrup2009.r"	"Best friend smokes (No & Don't know)"	"1"	"question"	"nominal"	"initiation"	"consistent"	"belief"	"Best friend smokes"	"Does your best friend smoke?"	"Figure 3, p. 387"	"1 | 2"	"No | Don't know"	NA	NA
+"Bidstrup2009.r_fathersmokes"	"Bidstrup2009.r"	"Father smokes"	"1"	"question"	"nominal"	"initiation"	"consistent"	"belief"	"NA"	"Does your father smoke?"	"Figure 3, p. 387"	"1 | 2 | 3"	"No | Don't know | Yes"	NA	NA
+"Bidstrup2009.r_fathersmokesnodontknow"	"Bidstrup2009.r"	"Father smokes (No & Don't know)"	"1"	"question"	"nominal"	"initiation"	"consistent"	"belief"	"Father smokes"	"Does your father smoke?"	"Figure 3, p. 387"	"1 | 2"	"No | Don't know"	"descriptive norm"	"descriptive norm"
+"Bidstrup2009.r_mothersmokes"	"Bidstrup2009.r"	"Mother smokes"	"1"	"question"	"nominal"	"initiation"	"consistent"	"belief"	"NA"	"Does your mother smoke?"	"Figure 3, p. 387"	"1 | 3"	"No | Yes"	"descriptive norm"	"descriptive norm"
+"Bidstrup2009.r_mothersmokesnoyes"	"Bidstrup2009.r"	"Mother smokes (No & Yes)"	"1"	"question"	"nominal"	"initiation"	"consistent"	"belief"	"Mother smokes"	"Does your mother smoke?"	"Figure 3, p. 387"	"1 | 2"	"No | Yes"	"descriptive norm"	"descriptive norm"
+"Bidstrup2009.r_selfefficacy"	"Bidstrup2009.r"	"Self-efficacy"	"1"	"question"	"numeric"	"initiation"	"inconsistent"	"belief"	"NA"	"I'm (sure/probably could/not so sure/probably couldn't /sure I can't) 
+  refrain from smoking if someone I had a crush on wanted me to"	"NA"	"NA"	"NA"	"self-efficacy"	"self-efficacy"
+"Bidstrup2009.r_smokingat1stfollowup"	"Bidstrup2009.r"	"Smoking at 1st follow up"	"2"	"aggregate"	"logical"	"initiation"	"consistent"	"behavior"	"NA"	"asks about current and past smoking (2 items)"	"NA"	"0 | 1"	"neversmoke | eversmoke"	"behavior"	"behavior"
+"Bidstrup2009.r_smokingat2ndfollowup"	"Bidstrup2009.r"	"Smoking at 2nd follow up"	"3"	"aggregate"	"logical"	"initiation"	"consistent"	"behavior"	"NA"	"asks about current and past smoking (2 items)"	"NA"	"0 | 1"	"neversmoke | eversmoke"	"behavior"	"behavior"
+"Bidstrup2009.r_socialinfluencenorms"	"Bidstrup2009.r"	"Social influence (norms)"	"1"	"aggregate"	"numeric"	"initiation"	"inconsistent"	"determinant"	"NA"	"My teachers/friens/best friend think its (Ok, don't care, think I should not) smoke"	"NA"	"NA"	"NA"	"injunctive norm"	"injunctive norm"
+"Bidstrup2009.r_socialinfluencepressure"	"Bidstrup2009.r"	"Social influence (pressure)"	"1"	"aggregate"	"numeric"	"initiation"	"consistent"	"determinant"	"NA"	"I've felt pressured to smoke by (friends, best friend, other adolescents) Yes/no"	"only Yes/No answer options, therefore coded as c(1,3)"	"NA"	"NA"	"injunctive norm"	"injunctive norm"
+"Bidstrup2011.r_negativeeffectsonlooks"	"Bidstrup2011.r"	"negative effects on looks"	"1"	"question"	"text"	"initiation"	"inconsistent"	"belief"	NA	"All the participants in the qualitative analyses could  
+  describe the disadvantages of smoking, including ... effects on looks... "	"NA"	NA	NA	"attitude"	"attitude"
+"Bidstrup2011.r_negativeeffectsonphysicalshape"	"Bidstrup2011.r"	"negative effects on physical shape"	"1"	"question"	"text"	"initiation"	"inconsistent"	"belief"	NA	"All the participants in the qualitative  analyses  could  describe  
+  the  disadvantages  of smoking,  including ... effect on physical shape... "	"NA"	NA	NA	"attitude"	"attitude"
+"Bidstrup2011.r_negativeeffectsonsmell"	"Bidstrup2011.r"	"negative effects on smell"	"1"	"question"	"text"	"initiation"	"inconsistent"	"belief"	NA	"All the participants in the qualitative  analyses 
+  could  describe  the  disadvantages  of smoking,  including ... and smell..."	"NA"	NA	NA	"attitude"	"attitude"
+"Bidstrup2011.r_negativehealtheffects"	"Bidstrup2011.r"	"negative health effects"	"1"	"question"	"text"	"initiation"	"inconsistent"	"belief"	NA	"All the participants in the qualitative  analyses  could  describe
+  the disadvantages  of smoking, including  health  effects"	"NA"	NA	NA	"risk perception"	"risk perception"
+"Bidstrup2011.r_pressuretosmokefromfriends"	"Bidstrup2011.r"	"Pressure to smoke from friends"	"1"	"question"	"text"	"initiation"	"consistent"	"belief"	NA	"All three participants who said that they had felt pressured were boys"	"NA"	NA	NA	"injunctive norm"	"injunctive norm"
+"Bidstrup2011.r_risksofaddiction"	"Bidstrup2011.r"	"risks of addiction"	"1"	"question"	"text"	"initiation"	"inconsistent"	"belief"	NA	"All the participants in the qualitative  analyses  could  describe  
+  the  disadvantages  of smoking,  including,... risk for addiction..."	"NA"	NA	NA	"attitude"	"attitude"
+"Bidstrup2011.r_selfefficacytoresistsmokingonsituationalsocialopportunities"	"Bidstrup2011.r"	"Self-efficacy to resist smoking on situational social opportunities"	"1"	"question"	"text"	"initiation"	"consistent"	"belief"	NA	"I am not sure because it depends a lot on who you are with and who you are 
+  and those kinds of things. And I am not able to say beforehand who I will be with at a certain time."	"NA"	NA	NA	"self-efficacy"	"self-efficacy"
+"Bidstrup2011.r_smokingisdisgusting"	"Bidstrup2011.r"	"Smoking is disgusting"	"1"	"question"	"text"	"initiation"	"inconsistent"	"belief"	NA	"All the participants in the qualitative  analyses  could  describe  
+  the  disadvantages  of smoking,  including... disgusting"	"NA"	NA	NA	"attitude"	"attitude"
+"Bidstrup2011.r_smokingisstupid"	"Bidstrup2011.r"	"Smoking is stupid"	"1"	"question"	"text"	"initiation"	"inconsistent"	"belief"	NA	"All the participants in the qualitative  analyses  could  describe  
+  the  disadvantages  of smoking  including... stupid... "	"NA"	NA	NA	"attitude"	"attitude"
+"Bidstrup2011.r_smokingopportunityisoftenfacilitatedbyfriends"	"Bidstrup2011.r"	"Smoking-opportunity is often facilitated by friends"	"1"	"question"	"text"	"initiation"	"consistent"	"belief"	NA	"all adolescents who had tried smoking had friends who smoked, all had 
+  someone they know present when they first tried smoking (how many is not mentioned, but >12)"	"NA"	NA	NA	"descriptive norm"	"descriptive norm"
+"Bosse1973.r_affectedacquaintance"	"Bosse1973.r"	"Affected acquaintance"	NA	"question"	"logical"	"cessation"	"consistent"	"determinant"	"NA"	"question: ...has cigarette smoking affected 
+the health of anyone you personally know?"	"Retrieved from top right page 383"	"NA"	"NA"	"injunctive norm"	"injunctive norm"
+"Bosse1973.r_cessation"	"Bosse1973.r"	"cessation"	NA	"question"	"logical"	"cessation"	"consistent"	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	"behavior"	"behavior"
+"Bosse1973.r_warninglabelawareness"	"Bosse1973.r"	"Warning label awareness"	NA	"question"	"logical"	"initiation"	"consistent"	"determinant"	NA	NA	"NA"	NA	NA	"attitude"	"attitude"
+"Brandstetter2012.r_addiction"	"Brandstetter2012.r"	"Addiction"	"1"	"aggregate"	"numeric"	"cessation"	"inconsistent"	"determinant"	"NA"	"NA"	"NA"	"NA"	"NA"	"irrelevant"	"irrelevant"
+"Brandstetter2012.r_baselinecpd"	"Brandstetter2012.r"	"Baseline CPD"	"1"	"question"	"numeric"	"cessation"	"consistent"	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	"irrelevant"	"irrelevant"
+"Brandstetter2012.r_cessationinpast7days"	"Brandstetter2012.r"	"Cessation in past 7 days"	"1"	"question"	"logical"	"cessation"	"consistent"	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	"behavior"	"behavior"
+"Brandstetter2012.r_confidenceinquitting"	"Brandstetter2012.r"	"Confidence in quitting"	"1"	"question"	"numeric"	"cessation"	"consistent"	"determinant"	"NA"	"NA"	"NA"	"NA"	"NA"	"self-efficacy"	"self-efficacy"
+"Brandstetter2012.r_gender"	"Brandstetter2012.r"	"gender"	"1"	"question"	"logical"	"cessation"	NA	"demographic"	"NA"	"NA"	"NA"	"NA"	"NA"	"demographic"	"demographic"
+"Brandstetter2012.r_increasedcpd"	"Brandstetter2012.r"	"Increased CPD"	"1"	"question"	"numeric"	"cessation"	"inconsistent"	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	"irrelevant"	"irrelevant"
+"Brandstetter2012.r_lowconfidenceinabilitytoquit"	"Brandstetter2012.r"	"Low confidence in ability to quit"	"1"	"aggregate"	"numeric"	"cessation"	"inconsistent"	"determinant"	"NA"	"NA"	"NA"	"1 | 2 | 3 | 4 | 5"	"low confidence | x | x | x | high confidence"	"self-efficacy"	"self-efficacy"
+"Brandstetter2012.r_motivationtoquit"	"Brandstetter2012.r"	"Motivation to quit"	"1"	"question"	"numeric"	"cessation"	"consistent"	"proxy"	"NA"	"NA"	"NA"	"NA"	"NA"	"intention"	"intention"
+"Brandstetter2012.r_priorquitattempts"	"Brandstetter2012.r"	"Prior quit attempts"	"1"	"question"	"numeric"	"cessation"	"consistent"	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	"behavior"	"behavior"
+"Brandstetter2012.r_quitoutcome"	"Brandstetter2012.r"	"Quit outcome"	"1"	"question"	"logical"	"cessation"	"consistent"	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	"behavior"	"behavior"
+"Brandstetter2012.r_reasonsforsmoking"	"Brandstetter2012.r"	"Reasons for smoking"	"1"	"aggregate"	"nominal"	"cessation"	"inconsistent"	"proxy"	"NA"	"NA"	"NA"	"NA"	"NA"	"attitude"	"attitude"
+"Brandstetter2012.r_smokingwithin30minsofwaking"	"Brandstetter2012.r"	"Smoking within 30 mins of waking"	"1"	"question"	"logical"	"cessation"	"inconsistent"	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	"behavior"	"behavior"
+"Carvajal2006.r_depressivesymptoms"	"Carvajal2006.r"	"Depressive symptoms"	"1"	"aggregate"	"numeric"	"initiation"	"consistent"	"determinant"	"NA"	"within the past 7 days: negative affect, (absence of) positive affect,
+somatic  complaints,  and  interpersonal  problems."	"explanation retrieved from page 652/653 
+  - proximal/distal determinants"	"NA"	"NA"	"irrelevant"	"irrelevant"
+"Carvajal2006.r_globalpositiveexpectancies"	"Carvajal2006.r"	"Global positive expectancies"	"1"	"aggregate"	"numeric"	"initiation"	"inconsistent"	"determinant"	"NA"	"eight items from extant optimism and hope scales"	"explanation retrieved from page 
+  652/653 - proximal/distal determinants"	"NA"	"NA"	"attitude"	"attitude"
+"Carvajal2006.r_initiation"	"Carvajal2006.r"	"initiation"	"2"	"question"	"logical"	"initiation"	"consistent"	"behavior"	"NA"	"NA"	"From paper: With the exception of smoking initiation and SES -socio economic situation-,
+## all variables were determined by baseline responses.
+##found in section 1.2 questionnaires and measures"	"NA"	"NA"	"behavior"	"behavior"
+"Carvajal2006.r_maladaptivecoping"	"Carvajal2006.r"	"Maladaptive coping"	"1"	"aggregate"	"numeric"	"initiation"	"consistent"	"determinant"	"NA"	"denial, helplessness, anger etc"	"explanation retrieved from page 
+  652/653 - proximal/distal determinants"	"NA"	"NA"	"coping"	"coping"
+"Carvajal2006.r_negativeattitudes"	"Carvajal2006.r"	"Negative attitudes"	"1"	"aggregate"	"numeric"	"initiation"	"inconsistent"	"determinant"	"NA"	"negative attitudes toward smoking"	"explanation retrieved from page 652/653 - proximal/distal determinants"	"NA"	"NA"	"attitude"	"attitude"
+"Carvajal2006.r_perceivedrisk"	"Carvajal2006.r"	"Perceived risk"	"1"	"aggregate"	"numeric"	"initiation"	"NA"	"determinant"	"NA"	"NA"	"explanation retrieved from page 653 
+  page 652/653 - proximal/distal determinants"	"NA"	"NA"	"risk perception"	"risk perception"
+"Carvajal2006.r_positiveattitudes"	"Carvajal2006.r"	"Positive attitudes"	"1"	"aggregate"	"numeric"	"initiation"	"consistent"	"determinant"	"NA"	"positive attitudes toward smoking"	"explanation retrieved from page 652/653 - proximal/distal determinants"	"NA"	"NA"	"attitude"	"attitude"
+"Carvajal2006.r_selfefficacy"	"Carvajal2006.r"	"Self efficacy"	"1"	"aggregate"	"numeric"	"initiation"	"inconsistent"	"determinant"	"NA"	"NA"	"explanation retrieved from page 652/653 - proximal/distal determinants"	"NA"	"NA"	"self-efficacy"	"self-efficacy"
+"Carvajal2006.r_smokingintentions"	"Carvajal2006.r"	"Smoking intentions"	"1"	"aggregate"	"numeric"	"initiation"	"consistent"	"proxy"	"NA"	"NA"	"NA"	"NA"	"NA"	"intention"	"intention"
+"chen1999.r_alleviatesboredom"	"chen1999.r"	"Alleviates boredom"	"1"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"if agree that smoking alleviates boredom (1 = yes, 0 = no) (p. 404, lower right column)"	NA	NA	NA	"attitude"	"attitude"
+"chen1999.r_feelokaroundsmokers"	"chen1999.r"	"Feel OK around smokers"	"1"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"if feel OK when around smokers (1 = yes, 0 = no) (p. 404, lower right column)"	NA	NA	NA	"attitude"	"attitude"
+"chen1999.r_friendsmokingf"	"chen1999.r"	"Friend smoking (f)"	"1"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"Reported smoking status of peers (1 = smoker, 0 = non-smoker) (p. 404, lower right column)"	NA	NA	NA	"descriptive norm"	"descriptive norm"
+"chen1999.r_friendsmokingm"	"chen1999.r"	"Friend smoking (m)"	"1"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"Reported smoking status of peers (1 = smoker, 0 = non-smoker) (p. 404, lower right column)"	NA	NA	NA	"descriptive norm"	"descriptive norm"
+"chen1999.r_goodatparties"	"chen1999.r"	"Good at parties"	"1"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"if agree that smoking is good at parties (1 = yes, 0 = no) (p. 404, lower right column)"	NA	NA	NA	"attitude"	"attitude"
+"chen1999.r_hatebeingaroundsmokers"	"chen1999.r"	"Hate being around smokers"	"1"	"question"	"logical"	"initiation"	"inconsistent"	"belief"	"NA"	"if hate being around people who are smoking (1 = yes, 0 = no) (p. 404, lower right column)"	NA	NA	NA	"irrelevant"	"irrelevant"
+"chen1999.r_parentsapproveofmysmoking"	"chen1999.r"	"Parents approve of my smoking"	"1"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"if think that parents will approve of my smoking when I grow up (1 = yes, 0 = no) (p. 404, lower right column)"	NA	NA	NA	"injunctive norm"	"injunctive norm"
+"chen1999.r_parentsmoking"	"chen1999.r"	"Parent smoking"	"1"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"Reported smoking status of parents (1 = smoker, 0 = non-smoker) (p. 404, lower right column)"	NA	NA	NA	"descriptive norm"	"descriptive norm"
+"chen1999.r_siblingsmoking"	"chen1999.r"	"Sibling smoking"	"1"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"Reported smoking status of siblings (1 = smoker, 0 = non-smoker) (p. 404, lower right column)"	NA	NA	NA	"descriptive norm"	"descriptive norm"
+"chen1999.r_smokersturnmeoff"	"chen1999.r"	"Smokers turn me off"	"1"	"question"	"logical"	"initiation"	"inconsistent"	"belief"	"NA"	"if agree that smoking turns me off (1 = yes, 0 = no) (p. 404, lower right column)"	NA	NA	NA	"attitude"	"attitude"
+"chen1999.r_smokinghelpsrelax"	"chen1999.r"	"Smoking helps relax"	"1"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"if agree that smoking aids in relaxation (1 = yes, 0 = no) (p. 404, lower right column)"	NA	NA	NA	"attitude"	"attitude"
+"chen1999.r_smokinginitiation"	"chen1999.r"	"Smoking initiation"	"1"	"question"	"logical"	"initiation"	"consistent"	"behavior"	"NA"	"respondents who responded 'yes' to the question 'Have you ever smoked a whole cigarette?' were defined as smoking initiators. (p. 403, lower right column)"	NA	NA	NA	"behavior"	"behavior"
+"chen1999.r_teachersmoking"	"chen1999.r"	"Teacher smoking"	"1"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"Reported smoking status of teachers (1 = smoker, 0 = non-smoker) (p. 404, lower right column)"	NA	NA	NA	"descriptive norm"	"descriptive norm"
+"cortes2005.r_badbreathistheworstaboutsmoking"	"cortes2005.r"	"Bad breath is the worst about smoking"	"1"	"question"	"numeric"	"initiation"	NA	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	"attitude"	"attitude"
+"cortes2005.r_believeiwontsmokeasanadult"	"cortes2005.r"	"Believe I won't smoke as an adult"	"1"	"question"	"numeric"	"initiation"	"NA"	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"cortes2005.r_damagetoownandothershealthistheworstaboutsmoking"	"cortes2005.r"	"Damage to own and others health is the worst about smoking"	"1"	"question"	"numeric"	"initiation"	NA	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"cortes2005.r_disagreethatsmokingmakesyoufeelgood"	"cortes2005.r"	"Disagree that smoking makes you feel good"	"1"	"question"	"numeric"	"initiation"	NA	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"cortes2005.r_expenseistheworstaboutsmoking"	"cortes2005.r"	"expense is the worst about smoking"	"1"	"question"	"numeric"	"initiation"	NA	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"cortes2005.r_neverboughttobaccoforpersonaluse"	"cortes2005.r"	"Never bought tobacco for personal use"	"1"	"question"	"numeric"	"initiation"	"NA"	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"cortes2005.r_wouldnttakeacigarettefromafriend"	"cortes2005.r"	"Wouldn't take a cigarette from a friend"	"1"	"question"	"numeric"	"initiation"	"NA"	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	"injunctive norm"	"injunctive norm"
+"donze2007.r_beliefthatquittingisverydifficult"	"donze2007.r"	"Belief that quitting is very difficult"	"1"	"question"	"logical"	"cessation"	"inconsistent"	"belief"	NA	"NA"	"NA"	NA	NA	"self-efficacy"	"self-efficacy"
+"donze2007.r_quitting"	"donze2007.r"	"Quitting"	"1"	"question"	"logical"	"cessation"	"NA"	"behavior"	NA	NA	"NA"	NA	NA	"behavior"	"behavior"
+"echer2008.r_actingasasmokeronstage"	"echer2008.r"	"acting as a smoker on stage"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"pending"	"pending"
+"echer2008.r_age"	"echer2008.r"	"age"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"irrelevant"	"irrelevant"
+"echer2008.r_cigaretteintrferenceinsociallifeandlawsthatrestrictsmoking"	"echer2008.r"	"cigarette intrference in social life and laws that restrict smoking"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"external factor"	"external factor"
+"echer2008.r_drugs"	"echer2008.r"	"Drugs"	"1"	"question"	"text"	"cessation"	NA	"belief"	NA	"response to the main question 'What factors contribute to a successful smoking cessation?'"	"Top-left column of page 449, second paragraph."	NA	NA	"external factor"	"external factor"
+"echer2008.r_estheticalandsmellingsense"	"echer2008.r"	"esthetical and smelling sense"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"attitude"	"attitude"
+"echer2008.r_fearofwithdrawalsymptoms"	"echer2008.r"	"Fear of withdrawal symptoms"	"1"	"question"	"text"	"cessation"	NA	"belief"	NA	"response to the main question 'What factors contribute to a successful smoking cessation?', 
+  reported as a motivation not to start again."	"Page 448, mid-left column, below 'Difficulty to cease smoking'"	NA	NA	"attitude"	"attitude"
+"echer2008.r_gettingannoyedaboutcigarette"	"echer2008.r"	"getting annoyed about cigarette"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"attitude"	"attitude"
+"echer2008.r_healthconcerns"	"echer2008.r"	"health concerns"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"risk perception"	"risk perception"
+"echer2008.r_healthharm"	"echer2008.r"	"health harm"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"risk perception"	"risk perception"
+"echer2008.r_healthproblemobservation"	"echer2008.r"	"health problem observation"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"risk perception"	"risk perception"
+"echer2008.r_healthprofessional"	"echer2008.r"	"health professional"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"pending"	"pending"
+"echer2008.r_influenceofclosepeople"	"echer2008.r"	"influence of close people"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"injunctive norm"	"injunctive norm"
+"echer2008.r_knowinghealthharms"	"echer2008.r"	"knowing health harms"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"risk perception"	"risk perception"
+"echer2008.r_lifeappreciation"	"echer2008.r"	"life appreciation"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"attitude"	"attitude"
+"echer2008.r_mediacampaigns"	"echer2008.r"	"media campaigns"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"irrelevant"	"irrelevant"
+"echer2008.r_minimizedabstinencesyndrome"	"echer2008.r"	"Minimized abstinence syndrome"	"1"	"question"	"text"	"cessation"	NA	"belief"	NA	"response to the main question 'What factors contribute to a successful smoking cessation?'"	"Page 448, final sentence of left column"	NA	NA	"attitude"	"attitude"
+"echer2008.r_money"	"echer2008.r"	"money"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"external factor"	"external factor"
+"echer2008.r_participationinantismokingcommission"	"echer2008.r"	"participation in anti-smoking commission"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"external factor"	"external factor"
+"echer2008.r_professionalintervention"	"echer2008.r"	"Professional intervention"	"1"	"question"	"text"	"cessation"	NA	"belief"	NA	"response to the main question 'What factors contribute to a successful smoking cessation?'"	"Bottom-right column of page 448, below 'Intervention of qualified professionals and drug utilization"	NA	NA	"external factor"	"external factor"
+"echer2008.r_professionalsupportnursephysiciandentist"	"echer2008.r"	"Professional support -nurse, physician, dentist-"	"1"	"question"	"text"	"cessation"	NA	"belief"	NA	"response to the main question 'What factors contribute to a successful smoking cessation?'"	"Extracted from page 449, mid-left column, bottom cursif statement"	NA	NA	"external factor"	"external factor"
+"echer2008.r_receivedspiritualsupport"	"echer2008.r"	"received spiritual support"	"1"	"question"	"text"	"cessation"	NA	"belief"	NA	"response to the main question 'What factors contribute to a successful smoking cessation?'"	"Extracted from p. 448, bottom right, below -Received support-"	NA	NA	"external factor"	"external factor"
+"echer2008.r_shamefrustrationofbeingasmoker"	"echer2008.r"	"shame/frustration of being a smoker"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"attitude"	"attitude"
+"echer2008.r_sharingexperienceswithquitters"	"echer2008.r"	"Sharing experiences with quitters"	"1"	"question"	"text"	"cessation"	NA	"belief"	NA	"response to the main question 'What factors contribute to a successful smoking cessation?'"	"mid to lower-right column on page 449, below 'specific course and support groups"	NA	NA	"self-efficacy"	"self-efficacy"
+"echer2008.r_smokerswhorefrainaroundquitters"	"echer2008.r"	"smokers who refrain around quitters"	"1"	"question"	"text"	"cessation"	NA	"belief"	NA	"response to the main question 'What factors contribute to a successful smoking cessation?'"	"Bottom left column page 450, above 'final considerations'"	NA	NA	"descriptive norm"	"descriptive norm"
+"echer2008.r_socialsupport"	"echer2008.r"	"Social support"	"1"	"question"	"text"	"cessation"	NA	"belief"	NA	"response to the main question 'What factors contribute to a successful smoking cessation?'"	"Extracted from page 450, top left column, below 'Family, social and spiritual support'"	NA	NA	"injunctive norm"	"injunctive norm"
+"echer2008.r_spiritualbeliefs"	"echer2008.r"	"Spiritual beliefs"	"1"	"question"	"text"	"cessation"	NA	"belief"	NA	"response to the main question 'What factors contribute to a successful smoking cessation?'"	"Extracted from p. 450, bottom-left column, second-to-last paragraph above 'Final considerations'."	NA	NA	"attitude"	"attitude"
+"echer2008.r_spiritualsupport"	"echer2008.r"	"spiritual support"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"attitude"	"attitude"
+"echer2008.r_supportgroups"	"echer2008.r"	"Support groups"	"1"	"question"	"text"	"cessation"	NA	"belief"	NA	"response to the main question 'What factors contribute to a successful smoking cessation?'"	"mid to lower-right column on page 449, below 'specific course and support groups"	NA	NA	"external factor"	"external factor"
+"echer2008.r_supportgroupsprovidequittingstrategies"	"echer2008.r"	"support groups provide quitting strategies"	"1"	"question"	"text"	"cessation"	NA	"belief"	NA	"response to the main question 'What factors contribute to a successful smoking cessation?'"	"mid to lower-right column on page 449, below 'specific course and support groups'"	NA	NA	"self-efficacy"	"self-efficacy"
+"echer2008.r_supportivecommunity"	"echer2008.r"	"Supportive community"	"1"	"question"	"text"	"cessation"	NA	"belief"	NA	"response to the main question 'What factors contribute to a successful smoking cessation?'"	"Bottom-right page 447, below table 1."	NA	NA	"injunctive norm"	"injunctive norm"
+"echer2008.r_supportivefamily"	"echer2008.r"	"Supportive family"	"1"	"question"	"text"	"cessation"	NA	"belief"	NA	"response to the main question 'What factors contribute to a successful smoking cessation?'"	"Extracted from p. 448, bottom right, below -Received support-"	NA	NA	"external factor"	"external factor"
+"echer2008.r_willpowerdeterminationtochange"	"echer2008.r"	"Willpower/determination to change"	"1"	"question"	"text"	"cessation"	NA	"belief"	NA	"response to the main question 'What factors contribute to a successful smoking cessation?'"	"Bottom-right page 447, below table 1."	NA	NA	"selfregulation"	"selfregulation"
+"echer2008.r_willtochangedetermination"	"echer2008.r"	"will to change/determination"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"selfregulation"	"selfregulation"
+"elshatarat2013.r_banonsmokinginpublicplaces"	"elshatarat2013.r"	"Ban on smoking in public places"	"1"	"question"	"logical"	"cessation"	NA	"belief"	NA	"NA"	"Retrieved from Table 4 p. 129, 7th item
+  PAY close attention when processing these results, the results of table 4 are very likely dichotomous,
+but this is NOT explicitly stated in the paper, but can be assumed based on the presentation (especially compared 
+  to table 2, where 'very likely/likely' are specifically mentioned as a way of dichotomisation in presentation
+  only."	NA	NA	"irrelevant"	"irrelevant"
+"elshatarat2013.r_betterforhealthingeneral"	"elshatarat2013.r"	"Better for health in general"	"1"	"question"	"logical"	"cessation"	NA	"belief"	NA	"NA"	"Retrieved from Table 4 p. 129, 1st item
+  PAY close attention when processing these results, the results of table 4 are very likely dichotomous,
+but this is NOT explicitly stated in the paper, but can be assumed based on the presentation (especially compared 
+  to table 2, where 'very likely/likely' are specifically mentioned as a way of dichotomisation in presentation
+  only."	NA	NA	"risk perception"	"risk perception"
+"elshatarat2013.r_doctorsadvice"	"elshatarat2013.r"	"Doctor's advice"	"1"	"question"	"logical"	"cessation"	NA	"belief"	NA	"NA"	"Retrieved from Table 4 p. 129, 8th item
+  PAY close attention when processing these results, the results of table 4 are very likely dichotomous,
+but this is NOT explicitly stated in the paper, but can be assumed based on the presentation (especially compared 
+  to table 2, where 'very likely/likely' are specifically mentioned as a way of dichotomisation in presentation
+  only."	NA	NA	NA	NA
+"elshatarat2013.r_familypressure"	"elshatarat2013.r"	"Family pressure"	"1"	"question"	"logical"	"cessation"	NA	"belief"	NA	"NA"	"Retrieved from Table 4 p. 129, 5th item
+  PAY close attention when processing these results, the results of table 4 are very likely dichotomous,
+but this is NOT explicitly stated in the paper, but can be assumed based on the presentation (especially compared 
+  to table 2, where 'very likely/likely' are specifically mentioned as a way of dichotomisation in presentation
+  only."	NA	NA	NA	NA
+"elshatarat2013.r_financialreasons"	"elshatarat2013.r"	"Financial reasons"	"1"	"question"	"logical"	"cessation"	NA	"belief"	NA	"NA"	"Retrieved from Table 4 p. 129, 4th item
+  PAY close attention when processing these results, the results of table 4 are very likely dichotomous,
+but this is NOT explicitly stated in the paper, but can be assumed based on the presentation (especially compared 
+  to table 2, where 'very likely/likely' are specifically mentioned as a way of dichotomisation in presentation
+  only."	NA	NA	NA	NA
+"elshatarat2013.r_harmschildrenandothers"	"elshatarat2013.r"	"Harms children and others"	"1"	"question"	"logical"	"cessation"	NA	"belief"	NA	"NA"	"Retrieved from Table 4 p. 129, 6th item
+  PAY close attention when processing these results, the results of table 4 are very likely dichotomous,
+but this is NOT explicitly stated in the paper, but can be assumed based on the presentation (especially compared 
+  to table 2, where 'very likely/likely' are specifically mentioned as a way of dichotomisation in presentation
+  only."	NA	NA	NA	NA
+"elshatarat2013.r_lessriskofgettingsmokingrelatedillness"	"elshatarat2013.r"	"Less risk of getting smoking related illness"	"1"	"question"	"logical"	"cessation"	NA	"belief"	NA	"NA"	"Retrieved from Table 4 p. 129, 2nd item
+  PAY close attention when processing these results, the results of table 4 are very likely dichotomous,
+but this is NOT explicitly stated in the paper, but can be assumed based on the presentation (especially compared 
+  to table 2, where 'very likely/likely' are specifically mentioned as a way of dichotomisation in presentation
+  only."	NA	NA	NA	NA
+"elshatarat2013.r_littlebenefittoquitting"	"elshatarat2013.r"	"little benefit to quitting"	"1"	"question"	"numeric"	"cessation"	NA	"belief"	NA	"NA"	"Retrieved from Table 2, p. 128. In Benefits of smoking cessation 3rd item
+  Answers were presented on a scale of 1-10, but are reported in a dichotomized fashion
+  likely/very likely"	NA	NA	NA	NA
+"elshatarat2013.r_presenthealthproblems"	"elshatarat2013.r"	"Present health problems"	"1"	"question"	"logical"	"cessation"	NA	"belief"	NA	"NA"	"Retrieved from Table 4 p. 129, 3rd item
+  PAY close attention when processing these results, the results of table 4 are very likely dichotomous,
+but this is NOT explicitly stated in the paper, but can be assumed based on the presentation (especially compared 
+  to table 2, where 'very likely/likely' are specifically mentioned as a way of dichotomisation in presentation
+  only."	NA	NA	NA	NA
+"elshatarat2013.r_quittingdecreaseshealthproblems"	"elshatarat2013.r"	"quitting decreases health problems"	"1"	"question"	"numeric"	"cessation"	NA	"belief"	NA	"NA"	"Retrieved from Table 2, p. 128. In Benefits of smoking cessation, 1st item
+  Answers were presented on a scale of 1-10, but are reported in a dichotomized fashion
+  likely/very likely"	NA	NA	NA	NA
+"elshatarat2013.r_quittingdecreasesriskheartdisease"	"elshatarat2013.r"	"quitting decreases risk heart disease"	"1"	"question"	"numeric"	"cessation"	NA	"belief"	NA	"NA"	"Retrieved from Table 2, p. 128. In Benefits of smoking cessation, 5th item
+  Answers were presented on a scale of 1-10, but are reported in a dichotomized fashion
+  likely/very likely"	NA	NA	NA	NA
+"elshatarat2013.r_quittingdecreasesrisklungcancer"	"elshatarat2013.r"	"quitting decreases risk lung cancer"	"1"	"question"	"numeric"	"cessation"	NA	"belief"	NA	"NA"	"Retrieved from Table 2, p. 128. In Benefits of smoking cessation, 6th item
+  Answers were presented on a scale of 1-10, but are reported in a dichotomized fashion
+  likely/very likely"	NA	NA	NA	NA
+"elshatarat2013.r_quittingdecreasesriskrespiratorydisease"	"elshatarat2013.r"	"quitting decreases risk respiratory disease"	"1"	"question"	"numeric"	"cessation"	NA	"belief"	NA	"NA"	"Retrieved from Table 2, p. 128. In Benefits of smoking cessation, 4th item
+  Answers were presented on a scale of 1-10, but are reported in a dichotomized fashion
+  likely/very likely"	NA	NA	NA	NA
+"elshatarat2013.r_smokingcausescardiovasculareffects"	"elshatarat2013.r"	"smoking causes cardiovascular effects"	"1"	"question"	"numeric"	"cessation"	NA	"belief"	NA	"NA"	"Retrieved from Table 2, p. 128. In Health hazards of smoking, 2nd item
+  Answers were presented on a scale of 1-10, but are reported in a dichotomized fashion
+  likely/very likely"	NA	NA	NA	NA
+"elshatarat2013.r_smokingcauseslungcancer"	"elshatarat2013.r"	"smoking causes lung cancer"	"1"	"question"	"numeric"	"cessation"	NA	"belief"	NA	"NA"	"Retrieved from Table 2, p. 128. In Health hazards of smoking, 4th item
+  Answers were presented on a scale of 1-10, but are reported in a dichotomized fashion
+  likely/very likely"	NA	NA	NA	NA
+"elshatarat2013.r_smokingcausesotherbodilyeffects"	"elshatarat2013.r"	"smoking causes other bodily effects"	"1"	"question"	"numeric"	"cessation"	NA	"belief"	NA	"NA"	"Retrieved from Table 2, p. 128. In Health hazards of smoking, 5th item
+  Answers were presented on a scale of 1-10, but are reported in a dichotomized fashion
+  likely/very likely"	NA	NA	NA	NA
+"elshatarat2013.r_smokingcausesrespiratorysystemdiseases"	"elshatarat2013.r"	"smoking causes respiratory system diseases"	"1"	"question"	"numeric"	"cessation"	NA	"belief"	NA	"NA"	"Retrieved from Table 2, p. 128. In Health hazards of smoking, 3rd item
+  Answers were presented on a scale of 1-10, but are reported in a dichotomized fashion
+  likely/very likely"	NA	NA	NA	NA
+"elshatarat2013.r_smokingcausesstroke"	"elshatarat2013.r"	"smoking causes stroke"	"1"	"question"	"numeric"	"cessation"	NA	"belief"	NA	"NA"	"Retrieved from Table 2, p. 128. In Health hazards of smoking, 1st item
+  Answers were presented on a scale of 1-10, but are reported in a dichotomized fashion
+  likely/very likely"	NA	NA	NA	NA
+"elshatarat2013.r_smokingharmsmyhealth"	"elshatarat2013.r"	"smoking harms my health"	"1"	"question"	"numeric"	"cessation"	NA	"belief"	NA	"NA"	"Retrieved from Table 2, p. 128. In Benefits of smoking cessation, 2nd item
+  Answers were presented on a scale of 1-10, but are reported in a dichotomized fashion
+  likely/very likely"	NA	NA	NA	NA
+"feng2010.r_intentiontoquit"	"feng2010.r"	"Intention to quit"	"1"	"question"	"ordinal"	"cessation"	"inconsistent"	"proxy"	"NA"	"NA"	"Intentions to quit were based on responses to the question: Do 
+you plan to quit smoking? See heading 'dependent variable' pi7 This question was dichotomized
+  for analysis, furthermore the scale is reversed yes/no rather than no/yes, thus marked inconsistent."	"1 | 2 | 3 | 4"	"In the next month | In the next six months | Sometime in the future | Not at all"	NA	NA
+"feng2010.r_outcomeexpectancy"	"feng2010.r"	"Outcome expectancy"	"1"	"question"	"ordinal"	"cessation"	"NA"	"belief"	"NA"	"NA"	" p.i7 ...was measured using the question: ‘How much do you think you would benefit from health and other
+gains  if  you  were  to  quit  smoking  permanently  in  the  next 6 months?"	"1 | 2 | 3 | 4"	"not at all | a little | very much | don’t know"	NA	NA
+"feng2010.r_overallopinionofsmoking"	"feng2010.r"	"Overall opinion of smoking"	"1"	"question"	"numeric"	"cessation"	"NA"	"belief"	"NA"	"NA"	"p.7 below independent variables. Overall opinion about smoking was measured by asking: 
+  ‘What is your overall opinion of smoking?’. This variable was also coded as a three-category variable 
+  because  of  small  numbers  for  some  categories:  good (very good, good), neither good nor bad and bad (bad, very bad)."	"1 | 2 | 3"	"neither good nor bad | bad | good"	NA	NA
+"feng2010.r_positiveattitudestowardsmoking"	"feng2010.r"	"Positive attitudes toward smoking"	"1"	"question"	"ordinal"	"cessation"	"inconsistent"	"determinant"	"NA"	"NA"	"p. 7 second paragraph below Independent Variables.
+  Favourable attitude towards smoking was measured by asking for rating of agreement with the statement: ‘You enjoy
+smoking too much to give it up’. The variable was coded into a  three-category  variable  because  of  small 
+ numbers  for  some categories: disagree (strongly disagree, disagree), neither disagree nor agree and agree 
+ (agree, strongly agree). "	"1 | 2 | 3"	"neither disagree nor agree | agree | disagree"	NA	NA
+"feng2010.r_worriedaboutfuturehealth"	"feng2010.r"	"Worried about future health"	"1"	"question"	"ordinal"	"cessation"	"NA"	"belief"	"NA"	"NA"	" p. 7 second paragraph below Independent Variables.
+  Worries about health in the future were measured by asking: ‘How worried are you, if at all, that
+smoking  will  damage  your  health  in  the  future?"	"1 | 2 | 3 | 4"	"not at all | a little | very much | don’t know"	NA	NA
+"kleinjan2009.r_everyoneactsunhealthysometimes"	"kleinjan2009.r"	"Everyone acts unhealthy sometimes"	"1"	"question"	"numeric"	"initiation"	"NA"	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"kleinjan2009.r_everythingisunhealthy"	"kleinjan2009.r"	"Everything is unhealthy"	"1"	"question"	"numeric"	"initiation"	"NA"	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"kleinjan2009.r_healthisnottheonlythinginlife"	"kleinjan2009.r"	"Health is not the only thing in life"	"1"	"question"	"numeric"	"initiation"	"NA"	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"kleinjan2009.r_ifitwerereallybaditwouldbeforbidden"	"kleinjan2009.r"	"If it were really bad, it would be forbidden"	"1"	"question"	"numeric"	"initiation"	"NA"	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"kleinjan2009.r_ilivehealthyotherwise"	"kleinjan2009.r"	"I live healthy otherwise"	"1"	"question"	"numeric"	"initiation"	"NA"	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"kleinjan2009.r_knowheavysmokersthatlivedlong"	"kleinjan2009.r"	"Know heavy smokers that lived long"	"1"	"question"	"numeric"	"initiation"	"NA"	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"kleinjan2009.r_medicalsciencewillinventsomething"	"kleinjan2009.r"	"Medical science will invent something"	"1"	"question"	"numeric"	"initiation"	"NA"	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"kleinjan2009.r_noteveryonegetssickthroughsmoking"	"kleinjan2009.r"	"Not everyone gets sick through smoking"	"1"	"question"	"numeric"	"initiation"	"NA"	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"kleinjan2009.r_pollutionisjustasunhealthy"	"kleinjan2009.r"	"Pollution is just as unhealthy"	"1"	"question"	"numeric"	"initiation"	"NA"	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"kleinjan2009.r_quitintention"	"kleinjan2009.r"	"quit intention"	"2"	"question"	"numeric"	"initiation"	"NA"	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"kleinjan2009.r_ratherashortgoodlifethanalongboringlife"	"kleinjan2009.r"	"Rather a short/good life than a long/boring life"	"1"	"question"	"numeric"	"initiation"	"NA"	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"kleinjan2009.r_therearelotsofrisksinlife"	"kleinjan2009.r"	"There are lots of risks in life"	"1"	"question"	"numeric"	"initiation"	"NA"	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"kleinjan2009.r_youhavetodieofsomething"	"kleinjan2009.r"	"You have to die of something"	"1"	"question"	"numeric"	"initiation"	"NA"	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"lazuras2012.r_anticipatedregret"	"lazuras2012.r"	"Anticipated regret"	"1"	"question"	"numeric"	"cessation"	NA	"belief"	NA	NA	"NA"	NA	NA	NA	NA
+"lazuras2012.r_attitudes"	"lazuras2012.r"	"Attitudes"	"1"	"aggregate"	"numeric"	"cessation"	NA	"determinant"	NA	NA	"attitudes to smoking cessation"	NA	NA	NA	NA
+"lazuras2012.r_descriptivenormsquitters"	"lazuras2012.r"	"Descriptive norms - quitters"	"1"	"question"	"numeric"	"cessation"	NA	"belief"	NA	NA	"NA"	NA	NA	NA	NA
+"lazuras2012.r_descriptivenormssmokers"	"lazuras2012.r"	"Descriptive norms - smokers"	"1"	"question"	"numeric"	"cessation"	NA	"belief"	NA	NA	"NA"	NA	NA	NA	NA
+"lazuras2012.r_healthbenefitfromquitting"	"lazuras2012.r"	"Health benefit from quitting"	"1"	"question"	"numeric"	"cessation"	NA	"belief"	NA	NA	"NA"	NA	NA	NA	NA
+"lazuras2012.r_healthriskfromcontinuingsmoking"	"lazuras2012.r"	"Health risk from continuing smoking"	"1"	"question"	"numeric"	"cessation"	NA	"belief"	NA	NA	"NA"	NA	NA	NA	NA
+"lazuras2012.r_quitintention"	"lazuras2012.r"	"Quit intention"	"1"	"question"	"numeric"	"cessation"	NA	"proxy"	NA	NA	"NA"	NA	NA	NA	NA
+"lazuras2012.r_selfefficacy"	"lazuras2012.r"	"Self-efficacy"	"1"	"question"	"numeric"	"cessation"	NA	"determinant"	NA	NA	"NA"	NA	NA	NA	NA
+"lazuras2012.r_subjectivenorms"	"lazuras2012.r"	"Subjective norms"	"1"	"question"	"numeric"	"cessation"	NA	"belief"	NA	NA	"NA"	NA	NA	NA	NA
+"lennox1994.r_perceivedsupportfromfriends"	"lennox1994.r"	"Perceived support from friends"	"1"	"question"	"ordinal"	"cessation"	NA	"belief"	"NA"	"NA"	"NA"	"1 | 2 | 3"	"very/quite helpful | neutral | unhelpful/very unhelpful"	NA	NA
+"lennox1994.r_perceivedsupportfromotherfamilymembers"	"lennox1994.r"	"Perceived support from other family members"	"1"	"question"	"ordinal"	"cessation"	NA	"belief"	"NA"	"NA"	"NA"	"1 | 2 | 3"	"very/quite helpful | neutral | unhelpful/very unhelpful"	NA	NA
+"lennox1994.r_perceivedsupportfrompartner"	"lennox1994.r"	"Perceived support from partner"	"1"	"question"	"ordinal"	"cessation"	NA	"belief"	"NA"	"NA"	"NA"	"1 | 2 | 3"	"very/quite helpful | neutral | unhelpful/very unhelpful"	NA	NA
+"lennox1994.r_perceivedsupportfromworkmates"	"lennox1994.r"	"Perceived support from workmates"	"1"	"question"	"ordinal"	"cessation"	NA	"belief"	"NA"	"NA"	"NA"	"1 | 2 | 3"	"very/quite helpful | neutral | unhelpful/very unhelpful"	NA	NA
+"lennox1994.r_psychosocialsmoker"	"lennox1994.r"	"Psychosocial smoker"	"1"	"question"	"logical"	"cessation"	NA	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"lennox1994.r_smokingincreasesriskofbronchitis"	"lennox1994.r"	"Smoking increases risk of bronchitis"	"1"	"question"	"ordinal"	"cessation"	NA	"belief"	"NA"	"NA"	"NA"	"1 | 2 | 3"	"not at all/a little | quite a lot, very much | don't know"	NA	NA
+"lennox1994.r_smokingincreasesriskofheartdisease"	"lennox1994.r"	"Smoking increases risk of heart disease"	"1"	"question"	"ordinal"	"cessation"	NA	"belief"	"NA"	"NA"	"NA"	"1 | 2 | 3"	"not at all/a little | quite a lot, very much | don't know"	NA	NA
+"lennox1994.r_smokingincreasesriskoflungcancer"	"lennox1994.r"	"Smoking increases risk of lung cancer"	"1"	"question"	"ordinal"	"cessation"	NA	"belief"	"NA"	"NA"	"NA"	"1 | 2 | 3"	"not at all/a little | quite a lot, very much | don't know"	NA	NA
+"lennox1994.r_successfulquitting"	"lennox1994.r"	"Successful quitting"	"1"	"question"	"logical"	"cessation"	NA	"behavior"	"NA"	"NA"	"This variable should be a subsample but is a variable due to the matrix, it might still be wise to 
+  change both successful and unsuccesful quitters from variables to subsamples. I just have no idea of how it'd 
+  be handled in R. They're already declared as subsamples above, which are hashtagged to comments"	NA	NA	NA	NA
+"Maassen2004.r_badforhealth"	"Maassen2004.r"	"Bad for health"	"1"	"question"	"numeric"	"initiation"	"inconsistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"Maassen2004.r_difficulttoquit"	"Maassen2004.r"	"Difficult to quit"	"1"	"question"	"numeric"	"initiation"	"inconsistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"Maassen2004.r_easiertobepartofthecrowd"	"Maassen2004.r"	"Easier to be part of the crowd"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"Maassen2004.r_friendspaymoreattentiontome"	"Maassen2004.r"	"Friends pay more attention to me"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"Maassen2004.r_helpscalmnerves"	"Maassen2004.r"	"Helps calm nerves"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"Maassen2004.r_helpsconcentrateinclass"	"Maassen2004.r"	"Helps concentrate in class"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"Maassen2004.r_helpsfeelconfidentincompany"	"Maassen2004.r"	"Helps feel confident in company"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"Maassen2004.r_helpskeepslim"	"Maassen2004.r"	"Helps keep slim"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"Maassen2004.r_helpsrelax"	"Maassen2004.r"	"Helps relax"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"Maassen2004.r_intentiontosmokenextyear"	"Maassen2004.r"	"Intention to smoke next year"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"Maassen2004.r_isstupidofme"	"Maassen2004.r"	"Is stupid of me"	"1"	"question"	"numeric"	"initiation"	"inconsistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"Maassen2004.r_iswrong"	"Maassen2004.r"	"Is wrong"	"1"	"question"	"numeric"	"initiation"	"inconsistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"Maassen2004.r_itsokifnotinhaled"	"Maassen2004.r"	"It's ok if not inhaled"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"risk perception"	"risk perception"
+"Maassen2004.r_onlyharmfulifyousmokealot"	"Maassen2004.r"	"Only harmful if you smoke a lot"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"risk perception"	"risk perception"
+"Maassen2004.r_percievedbehaviorbestfriendsmokes"	"Maassen2004.r"	"Percieved behavior - best friend smokes"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"descriptive norm"	"descriptive norm"
+"Maassen2004.r_percievedbehaviorbrothersmokes"	"Maassen2004.r"	"Percieved behavior - brother smokes"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"descriptive norm"	"descriptive norm"
+"Maassen2004.r_percievedbehaviorfathersmokes"	"Maassen2004.r"	"Percieved behavior - father smokes"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"descriptive norm"	"descriptive norm"
+"Maassen2004.r_percievedbehaviormostfriendssmoke"	"Maassen2004.r"	"Percieved behavior - most friends smoke"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"descriptive norm"	"descriptive norm"
+"Maassen2004.r_percievedbehaviormothersmokes"	"Maassen2004.r"	"Percieved behavior - mother smokes"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"descriptive norm"	"descriptive norm"
+"Maassen2004.r_percievedbehaviorsistersmokes"	"Maassen2004.r"	"Percieved behavior - sister smokes"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"descriptive norm"	"descriptive norm"
+"Maassen2004.r_percievedbehaviorteachersmokes"	"Maassen2004.r"	"Percieved behavior - teacher smokes"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"descriptive norm"	"descriptive norm"
+"Maassen2004.r_safetosmokeforayearortwo"	"Maassen2004.r"	"Safe to smoke for a year or two"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"risk perception"	"risk perception"
+"Maassen2004.r_selfefficacywhendoinghomework"	"Maassen2004.r"	"Self efficacy when doing homework"	"1"	"question"	"numeric"	"initiation"	"inconsistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"self-efficacy"	"self-efficacy"
+"Maassen2004.r_selfefficacywhennervous"	"Maassen2004.r"	"Self efficacy when nervous"	"1"	"question"	"numeric"	"initiation"	"inconsistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"self-efficacy"	"self-efficacy"
+"Maassen2004.r_selfefficacywhenofferedacigarette"	"Maassen2004.r"	"Self efficacy when offered a cigarette"	"1"	"question"	"numeric"	"initiation"	"inconsistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"self-efficacy"	"self-efficacy"
+"Maassen2004.r_selfefficacywhenonthewayhomefromschool"	"Maassen2004.r"	"Self efficacy when on the way home from school"	"1"	"question"	"numeric"	"initiation"	"inconsistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"self-efficacy"	"self-efficacy"
+"Maassen2004.r_selfefficacywhenupset"	"Maassen2004.r"	"Self efficacy when upset"	"1"	"question"	"numeric"	"initiation"	"inconsistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"self-efficacy"	"self-efficacy"
+"Maassen2004.r_selfefficacywithsmokingfriends"	"Maassen2004.r"	"Self efficacy with smoking friends"	"1"	"question"	"numeric"	"initiation"	"inconsistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"self-efficacy"	"self-efficacy"
+"Maassen2004.r_smokefromotherpeopleisharmful"	"Maassen2004.r"	"Smoke from other people is harmful"	"1"	"question"	"numeric"	"initiation"	"inconsistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"risk perception"	"risk perception"
+"Maassen2004.r_smokers"	"Maassen2004.r"	"Smokers"	"1"	"question"	"numeric"	"initiation"	"consistent"	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	"behavior"	"behavior"
+"Maassen2004.r_smoking"	"Maassen2004.r"	"smoking"	"1"	"question"	"logical"	"initiation"	"consistent"	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	"behavior"	"behavior"
+"Maassen2004.r_smokingharmshealth"	"Maassen2004.r"	"Smoking harms health"	"1"	"question"	"numeric"	"initiation"	"inconsistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"risk perception"	"risk perception"
+"Maassen2004.r_smokingispleasant"	"Maassen2004.r"	"smoking is pleasant"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"attitude"	"attitude"
+"Maassen2004.r_socialnormbestfriend"	"Maassen2004.r"	"Social norm best friend"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"subjective norms"	"subjective norms"
+"Maassen2004.r_socialnormbrother"	"Maassen2004.r"	"Social norm brother"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"subjective norms"	"subjective norms"
+"Maassen2004.r_socialnormfather"	"Maassen2004.r"	"Social norm father"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"subjective norms"	"subjective norms"
+"Maassen2004.r_socialnormfriends"	"Maassen2004.r"	"Social norm friends"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"subjective norms"	"subjective norms"
+"Maassen2004.r_socialnormmother"	"Maassen2004.r"	"Social norm mother"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"subjective norms"	"subjective norms"
+"Maassen2004.r_socialnormsister"	"Maassen2004.r"	"Social norm sister"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"subjective norms"	"subjective norms"
+"Maassen2004.r_socialnormteacher"	"Maassen2004.r"	"Social norm teacher"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"subjective norms"	"subjective norms"
+"Maassen2004.r_socialpressurebestfriend"	"Maassen2004.r"	"Social pressure best friend"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"injunctive norm"	"injunctive norm"
+"Maassen2004.r_socialpressurebrother"	"Maassen2004.r"	"Social pressure brother"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"injunctive norm"	"injunctive norm"
+"Maassen2004.r_socialpressurefather"	"Maassen2004.r"	"social pressure father"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"injunctive norm"	"injunctive norm"
+"Maassen2004.r_socialpressuremother"	"Maassen2004.r"	"social pressure mother"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"injunctive norm"	"injunctive norm"
+"Maassen2004.r_socialpressuresister"	"Maassen2004.r"	"Social pressure sister"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"injunctive norm"	"injunctive norm"
+"Maassen2004.r_socialpressureteacher"	"Maassen2004.r"	"Social pressure teacher"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"injunctive norm"	"injunctive norm"
+"Maassen2004.r_sorryieverstarted"	"Maassen2004.r"	"Sorry I ever started"	"1"	"question"	"numeric"	"initiation"	"inconsistent"	"determinant"	"NA"	"NA"	"NA"	"NA"	"NA"	"Anticipated regret"	"Anticipated regret"
+"Maassen2004.r_tasteshorrible"	"Maassen2004.r"	"Tastes horrible"	"1"	"question"	"numeric"	"initiation"	"inconsistent"	"determinant"	"NA"	"NA"	"NA"	"NA"	"NA"	"attitude"	"attitude"
+"martin2006.r_barrierstoquitting"	"martin2006.r"	"barriers to quitting"	"1"	"aggregate"	"numeric"	"cessation"	"inconsistent"	"behavior"	NA	"BQS-SAT score"	"an 11-item true-false instrument of perceived
+  barriers to quitting smoking (Asher et al., 2003). "	NA	NA	"self-efficacy"	"self-efficacy"
+"martin2006.r_motivationtoquit"	"martin2006.r"	"motivation to quit"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"behavior"	NA	"effectively the Contemplation Ladder"	"retrieved from page 74, under section 2.3, measures"	NA	NA	"intention"	"intention"
+"martin2006.r_selfefficacy"	"martin2006.r"	"self-efficacy"	"1"	"question"	"numeric"	"cessation"	"consistent"	"behavior"	"NA"	"NA"	"NA"	NA	NA	"self-efficacy"	"self-efficacy"
+"miller2006.r_bestfriendssmokingstatus"	"miller2006.r"	"Best friend's smoking status"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"miller2006.r_experimentation"	"miller2006.r"	"experimentation"	"1"	"question"	"logical"	"initiation"	"consistent"	"behavior"	"NA"	"NA"	"Experimentation: This predictor was entered as adum-
+my variable based on the participants yes/no response to the
+item, Have you ever experimented with cigarette smoking,
+even a few puffs? retrieved from page 244"	"NA"	"NA"	NA	NA
+"miller2006.r_noofbestfriendsusingtobacco"	"miller2006.r"	"no. of best friends using tobacco"	"1"	"question"	"numeric"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"miller2006.r_reactance"	"miller2006.r"	"reactance"	"1"	"aggregate"	"numeric"	"initiation"	"consistent"	"determinant"	"NA"	"NA"	" Psychological Reactance: This was computed from
+  the means of four items from the Hong Rebelliousness Scale, 
+  retrieved from left column p. 245"	"NA"	"NA"	NA	NA
+"miller2006.r_susceptibilitytoinitiation"	"miller2006.r"	"susceptibility to initiation"	"1"	"aggregate"	"numeric"	"initiation"	"consistent"	"determinant"	"NA"	"NA"	"Susceptibility was computed from two measures 
+assessing the relative strength of the participants resolve
+not to smoke: Do you think you might smoke a cigarette
+soon? and Ifoneofyourbestfriendsofferedyouacigarette,
+doyouthinkyoumightsmokeit? Both items were measured
+on a 4-point Likert-type scale anchored by 1 (definitely yes)
+and 4 (definitely no),and included refused and don't know
+options. retrieved from right column p. 245"	"NA"	"NA"	NA	NA
+"myung2012.r_degreeofdifficultyinquitting"	"myung2012.r"	"Degree of difficulty in quitting"	"1"	"question"	"numeric"	"cessation"	NA	"belief"	NA	"NA"	"retrieved from page 22, section Smoking Related Beliefs"	NA	NA	NA	NA
+"myung2012.r_healthdamagefromsmoking"	"myung2012.r"	"Health damage from smoking"	"1"	"question"	"numeric"	"cessation"	NA	"belief"	NA	"NA"	"retrieved from page 22, section Smoking Related Beliefs"	NA	NA	NA	NA
+"myung2012.r_intentiontoquit"	"myung2012.r"	"Intention to quit"	"1"	"question"	"numeric"	"cessation"	NA	"proxy"	NA	"NA"	"retrieved from page 22, section Smoking Related Beliefs"	NA	NA	NA	NA
+"myung2012.r_medicalevidenceisexaggerated"	"myung2012.r"	"Medical evidence is exaggerated"	"1"	"question"	"numeric"	"cessation"	NA	"belief"	NA	"NA"	"retrieved from page 22, section Smoking Related Beliefs"	NA	NA	NA	NA
+"myung2012.r_selfefficacyregardingquittingsmoking"	"myung2012.r"	"Self-efficacy regarding quitting smoking"	"1"	"question"	"numeric"	"cessation"	NA	"belief"	NA	"NA"	"retrieved from page 22, section Smoking Related Beliefs"	NA	NA	NA	NA
+"myung2012.r_smokingisnoriskierthanmanyotherthings"	"myung2012.r"	"Smoking is no riskier than many other things"	"1"	"question"	"numeric"	"cessation"	NA	"belief"	NA	"NA"	"retrieved from page 22, section Smoking Related Beliefs"	NA	NA	NA	NA
+"myung2012.r_youvegottodieofsomething"	"myung2012.r"	"You've got to die of something"	"1"	"question"	"numeric"	"cessation"	NA	"belief"	NA	"NA"	"retrieved from page 22, section Smoking Related Beliefs"	NA	NA	"risk perception"	"risk perception"
+"nandemin2010.r_addictionphysicalandpsychological"	"nandemin2010.r"	"Addiction - physical and psychological"	NA	"question"	"text"	"cessation"	NA	"belief"	NA	"NA"	"NA"	NA	NA	"irrelevant"	"irrelevant"
+"nandemin2010.r_appetitesuppressionandweight"	"nandemin2010.r"	"Appetite suppression and weight"	NA	"question"	"text"	"cessation"	NA	"belief"	NA	"NA"	"NA"	NA	NA	"attitude"	"attitude"
+"nandemin2010.r_attentiontoalcoholandsmoking"	"nandemin2010.r"	"Attention to alcohol and smoking"	NA	"question"	"text"	"cessation"	NA	"belief"	NA	"NA"	"NA"	NA	NA	"attentional bias"	"attentional bias"
+"nandemin2010.r_buddysystems"	"nandemin2010.r"	"Buddy-systems"	NA	"question"	"text"	"cessation"	NA	"belief"	NA	"NA"	"NA"	NA	NA	"external factor"	"external factor"
+"nandemin2010.r_exercise"	"nandemin2010.r"	"Exercise"	NA	"question"	"text"	"cessation"	NA	"belief"	NA	"NA"	"NA"	NA	NA	"external factor"	"external factor"
+"nandemin2010.r_groupbasedmeetings"	"nandemin2010.r"	"Group based meetings"	NA	"question"	"text"	"cessation"	NA	"belief"	NA	"NA"	"NA"	NA	NA	"external factor"	"external factor"
+"nandemin2010.r_inspirationalmotivation"	"nandemin2010.r"	"Inspirational motivation"	NA	"question"	"text"	"cessation"	NA	"belief"	NA	"NA"	"NA"	NA	NA	"external factor"	"external factor"
+"nandemin2010.r_interventionshouldbefun"	"nandemin2010.r"	"Intervention should be fun"	NA	"question"	"text"	"cessation"	NA	"belief"	NA	"NA"	"NA"	NA	NA	"irrelevant"	"irrelevant"
+"nandemin2010.r_lecturingshouldbeavoided"	"nandemin2010.r"	"Lecturing should be avoided"	NA	"question"	"text"	"cessation"	NA	"belief"	NA	"NA"	"NA"	NA	NA	"irrelevant"	"irrelevant"
+"nandemin2010.r_overalhealthybehaviorshouldbepromotedalongsideintervention"	"nandemin2010.r"	"Overal healthy behavior should be promoted alongside intervention"	NA	"question"	"text"	"cessation"	NA	"belief"	NA	"NA"	"NA"	NA	NA	"irrelevant"	"irrelevant"
+"nandemin2010.r_pairingofalcoholandcigarettes"	"nandemin2010.r"	"Pairing of alcohol and cigarettes"	NA	"question"	"text"	"cessation"	NA	"belief"	NA	"NA"	"NA"	NA	NA	"attitude"	"attitude"
+"nandemin2010.r_peerinfluence"	"nandemin2010.r"	"Peer influence"	NA	"question"	"text"	"cessation"	NA	"belief"	NA	"NA"	"NA"	NA	NA	"subjective norms"	"subjective norms"
+"nandemin2010.r_projectedsocialimage"	"nandemin2010.r"	"Projected social image"	NA	"question"	"text"	"cessation"	NA	"belief"	NA	"NA"	"NA"	NA	NA	"injunctive norm"	"injunctive norm"
+"nandemin2010.r_stressmanagementandrelaxation"	"nandemin2010.r"	"Stress management and relaxation"	NA	"question"	"text"	"cessation"	NA	"belief"	NA	"NA"	"NA"	NA	NA	"attitude"	"attitude"
+"nandemin2010.r_support"	"nandemin2010.r"	"Support"	NA	"question"	"text"	"cessation"	NA	"belief"	NA	"NA"	"NA"	NA	NA	"external factor"	"external factor"
+"nandemin2010.r_timemanagementegboredom"	"nandemin2010.r"	"Time management e.g. boredom"	NA	"question"	"text"	"cessation"	NA	"belief"	NA	"NA"	"NA"	NA	NA	"attitude"	"attitude"
+"oh2010.r_ibelievedicouldquitwheneveriwantedto"	"oh2010.r"	"I believed I could quit whenever I wanted to"	"1"	"question"	"text"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"disengagement beliefs"	"disengagement beliefs"
+"oh2010.r_ithelpedmemanagemystress"	"oh2010.r"	"It helped me manage my stress"	"1"	"question"	"text"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"attitude"	"attitude"
+"oh2010.r_iwaslessdepressedwhenismoked"	"oh2010.r"	"I was less depressed when I smoked"	"1"	"question"	"text"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"attitude"	"attitude"
+"oh2010.r_iwasnotworriedabouthealtheffects"	"oh2010.r"	"I was not worried about health effects"	"1"	"question"	"text"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"risk perception"	"risk perception"
+"oh2010.r_myfriendsapprovedofmysmoking"	"oh2010.r"	"My friends approved of my smoking"	"1"	"question"	"text"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"injunctive norm"	"injunctive norm"
+"oh2010.r_myfriendssmoked"	"oh2010.r"	"my friends smoked"	"1"	"question"	"text"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"descriptive norm"	"descriptive norm"
+"oh2010.r_other"	"oh2010.r"	"other"	"1"	"question"	"text"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"irrelevant"	"irrelevant"
+"oh2010.r_smokingmademelookmorecool"	"oh2010.r"	"Smoking made me look more cool"	"1"	"question"	"text"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"injunctive norm"	"injunctive norm"
+"oh2010.r_tobaccoadvertisingwasattractivetome"	"oh2010.r"	"Tobacco advertising was attractive to me"	"1"	"question"	"text"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"attitude"	"attitude"
+"oh2010.r_weightconcerns"	"oh2010.r"	"Weight concerns"	"1"	"question"	"text"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	"attitude"	"attitude"
+"panday2005.r_attitudecons"	"panday2005.r"	"attitude cons"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from table V."	"NA"	"NA"	"attitude"	"attitude"
+"panday2005.r_bestfriendnonsmoking"	"panday2005.r"	"best friend non-smoking"	"1"	"question"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from table V."	"NA"	"NA"	"descriptive norm"	"descriptive norm"
+"panday2005.r_brothernonsmoking"	"panday2005.r"	"brother non-smoking"	"1"	"question"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from table V."	"NA"	"NA"	"descriptive norm"	"descriptive norm"
+"panday2005.r_consofsmoking"	"panday2005.r"	"Cons of smoking"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from table III."	"NA"	"NA"	"attitude"	"attitude"
+"panday2005.r_intentionnottosmoke"	"panday2005.r"	"intention not to smoke"	"1"	"question"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from table V."	"NA"	"NA"	"intention"	"intention"
+"panday2005.r_intentionnottosmokewithinnextyear"	"panday2005.r"	"Intention not to smoke within next year"	"1"	"question"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from table III. Question-type based on explanation on page 591"	"NA"	"NA"	"intention"	"intention"
+"panday2005.r_perceivedbehaviorofimportantothers"	"panday2005.r"	"Perceived behavior of important others"	"1"	"aggregate"	"logical"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from table III."	"NA"	"NA"	"descriptive norm"	"descriptive norm"
+"panday2005.r_prosofsmoking"	"panday2005.r"	"Pros of smoking"	"1"	"aggregate"	"numeric"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"retrieved from table III."	"NA"	"NA"	"attitude"	"attitude"
+"panday2005.r_selfefficacynottosmoke"	"panday2005.r"	"self-efficacy not to smoke"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"determinant"	"NA"	"NA"	"retrieved from table V."	"NA"	"NA"	"self-efficacy"	"self-efficacy"
+"panday2005.r_selfefficacyroutine"	"panday2005.r"	"Self efficacy - routine"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from table III."	"NA"	"NA"	"self-efficacy"	"self-efficacy"
+"panday2005.r_selfefficacysocial"	"panday2005.r"	"Self efficacy - social"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from table III."	"NA"	"NA"	"self-efficacy"	"self-efficacy"
+"panday2005.r_selfefficacystress"	"panday2005.r"	"Self efficacy - stress"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from table III."	"NA"	"NA"	"self-efficacy"	"self-efficacy"
+"panday2005.r_smokingstatus"	"panday2005.r"	"smoking status"	"1"	"question"	"logical"	"cessation"	"consistent"	"behavior"	"NA"	"NA"	"retrieved from table V."	"NA"	"NA"	"behavior"	"behavior"
+"panday2005.r_socialnonsmokingpressurefamily"	"panday2005.r"	"Social nonsmoking pressure family"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from table III."	"NA"	"NA"	"injunctive norm"	"injunctive norm"
+"panday2005.r_socialnonsmokingpressurefriends"	"panday2005.r"	"Social nonsmoking pressure friends"	"1"	"question"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from table III. Question-type based on explanation on page 590"	"NA"	"NA"	"injunctive norm"	"injunctive norm"
+"panday2005.r_socialnonsmokingpressureteachers"	"panday2005.r"	"Social nonsmoking pressure teachers"	"1"	"question"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from table III. Question-type based on explanation on page 590"	"NA"	"NA"	"injunctive norm"	"injunctive norm"
+"panday2005.r_socialnormfamily"	"panday2005.r"	"Social norm family"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from table III."	"NA"	"NA"	"subjective norms"	"subjective norms"
+"panday2005.r_socialnormfriends"	"panday2005.r"	"Social norm friends"	"1"	"question"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from table III. Question-type based on explanation on page 590"	"NA"	"NA"	"subjective norms"	"subjective norms"
+"panday2005.r_socialnormteachers"	"panday2005.r"	"Social norm teachers"	"1"	"question"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from table III. Question-type based on explanation on page 590"	"NA"	"NA"	"subjective norms"	"subjective norms"
+"panday2005.r_socialpressurenottosmoke"	"panday2005.r"	"social pressure not to smoke"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from table V."	"NA"	"NA"	"injunctive norm"	"injunctive norm"
+"Pederson1984.r_concernoverdisease"	"Pederson1984.r"	"Concern over disease"	"1"	"question"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"datatype based on report in mid-right column of page 575."	"NA"	"NA"	"risk perception"	"risk perception"
+"Pederson1984.r_efficacyofsmokingcessation"	"Pederson1984.r"	"Efficacy of smoking cessation"	"1"	"question"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"datatype based on report in mid-right column of page 575."	"NA"	"NA"	"response efficacy"	"response efficacy"
+"Pederson1984.r_likelihoodthatsmokingiscausingchestproblem"	"Pederson1984.r"	"Likelihood that smoking is causing chest problem"	"1"	"question"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"datatype based on report in mid-right column of page 575."	"NA"	"NA"	"risk perception"	"risk perception"
+"Pederson1984.r_perceivedseverity"	"Pederson1984.r"	"Perceived severity"	"1"	"question"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"datatype based on report in mid-right column of page 575."	"NA"	"NA"	"risk perception"	"risk perception"
+"Pederson1984.r_quitting"	"Pederson1984.r"	"Quitting"	"1"	"question"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"datatype based on report in mid-right column of page 575."	"NA"	"NA"	"behavior"	"behavior"
+"peters2011.r_activitiesrapcontest"	"peters2011.r"	"activities/rap contest"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"If there were an ideal program that would help students"	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_aesthetics"	"peters2011.r"	"Aesthetics"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"response to: What do you think about ''quit smoking'' programs?"	"NA"	NA	NA	"attitude"	"attitude"
+"peters2011.r_affectedsourcedirectcommunication"	"peters2011.r"	"affected source/direct communication"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"If there were an ideal program that would help students"	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_affectedsourceofcommunication"	"peters2011.r"	"affected source of communication"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"What could health professionals do as a motivator or incentive"	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_attractivesourcedirectcommunication"	"peters2011.r"	"attractive source/direct communication"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"If there were an ideal program that would help students"	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_attractivesourceofcommunication"	"peters2011.r"	"attractive source of communication"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"What could health professionals do as a motivator or incentive"	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_awarenessofdecliningpersonalfitnessaidscessation"	"peters2011.r"	"Awareness of declining personal fitness aids cessation"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"retrieved from table 1."	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_causessmoking"	"peters2011.r"	"causes smoking"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"What do you think about ''quit smoking'' programs?"	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_cessationprogrammesaremoreenjoyableiftheyinvolvefunactivities"	"peters2011.r"	"Cessation programmes are more enjoyable if they involve fun activities"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"retrieved from table 1."	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_cessationprogrammeswithoutfunactivitiesareboringandarentinvitingtolearn"	"peters2011.r"	"Cessation programmes without fun activities are boring and aren't inviting to learn"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"retrieved from table 1."	"NA"	NA	NA	NA	NA
+"peters2011.r_communicationbyaffectedsourcescouldaidrecruitmentforcessationprogrammes"	"peters2011.r"	"Communication by affected sources could aid recruitment for cessation programmes"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"retrieved from table 1."	"NA"	NA	NA	NA	NA
+"peters2011.r_currentcessationprogrammesonlytalkaboutcigarettesnotlifeexperiences"	"peters2011.r"	"Current cessation programmes only talk about cigarettes, not life experiences"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"retrieved from table 1."	"NA"	NA	NA	NA	NA
+"peters2011.r_damagetopersonalhealth"	"peters2011.r"	"Damage to personal health"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"retrieved from table 1."	"NA"	NA	NA	NA	NA
+"peters2011.r_directcommunication"	"peters2011.r"	"direct communication"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"What could health professionals do as a motivator or incentive"	"NA"	NA	NA	NA	NA
+"peters2011.r_directcommunicationabouthazardsfromaffectedsource"	"peters2011.r"	"Direct communication about hazards from affected source"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"retrieved from table 1."	"NA"	NA	NA	NA	NA
+"peters2011.r_directcommunicationbyattractivesource"	"peters2011.r"	"Direct communication by attractive source"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"retrieved from table 1."	"NA"	NA	NA	NA	NA
+"peters2011.r_dontknow"	"peters2011.r"	"Don't know"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"response to: What do you think about ''quit smoking'' programs?"	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_encouragement"	"peters2011.r"	"encouragement"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"What would your peers think about you if you tried to stop smoking?"	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_encouragementwithoutpressureaidscessation"	"peters2011.r"	"Encouragement without pressure aids cessation"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"retrieved from table 1."	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_environmentalchange"	"peters2011.r"	"environmental change"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"What would personally motivate you to stop smoking?"	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_familysickness"	"peters2011.r"	"Family sickness"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"response to: What do you think about ''quit smoking'' programs?"	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_foodfunactivities"	"peters2011.r"	"food/fun activities"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"If there were an ideal program that would help students"	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_givepeoplerealtruthfulinformationabouttheimportanceofcessation"	"peters2011.r"	"Give people real, truthful information about the importance of cessation"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"retrieved from table 1."	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_ifiknewmyyoungersistersmokedthatwouldaidmycessation"	"peters2011.r"	"If I knew my younger sister smoked -that would aid my cessation-"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"retrieved from table 1."	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_lackactivities"	"peters2011.r"	"lack activities"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"What do you think about ''quit smoking'' programs?"	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_music"	"peters2011.r"	"music"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"If there were an ideal program that would help students"	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_neverthoughtaboutit"	"peters2011.r"	"Never thought about it"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"response to: What do you think about ''quit smoking'' programs?"	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_nonsupportive"	"peters2011.r"	"non-supportive"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"What would your peers think about you if you tried to stop smoking?"	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_nonsupportivecommentsfromtheenvironmentarediscouraging"	"peters2011.r"	"Non-supportive comments from the environment are discouraging"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"retrieved from table 1."	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_noteffective"	"peters2011.r"	"not effective"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"What do you think about ''quit smoking'' programs?"	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_notlikingthewayyousmellaidscessation"	"peters2011.r"	"Not liking the way you smell aids cessation"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"retrieved from table 1."	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_organizeyouthactivitiesrapbattleaboutnonsmokingandpositiveactivities"	"peters2011.r"	"Organize youth activities  - rap battle- about non-smoking and positive activities"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"retrieved from table 1."	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_parentalcessation"	"peters2011.r"	"parental cessation"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"What would personally motivate you to stop smoking?"	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_parentalcessationcouldbeencouraging"	"peters2011.r"	"Parental cessation could be encouraging"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"retrieved from table 1."	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_parentalencouragement"	"peters2011.r"	"parental encouragement"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"What would personally motivate you to stop smoking?"	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_parentalencouragementaidescessation"	"peters2011.r"	"Parental encouragement aides cessation"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"retrieved from table 1."	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_partnerencouragement"	"peters2011.r"	"partner encouragement"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"What would personally motivate you to stop smoking?"	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_partnerencouragementmotivatestoquit"	"peters2011.r"	"Partner encouragement motivates to quit"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"retrieved from table 1."	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_peerpressure"	"peters2011.r"	"Peer pressure"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"response to: What do you think about ''quit smoking'' programs?"	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_peerpressurefromfriendsencouragestoquit"	"peters2011.r"	"Peer pressure from friends encourages to quit"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"retrieved from table 1."	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_personalfitness"	"peters2011.r"	"Personal fitness"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"response to: What do you think about ''quit smoking'' programs?"	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_personalhealth"	"peters2011.r"	"personal health"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"What would personally motivate you to stop smoking?"	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_professionalsourcesofcommunication"	"peters2011.r"	"professional sources of communication"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"What could health professionals do as a motivator or incentive"	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_realinformation"	"peters2011.r"	"real information"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"What could health professionals do as a motivator or incentive"	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_recruitmentforcessationprogrammebyattractivesource"	"peters2011.r"	"Recruitment for cessation programme by attractive source"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"retrieved from table 1."	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_recruitmentshouldhappenfacetofacesoquestionscanbeanswered"	"peters2011.r"	"Recruitment should happen face to face so questions can be answered"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"retrieved from table 1."	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_seeingillrelativesaidscessation"	"peters2011.r"	"Seeing ill relatives aids cessation"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"retrieved from table 1."	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_selfcontrol"	"peters2011.r"	"Self-control"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"response to: What do you think about ''quit smoking'' programs?"	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_talksandrecruitmentbyphysicians"	"peters2011.r"	"Talks and recruitment by physicians"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"retrieved from table 1."	"NA"	NA	NA	"peripheral"	"peripheral"
+"peters2011.r_tobaccoawarenessprogrammesdontdoanythingareboringandcausedesiretosmoke"	"peters2011.r"	"Tobacco awareness programmes don't do anything, are boring and cause desire to smoke"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"retrieved from table 1."	"NA"	NA	NA	NA	NA
+"peters2011.r_unknown"	"peters2011.r"	"unknown"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"What would your peers think about you if you tried to stop smoking?"	"NA"	NA	NA	NA	NA
+"peters2011.r_wantingmorecontrolinlife"	"peters2011.r"	"Wanting more control in life"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"retrieved from table 1."	"NA"	NA	NA	NA	NA
+"peters2011.r_youngerfamilysmokes"	"peters2011.r"	"younger family smokes"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"What would personally motivate you to stop smoking?"	"NA"	NA	NA	NA	NA
+"pletsch2003.r_personaldesireisrequiredtoquit"	"pletsch2003.r"	"Personal desire is required to quit"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"pletsch2003.r_smokingrelievesstress"	"pletsch2003.r"	"Smoking relieves stress"	"1"	"question"	"text"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"pletsch2003.r_stressfromviolentenvironmentneighbourhood"	"pletsch2003.r"	"Stress from violent environment/neighbourhood"	"1"	"question"	"text"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"pletsch2003.r_stressfulfamilysituation"	"pletsch2003.r"	"Stressful family situation"	"1"	"question"	"text"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"pletsch2003.r_stressincreasesneedtosmoke"	"pletsch2003.r"	"Stress increases need to smoke"	"1"	"question"	"text"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"pletsch2003.r_willpowerisrequiredtoquit"	"pletsch2003.r"	"Willpower is required to quit"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"pletsch2003.r_worryabouthealthproblems"	"pletsch2003.r"	"Worry about health problems"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"pletsch2003.r_youcandoitifyouwantto"	"pletsch2003.r"	"You can do it if you want to"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"pletsch2003.r_youhavetobereadytoquit"	"pletsch2003.r"	"You have to be ready to quit"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"rijt2004.r_attitudetowardsscts"	"rijt2004.r"	"attitude towards SCTs"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"determinant"	"NA"	"NA"	"based on report in section 2.2, size/variation in scale unknown.  measurements. p.194"	"NA"	"NA"	NA	NA
+"rijt2004.r_cessationreadiness"	"rijt2004.r"	"cessation readiness"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"determinant"	"NA"	"NA"	"based on report in section 2.2, size/variation in scale unknown.  measurements. p.194"	"NA"	"NA"	NA	NA
+"rijt2004.r_consofabstinence"	"rijt2004.r"	"cons of abstinence,"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"determinant"	"NA"	"NA"	"based on report in section 2.2, size/variation in scale unknown.  measurements. p.194"	"NA"	"NA"	NA	NA
+"rijt2004.r_experiencedsocialstimulationforabstinence"	"rijt2004.r"	"experienced social stimulation for abstinence"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"determinant"	"NA"	"NA"	"based on report in section 2.2, size/variation in scale unknown.  measurements. p.194"	"NA"	"NA"	NA	NA
+"rijt2004.r_prosofabstinence"	"rijt2004.r"	"pros of abstinence"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"determinant"	"NA"	"NA"	"based on report in section 2.2, size/variation in scale unknown.  measurements. p.194"	"NA"	"NA"	NA	NA
+"rijt2004.r_selfefficacyforabstinence"	"rijt2004.r"	"self-efficacy for abstinence"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"determinant"	"NA"	"NA"	"based on report in section 2.2, size/variation in scale unknown.  measurements. p.194"	"NA"	"NA"	NA	NA
+"rohde2003.r_anysiblingsmoking"	"rohde2003.r"	"any sibling smoking"	"1"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"rohde2003.r_initiation"	"rohde2003.r"	"initiation"	"1"	"question"	"logical"	"initiation"	"consistent"	"behavior"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"rohde2003.r_maternalsmoking"	"rohde2003.r"	"maternal smoking"	"1"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"rohde2003.r_paternalsmoking"	"rohde2003.r"	"paternal smoking"	"1"	"question"	"logical"	"initiation"	"consistent"	"belief"	"NA"	"NA"	"NA"	"NA"	"NA"	NA	NA
+"Salih1996.r_aesthetics"	"Salih1996.r"	"aesthetics"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from 2nd full paragraph, left column p. 24"	"NA"	"NA"	NA	NA
+"Salih1996.r_cessationstatus"	"Salih1996.r"	"cessation status"	"1"	"question"	"logical"	"cessation"	"consistent"	"behavior"	"NA"	"NA"	"measured by rate of recidivism, 6months post interview/clinical program
+  retrieved from page 24, bottom left/top right column. dichotomy assumed..."	NA	NA	NA	NA
+"Salih1996.r_examplesetting"	"Salih1996.r"	"example setting"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from 2nd full paragraph, left column p. 24"	NA	NA	NA	NA
+"Salih1996.r_health"	"Salih1996.r"	"health"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from 2nd full paragraph, left column p. 24"	NA	NA	NA	NA
+"Salih1996.r_iamcapableofstopping"	"Salih1996.r"	"I am capable of stopping"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from 3rd full paragraph, left column p. 24"	"NA"	"NA"	NA	NA
+"Salih1996.r_quittingisimportant"	"Salih1996.r"	"quitting is important"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from 3rd full paragraph, left column p. 24"	"NA"	"NA"	NA	NA
+"Salih1996.r_quittingispersonallyrelevant"	"Salih1996.r"	"quitting is personally relevant"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from 3rd full paragraph, left column p. 24"	"NA"	"NA"	NA	NA
+"Salih1996.r_selfcontrol"	"Salih1996.r"	"self-control"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from 2nd full paragraph, left column p. 24"	"NA"	"NA"	NA	NA
+"Salih1996.r_stoppingisvaluable"	"Salih1996.r"	"stopping is valuable"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from 3rd full paragraph, left column p. 24"	"NA"	"NA"	NA	NA
+"schnoll2011.r_cravingnegativereinforcement"	"schnoll2011.r"	"Craving-Negative Reinforcement"	"1"	"aggregate"	"numeric"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"measures retrieved from page 327 bottom left/top right paragraph"	NA	NA	NA	NA
+"schnoll2011.r_cravingpositivereinforcement"	"schnoll2011.r"	"Craving-Positive Reinforcement"	"1"	"aggregate"	"numeric"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"measures retrieved from page 327, 
+   right column, from the 25-item shiffman scale.
+   
+   explanation of positive reinforcement craving -confirming it is self-explanatory-
+   from page 329 patients who continue to smoke report significantly higher levels of
+   cravings to smoke for positive reinforcement, compared
+   with former smokers. That is to say, that patients who
+   continue to smoke persist in their endorsement, to a
+   significantly greater extent, of the anticipation of pleasure
+   from smoking, compared to patients who have been able to
+   quit smoking"	NA	NA	NA	NA
+"schnoll2011.r_intentiontoquit"	"schnoll2011.r"	"intention to quit"	"1"	"question"	"numeric"	"cessation"	"consistent"	"proxy"	"NA"	"NA"	"measures retrieved from page 327 
+  bottom right segment marked Smoking status"	NA	NA	NA	NA
+"schnoll2011.r_rfsreducenegativeaffect"	"schnoll2011.r"	"RFS-Reduce Negative Affect"	"1"	"aggregate"	"numeric"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"measures retrieved from page 327 bottom left/top right paragraph"	NA	NA	NA	NA
+"schnoll2011.r_rfsstimulation"	"schnoll2011.r"	"RFS-Stimulation"	"1"	"aggregate"	"numeric"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"measures retrieved from page 327 bottom left/top right paragraph"	NA	NA	NA	NA
+"schnoll2011.r_riskperception"	"schnoll2011.r"	"Risk Perception"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"measures retrieved from page 327 right column, bottom 1st paragraph"	NA	NA	NA	NA
+"schnoll2011.r_selfefficacy"	"schnoll2011.r"	"Self-efficacy"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"measures retrieved from page 327 bottom left/top right paragraph"	NA	NA	NA	NA
+"siahpush2003.r_ceasedsmoking"	"siahpush2003.r"	"ceased smoking"	"1"	"question"	"logical"	"cessation"	"consistent"	"behavior"	"NA"	"NA"	"retrieved from page 598"	NA	NA	NA	NA
+"siahpush2003.r_friendswhosmoke"	"siahpush2003.r"	"friends who smoke"	"1"	"question"	"numeric"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"retrieved from abstract
+             597, where no of smoking friends is 
+             mentioned in likert-scale terms"	NA	NA	NA	NA
+"stacy1990.r_believethatsmokingmakesdiabetesworse"	"stacy1990.r"	"believe that smoking makes diabetes worse"	"1"	"question"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from page 184 table 2"	"NA"	"NA"	NA	NA
+"stacy1990.r_cessation"	"stacy1990.r"	"cessation"	"1"	"question"	"logical"	"cessation"	"consistent"	"behavior"	"NA"	"NA"	"retrieved from page 184 table 2"	"NA"	"NA"	NA	NA
+"stacy1990.r_socialsupporttostop"	"stacy1990.r"	"social support to stop"	"1"	"question"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from page 184 table 2"	NA	NA	NA	NA
+"stacy1990.r_stoppingimprovesdiabetes"	"stacy1990.r"	"stopping improves diabetes"	"1"	"question"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from page 184 table 2"	"NA"	"NA"	NA	NA
+"tu2000.r_advertisingsayingsmokingiscoolworkagainstquittingmotivation"	"tu2000.r"	"advertising saying smoking is cool work against quitting motivation"	"1"	"question"	"text"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_avoidanceofsmokersaidsquitting"	"tu2000.r"	"avoidance of smokers aids quitting"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_balanceyinyang"	"tu2000.r"	"balance/yin&yang"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_beingabletoafforsmokingliftssocialstatus"	"tu2000.r"	"being able to affor smoking lifts social status"	"1"	"question"	"text"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_breathingproblemsduringexercisewhensmoking"	"tu2000.r"	"breathing problems during exercise when smoking"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_cancercellsexplodeafterquittingthereforeitisbettertoquitgradually"	"tu2000.r"	"cancer cells explode after quitting, therefore it is better to quit gradually"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_cigarettesaregivenasgifts"	"tu2000.r"	"cigarettes are given as gifts"	"1"	"question"	"text"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_cues"	"tu2000.r"	"cues"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_culturalattitudeagainstsmokingmotivatestoquit"	"tu2000.r"	"cultural attitude against smoking motivates to quit"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_culturaldifferencesinus"	"tu2000.r"	"cultural differences in US"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_dependence"	"tu2000.r"	"dependence"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_desiretobepartofthegroup"	"tu2000.r"	"desire to be part of the group"	"1"	"question"	"text"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_dislikesmellofcigarettes"	"tu2000.r"	"dislike smell of cigarettes"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_distractionsaidquitting"	"tu2000.r"	"distractions aid quitting"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_doctorsandnursesalsosmoke"	"tu2000.r"	"doctors and nurses also smoke"	"1"	"question"	"text"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_doctorsdontadequatlyexplaintherisksofsmoking"	"tu2000.r"	"doctors don't adequatly explain the risks of smoking"	"1"	"question"	"text"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	"peripheral"	"peripheral"
+"tu2000.r_entreebusiness"	"tu2000.r"	"entree/business"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	"peripheral"	"peripheral"
+"tu2000.r_etiquette"	"tu2000.r"	"etiquette"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	"peripheral"	"peripheral"
+"tu2000.r_exercisecanbalancedisadvantagesofsmoking"	"tu2000.r"	"exercise can balance disadvantages of smoking"	"1"	"question"	"text"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	"disengagement beliefs"	"disengagement beliefs"
+"tu2000.r_feltsickwhenontwopacksaday"	"tu2000.r"	"felt sick when on two packs a day"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	"attitude"	"attitude"
+"tu2000.r_friendssmoked"	"tu2000.r"	"friends smoked"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	"descriptive norm"	"descriptive norm"
+"tu2000.r_havinghealthproblemshelpsdeterminationtoquit"	"tu2000.r"	"having health problems helps determination to quit"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	"risk perception"	"risk perception"
+"tu2000.r_ihaventsmokedlongenoughtodamagemyhealth"	"tu2000.r"	"I haven't smoked long enough to damage my health"	"1"	"question"	"text"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_inadequacyofknowledgealone"	"tu2000.r"	"inadequacy of knowledge alone"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_iquitbecauseiwasdetermined"	"tu2000.r"	"I quit because I was determined"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_ismokeoutsidetopreventexposuretofamily"	"tu2000.r"	"I smoke outside to prevent exposure to family"	"1"	"question"	"text"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_iwilldieanyway"	"tu2000.r"	"I will die anyway"	"1"	"question"	"text"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_lackedskilltodealwithstress"	"tu2000.r"	"lacked skill to deal with stress"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_lackofsymptomsabnormalcheckup"	"tu2000.r"	"lack of symptoms/abnormal checkup"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_maturitymaleness"	"tu2000.r"	"maturity/maleness"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_negativehealtheffectsofsmoking"	"tu2000.r"	"negative health effects of smoking"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_noteducatedenoughtoabsorbhealthinformationlacklanguage"	"tu2000.r"	"not educated enough to absorb health information/lack language"	"1"	"question"	"text"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_personalwillingnessdetermination"	"tu2000.r"	"personal willingness/determination"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_physical"	"tu2000.r"	"physical"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_pressurefromsocialgroupmotivatesquitting"	"tu2000.r"	"pressure from social group motivates quitting"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_psychological"	"tu2000.r"	"psychological"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_quittingimproveshealthandlooks"	"tu2000.r"	"quitting improves health and looks"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_quittinginsocialgroupbuildsmotivationtoquit"	"tu2000.r"	"quitting in social group builds motivation to quit"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_quittingmakesyoufeeluneasylonely"	"tu2000.r"	"quitting makes you feel uneasy/lonely"	"1"	"question"	"text"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_reducedsmokingcuesinmedia"	"tu2000.r"	"reduced smoking cues in media"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_replacingcigarettewithotherlessharmfulthingaidsquitting"	"tu2000.r"	"replacing cigarette with other, less harmful thing aids quitting"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_restrictions"	"tu2000.r"	"restrictions"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_rulesaboutsmokingathome"	"tu2000.r"	"rules about smoking at home"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_rulesoffamilyfriends"	"tu2000.r"	"rules of family/friends"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_smoketorelaxfromnervousness"	"tu2000.r"	"smoke to relax from nervousness"	"1"	"question"	"text"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_smoketorelievepressure"	"tu2000.r"	"smoke to relieve pressure"	"1"	"question"	"text"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_smokingbringsgoodluckinbusinessstudiesandmahjong"	"tu2000.r"	"smoking brings good luck in business, studies and mahjong"	"1"	"question"	"text"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_smokingisfun"	"tu2000.r"	"smoking is fun"	"1"	"question"	"text"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_smokingislikeburningmoney"	"tu2000.r"	"smoking is like burning money"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	NA	NA
+"tu2000.r_smokingislikedrinkingdontdoittoomuch"	"tu2000.r"	"smoking is like drinking, don't do it too much"	"1"	"question"	"text"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	"attitude"	"attitude"
+"tu2000.r_smokingispartofsociallifeinchina"	"tu2000.r"	"smoking is part of social life in china"	"1"	"question"	"text"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	"descriptive norm"	"descriptive norm"
+"tu2000.r_smokingispleasurable"	"tu2000.r"	"smoking is pleasurable"	"1"	"question"	"text"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	"attitude"	"attitude"
+"tu2000.r_smokingisrelaxing"	"tu2000.r"	"smoking is relaxing"	"1"	"question"	"text"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	"attitude"	"attitude"
+"tu2000.r_smokingiswasteful"	"tu2000.r"	"smoking is wasteful"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	"attitude"	"attitude"
+"tu2000.r_smokingnotallowedinpublicplaces"	"tu2000.r"	"smoking not allowed in public places"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	"peripheral"	"peripheral"
+"tu2000.r_smokingsoothsrelaxes"	"tu2000.r"	"smoking sooths/relaxes"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	"attitude"	"attitude"
+"tu2000.r_socialstatus"	"tu2000.r"	"social status"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	"injunctive norm"	"injunctive norm"
+"tu2000.r_stimulatesthinking"	"tu2000.r"	"stimulates thinking"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	"attitude"	"attitude"
+"tu2000.r_thereareexamplesofsmokingimpactingandnotimpactinghealth"	"tu2000.r"	"there are examples of smoking impacting and not-impacting health"	"1"	"question"	"text"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	"risk perception"	"risk perception"
+"tu2000.r_tonotacceptacigaretteinchinaisbadform"	"tu2000.r"	"to not accept a cigarette in china is bad form"	"1"	"question"	"text"	"cessation"	"inconsistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	"self-efficacy"	"self-efficacy"
+"tu2000.r_weightgainbettercomplexionafterquitting"	"tu2000.r"	"weight gain/better complexion after quitting"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	"attitude"	"attitude"
+"tu2000.r_youdontsmokewhereitisntallowed"	"tu2000.r"	"you don't smoke where it isn't allowed"	"1"	"question"	"text"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"tallied results retrieved from page 13/14/
+  others from pages 3-8, see individual variables "	"NA"	"NA"	"peripheral"	"peripheral"
+"willemsen1996.r_attitude"	"willemsen1996.r"	"attitude"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from pages 196/197 under the heading Quesstionnaire"	NA	NA	"attitude"	"attitude"
+"willemsen1996.r_intentiontoquit"	"willemsen1996.r"	"intention to quit"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from pages 196/197 under the heading Quesstionnaire"	NA	NA	"intention"	"intention"
+"willemsen1996.r_numberofdailycigarettes"	"willemsen1996.r"	"number of daily cigarettes"	"1"	"behavior"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from pages 196/197 under the heading Quesstionnaire"	"NA"	"NA"	"irrelevant"	"irrelevant"
+"willemsen1996.r_pastsmokingbehavior"	"willemsen1996.r"	"past smoking behavior"	"1"	"question"	"numeric"	"cessation"	"consistent"	"behavior"	"NA"	"NA"	"retrieved from pages 196/197 under the heading Quesstionnaire
+  attained by asking how often participant has tried to quit"	"NA"	"NA"	"irrelevant"	"irrelevant"
+"willemsen1996.r_selfefficacy"	"willemsen1996.r"	"self-efficacy"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from pages 196/197 under the heading Quesstionnaire"	"NA"	"NA"	"self-efficacy"	"self-efficacy"
+"willemsen1996.r_smokingbehavioratwork"	"willemsen1996.r"	"smoking behavior at work"	"1"	"question"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from pages 196/197 under the heading Quesstionnaire"	"NA"	"NA"	"irrelevant"	"irrelevant"
+"willemsen1996.r_smokingbehavioroutsidework"	"willemsen1996.r"	"smoking behavior outside work"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from pages 196/197 under the heading Quesstionnaire"	"NA"	"NA"	"irrelevant"	"irrelevant"
+"willemsen1996.r_socialpressureatwork"	"willemsen1996.r"	"social pressure at work"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from pages 196/197 under the heading Quesstionnaire"	"NA"	"NA"	"injunctive norm"	"injunctive norm"
+"willemsen1996.r_socialpressureoutsidework"	"willemsen1996.r"	"social pressure outside work"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from pages 196/197 under the heading Quesstionnaire"	"NA"	"NA"	"injunctive norm"	"injunctive norm"
+"willemsen1996.r_tolerancetowardsmoking"	"willemsen1996.r"	"tolerance toward smoking"	"1"	"aggregate"	"numeric"	"cessation"	"consistent"	"belief"	"NA"	"NA"	"retrieved from pages 196/197 under the heading Quesstionnaire"	"NA"	"NA"	"moral norm"	"moral norm"

@@ -1,0 +1,520 @@
+variable	classification_P	type	datatype	dependent	direction	psytype	parent	study	uniqueVarID	classification_P_20150828_1345	rater
+afraid to say no	self-efficacy	question	logical	initiation	consistent	belief	NA	ahmed2004.r	ahmed2004.r_afraidtosayno	self-efficacy	P
+curiosity	attitude	question	logical	initiation	consistent	belief	NA	ahmed2004.r	ahmed2004.r_curiosity	attitude	P
+everyone smokes	descriptive norm	question	logical	initiation	consistent	belief	NA	ahmed2004.r	ahmed2004.r_everyonesmokes	descriptive norm	P
+feel lonely	attitude	question	logical	initiation	consistent	belief		ahmed2004.r	ahmed2004.r_feellonely	attitude	P
+for fun	attitude	question	logical	initiation	consistent	belief	NA	ahmed2004.r	ahmed2004.r_forfun	attitude	P
+forget problems	attitude	question	logical	initiation	consistent	belief	NA	ahmed2004.r	ahmed2004.r_forgetproblems	attitude	P
+gum disease	risk perception	question	logical	initiation	inconsistent	belief	NA	ahmed2004.r	ahmed2004.r_gumdisease	risk perception	P
+heart disease	risk perception	question	logical	initiation	inconsistent	belief	NA	ahmed2004.r	ahmed2004.r_heartdisease	risk perception	P
+knowledge of health risks	risk perception	aggregate	numeric	initiation	inconsistent	determinant	NA	ahmed2004.r	ahmed2004.r_knowledgeofhealthrisks	risk perception	P
+life is boring	attitude	question	logical	initiation	consistent	belief		ahmed2004.r	ahmed2004.r_lifeisboring	attitude	P
+lung cancer	risk perception	question	logical	initiation	inconsistent	belief	NA	ahmed2004.r	ahmed2004.r_lungcancer	risk perception	P
+mouth cancer	risk perception	question	logical	initiation	inconsistent	belief	NA	ahmed2004.r	ahmed2004.r_mouthcancer	risk perception	P
+relax	attitude	question	logical	initiation	consistent	belief	NA	ahmed2004.r	ahmed2004.r_relax	attitude	P
+short-term health risk	risk perception	question	logical	initiation	inconsistent	belief	NA	ahmed2004.r	ahmed2004.r_shorttermhealthrisk	risk perception	P
+smoking	behavior	question	logical	initiation	consistent	behavior	NA	ahmed2004.r	ahmed2004.r_smoking	behavior	P
+stress	stress	question	logical	initiation	consistent	determinant		ahmed2004.r	ahmed2004.r_stress	stress	P
+stress at home (reason)	stress	question	logical	initiation	consistent	belief	NA	ahmed2004.r	ahmed2004.r_stressathomereason	stress	P
+stress at home (stress)	stress	question	logical	initiation	consistent	belief		ahmed2004.r	ahmed2004.r_stressathomestress	stress	P
+stress at school work	stress	question	logical	initiation	consistent	belief		ahmed2004.r	ahmed2004.r_stressatschoolwork	stress	P
+stroke	risk perception	question	logical	initiation	inconsistent	belief	NA	ahmed2004.r	ahmed2004.r_stroke	risk perception	P
+to be cool	injunctive norm	question	logical	initiation	consistent	belief	NA	ahmed2004.r	ahmed2004.r_tobecool	injunctive norm	P
+to please a friend	injunctive norm	question	logical	initiation	consistent	belief	NA	ahmed2004.r	ahmed2004.r_topleaseafriend	injunctive norm	P
+Cessation	behavior	question	logical	cessation	consistent	behavior	NA	Ayo-Yusuf2010.r	Ayo-Yusuf2010.r_cessation	behavior	P
+Descriptive norm (home)	descriptive norm	question	logical	cessation	consistent	belief		Ayo-Yusuf2010.r	Ayo-Yusuf2010.r_descriptivenormhome	descriptive norm	P
+Descriptive norm (workplace)	descriptive norm	question	logical	cessation	consistent	belief		Ayo-Yusuf2010.r	Ayo-Yusuf2010.r_descriptivenormworkplace	descriptive norm	P
+Smoking is harmful	risk perception	question	logical	cessation	consistent	belief		Ayo-Yusuf2010.r	Ayo-Yusuf2010.r_smokingisharmful	risk perception	P
+Smoker approximates ideal conformity	attitude	question	numeric	initiation	consistent	belief		Barton1982.r	Barton1982.r_smokerapproximatesidealconformity	attitude	P
+Smoker approximates ideal drinking behavior	attitude	question	numeric	initiation	consistent	belief		Barton1982.r	Barton1982.r_smokerapproximatesidealdrinkingbehavior	attitude	P
+Smoker approximates ideal goodness	attitude	question	numeric	initiation	consistent	belief		Barton1982.r	Barton1982.r_smokerapproximatesidealgoodness	attitude	P
+Smoker approximates ideal healthiness	attitude	question	numeric	initiation	consistent	belief		Barton1982.r	Barton1982.r_smokerapproximatesidealhealthiness	attitude	P
+Smoker approximates ideal looks	attitude	question	numeric	initiation	consistent	belief		Barton1982.r	Barton1982.r_smokerapproximatesideallooks	attitude	P
+Smoker approximates ideal maturity	attitude	question	numeric	initiation	consistent	belief		Barton1982.r	Barton1982.r_smokerapproximatesidealmaturity	attitude	P
+Smoker approximates ideal relaxedness	attitude	question	numeric	initiation	consistent	belief		Barton1982.r	Barton1982.r_smokerapproximatesidealrelaxedness	attitude	P
+Smoker approximates ideal school performance	attitude	question	numeric	initiation	consistent	belief		Barton1982.r	Barton1982.r_smokerapproximatesidealschoolperformance	attitude	P
+Smoker approximates ideal sexual orientation	attitude	question	numeric	initiation	consistent	belief		Barton1982.r	Barton1982.r_smokerapproximatesidealsexualorientation	attitude	P
+Smoker approximates ideal sociability	attitude	question	numeric	initiation	consistent	belief		Barton1982.r	Barton1982.r_smokerapproximatesidealsociability	attitude	P
+Smoker approximates ideal toughness	attitude	question	numeric	initiation	consistent	belief		Barton1982.r	Barton1982.r_smokerapproximatesidealtoughness	attitude	P
+Smoker approximates ideal wisdom	attitude	question	numeric	initiation	consistent	belief		Barton1982.r	Barton1982.r_smokerapproximatesidealwisdom	attitude	P
+Smoking initiation intention	intention	question	numeric	initiation	consistent	proxy		Barton1982.r	Barton1982.r_smokinginitiationintention	intention	P
+Cravings cause disregard of set rules	disengagement beliefs	question	text	cessation	inconsistent	belief		Berg2013.r	Berg2013.r_cravingscausedisregardofsetrules	disengagement beliefs	P
+Family advice motivates to quit	injunctive norm	question	text	cessation	consistent	belief		Berg2013.r	Berg2013.r_familyadvicemotivatestoquit	injunctive norm	P
+Initiation of cancer treatment motivates to quit	attitude	question	text	cessation	consistent	belief		Berg2013.r	Berg2013.r_initiationofcancertreatmentmotivatestoquit	attitude	P
+No other relief available (anxiety)	attitude	question	text	cessation	inconsistent	belief		Berg2013.r	Berg2013.r_nootherreliefavailableanxiety	attitude	P
+No other relief available (hopelessness)	attitude	question	text	cessation	inconsistent	belief		Berg2013.r	Berg2013.r_nootherreliefavailablehopelessness	attitude	P
+No other relief available (stress)	attitude	question	text	cessation	inconsistent	belief		Berg2013.r	Berg2013.r_nootherreliefavailablestress	attitude	P
+Quitting aides success of chemotherapy treatment	attitude	question	text	cessation	consistent	belief		Berg2013.r	Berg2013.r_quittingaidessuccessofchemotherapytreatment	attitude	P
+Quitting causes severe discomfort	attitude	question	text	cessation	inconsistent	belief		Berg2013.r	Berg2013.r_quittingcausesseverediscomfort	attitude	P
+Quitting decreases cancer spread	risk perception	question	text	cessation	consistent	belief		Berg2013.r	Berg2013.r_quittingdecreasescancerspread	risk perception	P
+Quitting decreases imminence of death	risk perception	question	text	cessation	consistent	belief		Berg2013.r	Berg2013.r_quittingdecreasesimminenceofdeath	risk perception	P
+Quitting is difficult with smoking partner	descriptive norm	question	text	cessation	inconsistent	belief		Berg2013.r	Berg2013.r_quittingisdifficultwithsmokingpartner	descriptive norm	P
+Quitting is smart	attitude	question	text	cessation	consistent	belief		Berg2013.r	Berg2013.r_quittingissmart	attitude	P
+Quitting makes health problems beyond cancer less likely	risk perception	question	text	cessation	consistent	belief		Berg2013.r	Berg2013.r_quittingmakeshealthproblemsbeyondcancerlesslikely	risk perception	P
+Quitting makes physician provide cancer treatment	risk perception	question	text	cessation	consistent	belief		Berg2013.r	Berg2013.r_quittingmakesphysicianprovidecancertreatment	risk perception	P
+Quitting raises mental addiction	disengagement beliefs	question	text	cessation	inconsistent	belief		Berg2013.r	Berg2013.r_quittingraisesmentaladdiction	disengagement beliefs	P
+quitting will decrease the odds of more chemotherapy treatment	risk perception	question	text	cessation	consistent	belief		Berg2013.r	Berg2013.r_quittingwilldecreasetheoddsofmorechemotherapytreatment	risk perception	P
+Quitting with partner	injunctive norm	question	text	cessation	consistent	belief		Berg2013.r	Berg2013.r_quittingwithpartner	injunctive norm	P
+Regret of re-initiation aides quitting	attitude	question	text	cessation	consistent	belief		Berg2013.r	Berg2013.r_regretofreinitiationaidesquitting	attitude	P
+Self-control is difficult around smokers	self-efficacy	question	text	cessation	inconsistent	belief		Berg2013.r	Berg2013.r_selfcontrolisdifficultaroundsmokers	self-efficacy	P
+Smoking alleviates stress	attitude	question	text	cessation	inconsistent	belief		Berg2013.r	Berg2013.r_smokingalleviatesstress	attitude	P
+Surgeon refuses to operate on smokers	attitude	question	text	cessation	consistent	belief		Berg2013.r	Berg2013.r_surgeonrefusestooperateonsmokers	attitude	P
+Use of replacement stimulus helps break smoking habit	self-efficacy	question	text	cessation	consistent	belief		Berg2013.r	Berg2013.r_useofreplacementstimulushelpsbreaksmokinghabit	self-efficacy	P
+Bad idea for children to smoke	attitude	question	logical	initiation	inconsistent	belief	NA	Bewley1974.r	Bewley1974.r_badideaforchildrentosmoke	attitude	P
+Nice to smoke with friends	injunctive norm	question	logical	initiation	consistent	belief	NA	Bewley1974.r	Bewley1974.r_nicetosmokewithfriends	injunctive norm	P
+Parents should not be angry if their children smoke	moral norm	question	logical	initiation	consistent	belief	NA	Bewley1974.r	Bewley1974.r_parentsshouldnotbeangryiftheirchildrensmoke	moral norm	P
+People my age smoke to show off	attitude	question	logical	initiation	consistent	belief	NA	Bewley1974.r	Bewley1974.r_peoplemyagesmoketoshowoff	attitude	P
+Smoking causes cancer	risk perception	question	logical	initiation	inconsistent	belief	NA	Bewley1974.r	Bewley1974.r_smokingcausescancer	risk perception	P
+Smoking is a waste of money	attitude	question	logical	initiation	inconsistent	belief	NA	Bewley1974.r	Bewley1974.r_smokingisawasteofmoney	attitude	P
+Smoking is enjoyable	attitude	question	logical	initiation	consistent	belief	NA	Bewley1974.r	Bewley1974.r_smokingisenjoyable	attitude	P
+Smoking is not harmful	risk perception	question	logical	initiation	consistent	belief	NA	Bewley1974.r	Bewley1974.r_smokingisnotharmful	risk perception	P
+Smoking makes you feel grown up	attitude	question	logical	initiation	consistent	belief	NA	Bewley1974.r	Bewley1974.r_smokingmakesyoufeelgrownup	attitude	P
+Smoking status	behavior	question	ordinal	initiation	consistent	behavior	NA	Bewley1974.r	Bewley1974.r_smokingstatus	behavior	P
+Attitude toward smoking	attitude	aggregate	numeric	initiation	consistent	belief	NA	Bidstrup2009.r	Bidstrup2009.r_attitudetowardsmoking	attitude	P
+Best friend smokes	descriptive norm	question	nominal	initiation	consistent	belief	NA	Bidstrup2009.r	Bidstrup2009.r_bestfriendsmokes	descriptive norm	P
+Best friend smokes (No & Don't know)	descriptive norm	question	nominal	initiation	consistent	belief	Best friend smokes	Bidstrup2009.r	Bidstrup2009.r_bestfriendsmokesnodontknow	descriptive norm	P
+Father smokes	descriptive norm	question	nominal	initiation	consistent	belief	NA	Bidstrup2009.r	Bidstrup2009.r_fathersmokes	descriptive norm	P
+Father smokes (No & Don't know)	descriptive norm	question	nominal	initiation	consistent	belief	Father smokes	Bidstrup2009.r	Bidstrup2009.r_fathersmokesnodontknow	descriptive norm	P
+Mother smokes	descriptive norm	question	nominal	initiation	consistent	belief	NA	Bidstrup2009.r	Bidstrup2009.r_mothersmokes	descriptive norm	P
+Mother smokes (No & Yes)	descriptive norm	question	nominal	initiation	consistent	belief	Mother smokes	Bidstrup2009.r	Bidstrup2009.r_mothersmokesnoyes	descriptive norm	P
+Self-efficacy	self-efficacy	question	numeric	initiation	inconsistent	belief	NA	Bidstrup2009.r	Bidstrup2009.r_selfefficacy	self-efficacy	P
+Smoking at 1st follow up	behavior	aggregate	logical	initiation	consistent	behavior	NA	Bidstrup2009.r	Bidstrup2009.r_smokingat1stfollowup	behavior	P
+Smoking at 2nd follow up	behavior	aggregate	logical	initiation	consistent	behavior	NA	Bidstrup2009.r	Bidstrup2009.r_smokingat2ndfollowup	behavior	P
+Social influence (norms)	injunctive norm	aggregate	numeric	initiation	inconsistent	determinant	NA	Bidstrup2009.r	Bidstrup2009.r_socialinfluencenorms	injunctive norm	P
+Social influence (pressure)	injunctive norm	aggregate	numeric	initiation	consistent	determinant	NA	Bidstrup2009.r	Bidstrup2009.r_socialinfluencepressure	injunctive norm	P
+negative effects on looks	attitude	question	text	initiation	inconsistent	belief		Bidstrup2011.r	Bidstrup2011.r_negativeeffectsonlooks	attitude	P
+negative effects on physical shape	attitude	question	text	initiation	inconsistent	belief		Bidstrup2011.r	Bidstrup2011.r_negativeeffectsonphysicalshape	attitude	P
+negative effects on smell	attitude	question	text	initiation	inconsistent	belief		Bidstrup2011.r	Bidstrup2011.r_negativeeffectsonsmell	attitude	P
+negative health effects	risk perception	question	text	initiation	inconsistent	belief		Bidstrup2011.r	Bidstrup2011.r_negativehealtheffects	risk perception	P
+Pressure to smoke from friends	injunctive norm	question	text	initiation	consistent	belief		Bidstrup2011.r	Bidstrup2011.r_pressuretosmokefromfriends	injunctive norm	P
+risks of addiction	attitude	question	text	initiation	inconsistent	belief		Bidstrup2011.r	Bidstrup2011.r_risksofaddiction	attitude	P
+Self-efficacy to resist smoking on situational social opportunities	self-efficacy	question	text	initiation	consistent	belief		Bidstrup2011.r	Bidstrup2011.r_selfefficacytoresistsmokingonsituationalsocialopportunities	self-efficacy	P
+Smoking is disgusting	attitude	question	text	initiation	inconsistent	belief		Bidstrup2011.r	Bidstrup2011.r_smokingisdisgusting	attitude	P
+Smoking is stupid	attitude	question	text	initiation	inconsistent	belief		Bidstrup2011.r	Bidstrup2011.r_smokingisstupid	attitude	P
+Smoking-opportunity is often facilitated by friends	descriptive norm	question	text	initiation	consistent	belief		Bidstrup2011.r	Bidstrup2011.r_smokingopportunityisoftenfacilitatedbyfriends	descriptive norm	P
+Affected acquaintance	injunctive norm	question	logical	cessation	consistent	determinant	NA	Bosse1973.r	Bosse1973.r_affectedacquaintance	injunctive norm	P
+cessation	behavior	question	logical	cessation	consistent	behavior	NA	Bosse1973.r	Bosse1973.r_cessation	behavior	P
+Warning label awareness	attitude	question	logical	initiation	consistent	determinant		Bosse1973.r	Bosse1973.r_warninglabelawareness	attitude	P
+Addiction	irrelevant	aggregate	numeric	cessation	inconsistent	determinant	NA	Brandstetter2012.r	Brandstetter2012.r_addiction	irrelevant	P
+Baseline CPD	irrelevant	question	numeric	cessation	consistent	behavior	NA	Brandstetter2012.r	Brandstetter2012.r_baselinecpd	irrelevant	P
+Cessation in past 7 days	behavior	question	logical	cessation	consistent	behavior	NA	Brandstetter2012.r	Brandstetter2012.r_cessationinpast7days	behavior	P
+Confidence in quitting	self-efficacy	question	numeric	cessation	consistent	determinant	NA	Brandstetter2012.r	Brandstetter2012.r_confidenceinquitting	self-efficacy	P
+gender	demographic	question	logical	cessation		demographic	NA	Brandstetter2012.r	Brandstetter2012.r_gender	demographic	P
+Increased CPD	irrelevant	question	numeric	cessation	inconsistent	behavior	NA	Brandstetter2012.r	Brandstetter2012.r_increasedcpd	irrelevant	P
+Low confidence in ability to quit	self-efficacy	aggregate	numeric	cessation	inconsistent	determinant	NA	Brandstetter2012.r	Brandstetter2012.r_lowconfidenceinabilitytoquit	self-efficacy	P
+Motivation to quit	intention	question	numeric	cessation	consistent	proxy	NA	Brandstetter2012.r	Brandstetter2012.r_motivationtoquit	intention	P
+Prior quit attempts	behavior	question	numeric	cessation	consistent	behavior	NA	Brandstetter2012.r	Brandstetter2012.r_priorquitattempts	behavior	P
+Quit outcome	behavior	question	logical	cessation	consistent	behavior	NA	Brandstetter2012.r	Brandstetter2012.r_quitoutcome	behavior	P
+Reasons for smoking	attitude	aggregate	nominal	cessation	inconsistent	proxy	NA	Brandstetter2012.r	Brandstetter2012.r_reasonsforsmoking	attitude	P
+Smoking within 30 mins of waking	behavior	question	logical	cessation	inconsistent	behavior	NA	Brandstetter2012.r	Brandstetter2012.r_smokingwithin30minsofwaking	behavior	P
+Depressive symptoms	irrelevant	aggregate	numeric	initiation	consistent	determinant	NA	Carvajal2006.r	Carvajal2006.r_depressivesymptoms	irrelevant	P
+Global positive expectancies	attitude	aggregate	numeric	initiation	inconsistent	determinant	NA	Carvajal2006.r	Carvajal2006.r_globalpositiveexpectancies	attitude	P
+initiation	behavior	question	logical	initiation	consistent	behavior	NA	Carvajal2006.r	Carvajal2006.r_initiation	behavior	P
+Maladaptive coping	coping	aggregate	numeric	initiation	consistent	determinant	NA	Carvajal2006.r	Carvajal2006.r_maladaptivecoping	coping	P
+Negative attitudes	attitude	aggregate	numeric	initiation	inconsistent	determinant	NA	Carvajal2006.r	Carvajal2006.r_negativeattitudes	attitude	P
+Perceived risk	risk perception	aggregate	numeric	initiation	NA	determinant	NA	Carvajal2006.r	Carvajal2006.r_perceivedrisk	risk perception	P
+Positive attitudes	attitude	aggregate	numeric	initiation	consistent	determinant	NA	Carvajal2006.r	Carvajal2006.r_positiveattitudes	attitude	P
+Self efficacy	self-efficacy	aggregate	numeric	initiation	inconsistent	determinant	NA	Carvajal2006.r	Carvajal2006.r_selfefficacy	self-efficacy	P
+Smoking intentions	intention	aggregate	numeric	initiation	consistent	proxy	NA	Carvajal2006.r	Carvajal2006.r_smokingintentions	intention	P
+Alleviates boredom	attitude	question	logical	initiation	consistent	belief	NA	chen1999.r	chen1999.r_alleviatesboredom	attitude	P
+Feel OK around smokers	attitude	question	logical	initiation	consistent	belief	NA	chen1999.r	chen1999.r_feelokaroundsmokers	attitude	P
+Friend smoking (f)	descriptive norm	question	logical	initiation	consistent	belief	NA	chen1999.r	chen1999.r_friendsmokingf	descriptive norm	P
+Friend smoking (m)	descriptive norm	question	logical	initiation	consistent	belief	NA	chen1999.r	chen1999.r_friendsmokingm	descriptive norm	P
+Good at parties	attitude	question	logical	initiation	consistent	belief	NA	chen1999.r	chen1999.r_goodatparties	attitude	P
+Hate being around smokers	irrelevant	question	logical	initiation	inconsistent	belief	NA	chen1999.r	chen1999.r_hatebeingaroundsmokers	irrelevant	P
+Parents approve of my smoking	injunctive norm	question	logical	initiation	consistent	belief	NA	chen1999.r	chen1999.r_parentsapproveofmysmoking	injunctive norm	P
+Parent smoking	descriptive norm	question	logical	initiation	consistent	belief	NA	chen1999.r	chen1999.r_parentsmoking	descriptive norm	P
+Sibling smoking	descriptive norm	question	logical	initiation	consistent	belief	NA	chen1999.r	chen1999.r_siblingsmoking	descriptive norm	P
+Smokers turn me off	attitude	question	logical	initiation	inconsistent	belief	NA	chen1999.r	chen1999.r_smokersturnmeoff	attitude	P
+Smoking helps relax	attitude	question	logical	initiation	consistent	belief	NA	chen1999.r	chen1999.r_smokinghelpsrelax	attitude	P
+Smoking initiation	behavior	question	logical	initiation	consistent	behavior	NA	chen1999.r	chen1999.r_smokinginitiation	behavior	P
+Teacher smoking	descriptive norm	question	logical	initiation	consistent	belief	NA	chen1999.r	chen1999.r_teachersmoking	descriptive norm	P
+Bad breath is the worst about smoking	attitude	question	numeric	initiation		behavior	NA	cortes2005.r	cortes2005.r_badbreathistheworstaboutsmoking	attitude	P
+Believe I won't smoke as an adult	attitude	question	numeric	initiation		behavior	NA	cortes2005.r	cortes2005.r_believeiwontsmokeasanadult	attitude	P
+Damage to own and others health is the worst about smoking	risk perception	question	numeric	initiation		behavior	NA	cortes2005.r	cortes2005.r_damagetoownandothershealthistheworstaboutsmoking	risk perception	P
+Disagree that smoking makes you feel good	attitude	question	numeric	initiation		behavior	NA	cortes2005.r	cortes2005.r_disagreethatsmokingmakesyoufeelgood	attitude	P
+expense is the worst about smoking	attitude	question	numeric	initiation		behavior	NA	cortes2005.r	cortes2005.r_expenseistheworstaboutsmoking	attitude	P
+Never bought tobacco for personal use	behavior	question	numeric	initiation		behavior	NA	cortes2005.r	cortes2005.r_neverboughttobaccoforpersonaluse	behavior	P
+Wouldn't take a cigarette from a friend	injunctive norm	question	numeric	initiation		behavior	NA	cortes2005.r	cortes2005.r_wouldnttakeacigarettefromafriend	injunctive norm	P
+Belief that quitting is very difficult	self-efficacy	question	logical	cessation	inconsistent	belief		donze2007.r	donze2007.r_beliefthatquittingisverydifficult	self-efficacy	P
+Quitting	behavior	question	logical	cessation	NA	behavior		donze2007.r	donze2007.r_quitting	behavior	P
+acting as a smoker on stage	pending	question	text	cessation	consistent	belief	NA	echer2008.r	echer2008.r_actingasasmokeronstage		P
+age	irrelevant	question	text	cessation	consistent	belief	NA	echer2008.r	echer2008.r_age		P
+cigarette intrference in social life and laws that restrict smoking	external factor	question	text	cessation	consistent	belief	NA	echer2008.r	echer2008.r_cigaretteintrferenceinsociallifeandlawsthatrestrictsmoking		P
+Drugs	external factor	question	text	cessation		belief		echer2008.r	echer2008.r_drugs	external factor	P
+esthetical and smelling sense	attitude	question	text	cessation	consistent	belief	NA	echer2008.r	echer2008.r_estheticalandsmellingsense		P
+Fear of withdrawal symptoms	attitude	question	text	cessation		belief		echer2008.r	echer2008.r_fearofwithdrawalsymptoms	attitude	P
+getting annoyed about cigarette	attitude	question	text	cessation	consistent	belief	NA	echer2008.r	echer2008.r_gettingannoyedaboutcigarette		P
+health concerns	risk perception	question	text	cessation	consistent	belief	NA	echer2008.r	echer2008.r_healthconcerns		P
+health harm	risk perception	question	text	cessation	consistent	belief	NA	echer2008.r	echer2008.r_healthharm		P
+health problem observation	risk perception	question	text	cessation	consistent	belief	NA	echer2008.r	echer2008.r_healthproblemobservation		P
+health professional	pending	question	text	cessation	consistent	belief	NA	echer2008.r	echer2008.r_healthprofessional		P
+influence of close people	injunctive norm	question	text	cessation	consistent	belief	NA	echer2008.r	echer2008.r_influenceofclosepeople		P
+knowing health harms	risk perception	question	text	cessation	consistent	belief	NA	echer2008.r	echer2008.r_knowinghealthharms		P
+life appreciation	attitude	question	text	cessation	consistent	belief	NA	echer2008.r	echer2008.r_lifeappreciation		P
+media campaigns	irrelevant	question	text	cessation	consistent	belief	NA	echer2008.r	echer2008.r_mediacampaigns		P
+Minimized abstinence syndrome	attitude	question	text	cessation		belief		echer2008.r	echer2008.r_minimizedabstinencesyndrome	attitude	P
+money	external factor	question	text	cessation	consistent	belief	NA	echer2008.r	echer2008.r_money		P
+participation in anti-smoking commission	external factor	question	text	cessation	consistent	belief	NA	echer2008.r	echer2008.r_participationinantismokingcommission		P
+Professional intervention	external factor	question	text	cessation		belief		echer2008.r	echer2008.r_professionalintervention	external factor	P
+Professional support -nurse, physician, dentist-	external factor	question	text	cessation		belief		echer2008.r	echer2008.r_professionalsupportnursephysiciandentist	external factor	P
+received spiritual support	external factor	question	text	cessation		belief		echer2008.r	echer2008.r_receivedspiritualsupport		P
+shame/frustration of being a smoker	attitude	question	text	cessation	consistent	belief	NA	echer2008.r	echer2008.r_shamefrustrationofbeingasmoker		P
+Sharing experiences with quitters	self-efficacy	question	text	cessation		belief		echer2008.r	echer2008.r_sharingexperienceswithquitters	self-efficacy	P
+smokers who refrain around quitters	descriptive norm	question	text	cessation		belief		echer2008.r	echer2008.r_smokerswhorefrainaroundquitters	descriptive norm	P
+Social support	injunctive norm	question	text	cessation		belief		echer2008.r	echer2008.r_socialsupport	injunctive norm	P
+Spiritual beliefs	attitude	question	text	cessation		belief		echer2008.r	echer2008.r_spiritualbeliefs	attitude	P
+spiritual support	attitude	question	text	cessation	consistent	belief	NA	echer2008.r	echer2008.r_spiritualsupport	attitude	P
+Support groups	external factor	question	text	cessation		belief		echer2008.r	echer2008.r_supportgroups	external factor	P
+support groups provide quitting strategies	self-efficacy	question	text	cessation		belief		echer2008.r	echer2008.r_supportgroupsprovidequittingstrategies	self-efficacy	P
+Supportive community	injunctive norm	question	text	cessation		belief		echer2008.r	echer2008.r_supportivecommunity	injunctive norm	P
+Supportive family	external factor	question	text	cessation		belief		echer2008.r	echer2008.r_supportivefamily	external factor	P
+Willpower/determination to change	selfregulation	question	text	cessation		belief		echer2008.r	echer2008.r_willpowerdeterminationtochange		P
+	self-efficacy								echer2008.r_willpowersupersedestreatment	self-efficacy	P
+will to change/determination	selfregulation	question	text	cessation	consistent	belief	NA	echer2008.r	echer2008.r_willtochangedetermination		P
+Ban on smoking in public places	irrelevant	question	logical	cessation		belief		elshatarat2013.r	elshatarat2013.r_banonsmokinginpublicplaces	irrelevant	P
+Better for health in general	risk perception	question	logical	cessation		belief		elshatarat2013.r	elshatarat2013.r_betterforhealthingeneral	risk perception	P
+Doctor's advice	attitude	question	logical	cessation		belief		elshatarat2013.r	elshatarat2013.r_doctorsadvice	attitude	P
+Family pressure	injunctive norm	question	logical	cessation		belief		elshatarat2013.r	elshatarat2013.r_familypressure	injunctive norm	P
+Financial reasons	attitude	question	logical	cessation		belief		elshatarat2013.r	elshatarat2013.r_financialreasons	attitude	P
+Harms children and others	attitude	question	logical	cessation		belief		elshatarat2013.r	elshatarat2013.r_harmschildrenandothers	attitude	P
+Less risk of getting smoking related illness	risk perception	question	logical	cessation		belief		elshatarat2013.r	elshatarat2013.r_lessriskofgettingsmokingrelatedillness	risk perception	P
+little benefit to quitting	attitude	question	numeric	cessation		belief		elshatarat2013.r	elshatarat2013.r_littlebenefittoquitting	attitude	P
+Present health problems	risk perception	question	logical	cessation		belief		elshatarat2013.r	elshatarat2013.r_presenthealthproblems	risk perception	P
+quitting decreases health problems	risk perception	question	numeric	cessation		belief		elshatarat2013.r	elshatarat2013.r_quittingdecreaseshealthproblems	risk perception	P
+quitting decreases risk heart disease	risk perception	question	numeric	cessation		belief		elshatarat2013.r	elshatarat2013.r_quittingdecreasesriskheartdisease	risk perception	P
+quitting decreases risk lung cancer	risk perception	question	numeric	cessation		belief		elshatarat2013.r	elshatarat2013.r_quittingdecreasesrisklungcancer	risk perception	P
+quitting decreases risk respiratory disease	risk perception	question	numeric	cessation		belief		elshatarat2013.r	elshatarat2013.r_quittingdecreasesriskrespiratorydisease	risk perception	P
+smoking causes cardiovascular effects	risk perception	question	numeric	cessation		belief		elshatarat2013.r	elshatarat2013.r_smokingcausescardiovasculareffects	risk perception	P
+smoking causes lung cancer	risk perception	question	numeric	cessation		belief		elshatarat2013.r	elshatarat2013.r_smokingcauseslungcancer	risk perception	P
+smoking causes other bodily effects	risk perception	question	numeric	cessation		belief		elshatarat2013.r	elshatarat2013.r_smokingcausesotherbodilyeffects	risk perception	P
+smoking causes respiratory system diseases	risk perception	question	numeric	cessation		belief		elshatarat2013.r	elshatarat2013.r_smokingcausesrespiratorysystemdiseases	risk perception	P
+smoking causes stroke	risk perception	question	numeric	cessation		belief		elshatarat2013.r	elshatarat2013.r_smokingcausesstroke	risk perception	P
+smoking harms my health	risk perception	question	numeric	cessation		belief		elshatarat2013.r	elshatarat2013.r_smokingharmsmyhealth	risk perception	P
+Intention to quit	intention	question	ordinal	cessation	inconsistent	proxy	NA	feng2010.r	feng2010.r_intentiontoquit		P
+Outcome expectancy	attitude	question	ordinal	cessation	NA	belief	NA	feng2010.r	feng2010.r_outcomeexpectancy		P
+Overall opinion of smoking	attitude	question	numeric	cessation	NA	belief	NA	feng2010.r	feng2010.r_overallopinionofsmoking		P
+Positive attitudes toward smoking	attitude	question	ordinal	cessation	inconsistent	determinant	NA	feng2010.r	feng2010.r_positiveattitudestowardsmoking		P
+Worried about future health	risk perception	question	ordinal	cessation	NA	belief	NA	feng2010.r	feng2010.r_worriedaboutfuturehealth		P
+	external factor								garcia2010.r_householdsmokingprohibited	external factor	P
+	risk perception								garcia2010.r_knowledgeofhealtheffects	risk perception	P
+	attitude								garcia2010.r_positivebeliefsonphysicalandsocialconsequencesofsmoking	attitude	P
+Everyone acts unhealthy sometimes	disengagement beliefs	question	numeric	initiation	NA	behavior	NA	kleinjan2009.r	kleinjan2009.r_everyoneactsunhealthysometimes	disengagement beliefs	P
+Everything is unhealthy	disengagement beliefs	question	numeric	initiation	NA	behavior	NA	kleinjan2009.r	kleinjan2009.r_everythingisunhealthy	disengagement beliefs	P
+Health is not the only thing in life	disengagement beliefs	question	numeric	initiation	NA	behavior	NA	kleinjan2009.r	kleinjan2009.r_healthisnottheonlythinginlife	disengagement beliefs	P
+If it were really bad, it would be forbidden	disengagement beliefs	question	numeric	initiation	NA	behavior	NA	kleinjan2009.r	kleinjan2009.r_ifitwerereallybaditwouldbeforbidden	disengagement beliefs	P
+I live healthy otherwise	disengagement beliefs	question	numeric	initiation	NA	behavior	NA	kleinjan2009.r	kleinjan2009.r_ilivehealthyotherwise	disengagement beliefs	P
+Know heavy smokers that lived long	disengagement beliefs	question	numeric	initiation	NA	behavior	NA	kleinjan2009.r	kleinjan2009.r_knowheavysmokersthatlivedlong	disengagement beliefs	P
+Medical science will invent something	disengagement beliefs	question	numeric	initiation	NA	behavior	NA	kleinjan2009.r	kleinjan2009.r_medicalsciencewillinventsomething	disengagement beliefs	P
+Not everyone gets sick through smoking	disengagement beliefs	question	numeric	initiation	NA	behavior	NA	kleinjan2009.r	kleinjan2009.r_noteveryonegetssickthroughsmoking	disengagement beliefs	P
+Pollution is just as unhealthy	disengagement beliefs	question	numeric	initiation	NA	behavior	NA	kleinjan2009.r	kleinjan2009.r_pollutionisjustasunhealthy	disengagement beliefs	P
+quit intention	intention	question	numeric	initiation	NA	behavior	NA	kleinjan2009.r	kleinjan2009.r_quitintention	intention	P
+Rather a short/good life than a long/boring life	disengagement beliefs	question	numeric	initiation	NA	behavior	NA	kleinjan2009.r	kleinjan2009.r_ratherashortgoodlifethanalongboringlife	disengagement beliefs	P
+There are lots of risks in life	disengagement beliefs	question	numeric	initiation	NA	behavior	NA	kleinjan2009.r	kleinjan2009.r_therearelotsofrisksinlife	disengagement beliefs	P
+You have to die of something	disengagement beliefs	question	numeric	initiation	NA	behavior	NA	kleinjan2009.r	kleinjan2009.r_youhavetodieofsomething	disengagement beliefs	P
+Anticipated regret	Anticipated regret	question	numeric	cessation		belief		lazuras2012.r	lazuras2012.r_anticipatedregret	Anticipated regret	P
+Attitudes	attitude	aggregate	numeric	cessation		determinant		lazuras2012.r	lazuras2012.r_attitudes	attitude	P
+Descriptive norms - quitters	descriptive norm	question	numeric	cessation		belief		lazuras2012.r	lazuras2012.r_descriptivenormsquitters	descriptive norm	P
+Descriptive norms - smokers	descriptive norm	question	numeric	cessation		belief		lazuras2012.r	lazuras2012.r_descriptivenormssmokers	descriptive norm	P
+Health benefit from quitting	risk perception	question	numeric	cessation		belief		lazuras2012.r	lazuras2012.r_healthbenefitfromquitting	risk perception	P
+Health risk from continuing smoking	risk perception	question	numeric	cessation		belief		lazuras2012.r	lazuras2012.r_healthriskfromcontinuingsmoking		P
+	risk perception								lazuras2012.r_healthriskfromsmoking	risk perception	P
+Quit intention	intention	question	numeric	cessation		proxy		lazuras2012.r	lazuras2012.r_quitintention		P
+	intention								lazuras2012.r_quitintentions	intention	P
+Self-efficacy	self-efficacy	question	numeric	cessation		determinant		lazuras2012.r	lazuras2012.r_selfefficacy	self-efficacy	P
+Subjective norms	subjective norms	question	numeric	cessation		belief		lazuras2012.r	lazuras2012.r_subjectivenorms	subjective norms	P
+Perceived support from friends	injunctive norm	question	ordinal	cessation		belief	NA	lennox1994.r	lennox1994.r_perceivedsupportfromfriends		P
+Perceived support from other family members	injunctive norm	question	ordinal	cessation		belief	NA	lennox1994.r	lennox1994.r_perceivedsupportfromotherfamilymembers		P
+Perceived support from partner	injunctive norm	question	ordinal	cessation		belief	NA	lennox1994.r	lennox1994.r_perceivedsupportfrompartner		P
+Perceived support from workmates	injunctive norm	question	ordinal	cessation		belief	NA	lennox1994.r	lennox1994.r_perceivedsupportfromworkmates		P
+Psychosocial smoker	irrelevant	question	logical	cessation		belief	NA	lennox1994.r	lennox1994.r_psychosocialsmoker		P
+Smoking increases risk of bronchitis	risk perception	question	ordinal	cessation		belief	NA	lennox1994.r	lennox1994.r_smokingincreasesriskofbronchitis		P
+Smoking increases risk of heart disease	risk perception	question	ordinal	cessation		belief	NA	lennox1994.r	lennox1994.r_smokingincreasesriskofheartdisease		P
+Smoking increases risk of lung cancer	risk perception	question	ordinal	cessation		belief	NA	lennox1994.r	lennox1994.r_smokingincreasesriskoflungcancer		P
+Successful quitting	behavior	question	logical	cessation		behavior	NA	lennox1994.r	lennox1994.r_successfulquitting		P
+									Maassen2004.r_		P
+Bad for health	risk perception	question	numeric	initiation	inconsistent	belief	NA	Maassen2004.r	Maassen2004.r_badforhealth		P
+Difficult to quit	self-efficacy	question	numeric	initiation	inconsistent	belief	NA	Maassen2004.r	Maassen2004.r_difficulttoquit		P
+Easier to be part of the crowd	self-efficacy	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_easiertobepartofthecrowd		P
+Friends pay more attention to me	injunctive norm	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_friendspaymoreattentiontome		P
+Helps calm nerves	attitude	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_helpscalmnerves		P
+Helps concentrate in class	attitude	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_helpsconcentrateinclass		P
+Helps feel confident in company	attitude	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_helpsfeelconfidentincompany		P
+Helps keep slim	attitude	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_helpskeepslim		P
+Helps relax	attitude	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_helpsrelax		P
+Intention to smoke next year	intention	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_intentiontosmokenextyear		P
+Is stupid of me	attitude	question	numeric	initiation	inconsistent	belief	NA	Maassen2004.r	Maassen2004.r_isstupidofme		P
+Is wrong	attitude	question	numeric	initiation	inconsistent	belief	NA	Maassen2004.r	Maassen2004.r_iswrong		P
+It's ok if not inhaled	risk perception	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_itsokifnotinhaled		P
+Only harmful if you smoke a lot	risk perception	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_onlyharmfulifyousmokealot		P
+Percieved behavior - best friend smokes	descriptive norm	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_percievedbehaviorbestfriendsmokes		P
+Percieved behavior - brother smokes	descriptive norm	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_percievedbehaviorbrothersmokes		P
+Percieved behavior - father smokes	descriptive norm	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_percievedbehaviorfathersmokes		P
+Percieved behavior - most friends smoke	descriptive norm	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_percievedbehaviormostfriendssmoke		P
+Percieved behavior - mother smokes	descriptive norm	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_percievedbehaviormothersmokes		P
+Percieved behavior - sister smokes	descriptive norm	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_percievedbehaviorsistersmokes		P
+Percieved behavior - teacher smokes	descriptive norm	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_percievedbehaviorteachersmokes		P
+Safe to smoke for a year or two	risk perception	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_safetosmokeforayearortwo		P
+Self efficacy when doing homework	self-efficacy	question	numeric	initiation	inconsistent	belief	NA	Maassen2004.r	Maassen2004.r_selfefficacywhendoinghomework		P
+Self efficacy when nervous	self-efficacy	question	numeric	initiation	inconsistent	belief	NA	Maassen2004.r	Maassen2004.r_selfefficacywhennervous		P
+Self efficacy when offered a cigarette	self-efficacy	question	numeric	initiation	inconsistent	belief	NA	Maassen2004.r	Maassen2004.r_selfefficacywhenofferedacigarette		P
+Self efficacy when on the way home from school	self-efficacy	question	numeric	initiation	inconsistent	belief	NA	Maassen2004.r	Maassen2004.r_selfefficacywhenonthewayhomefromschool		P
+Self efficacy when upset	self-efficacy	question	numeric	initiation	inconsistent	belief	NA	Maassen2004.r	Maassen2004.r_selfefficacywhenupset		P
+Self efficacy with smoking friends	self-efficacy	question	numeric	initiation	inconsistent	belief	NA	Maassen2004.r	Maassen2004.r_selfefficacywithsmokingfriends		P
+Smoke from other people is harmful	risk perception	question	numeric	initiation	inconsistent	belief	NA	Maassen2004.r	Maassen2004.r_smokefromotherpeopleisharmful		P
+Smokers	behavior	question	numeric	initiation	consistent	behavior	NA	Maassen2004.r	Maassen2004.r_smokers		P
+smoking	behavior	question	logical	initiation	consistent	behavior	NA	Maassen2004.r	Maassen2004.r_smoking		P
+Smoking harms health	risk perception	question	numeric	initiation	inconsistent	belief	NA	Maassen2004.r	Maassen2004.r_smokingharmshealth		P
+smoking is pleasant	attitude	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_smokingispleasant	attitude	P
+Social norm best friend	subjective norms	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_socialnormbestfriend		P
+Social norm brother	subjective norms	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_socialnormbrother		P
+Social norm father	subjective norms	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_socialnormfather		P
+Social norm friends	subjective norms	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_socialnormfriends		P
+Social norm mother	subjective norms	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_socialnormmother		P
+Social norm sister	subjective norms	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_socialnormsister		P
+Social norm teacher	subjective norms	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_socialnormteacher		P
+Social pressure best friend	injunctive norm	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_socialpressurebestfriend		P
+Social pressure brother	injunctive norm	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_socialpressurebrother		P
+social pressure father	injunctive norm	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_socialpressurefather		P
+social pressure mother	injunctive norm	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_socialpressuremother		P
+Social pressure sister	injunctive norm	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_socialpressuresister		P
+Social pressure teacher	injunctive norm	question	numeric	initiation	consistent	belief	NA	Maassen2004.r	Maassen2004.r_socialpressureteacher		P
+Sorry I ever started	Anticipated regret	question	numeric	initiation	inconsistent	determinant	NA	Maassen2004.r	Maassen2004.r_sorryieverstarted		P
+Tastes horrible	attitude	question	numeric	initiation	inconsistent	determinant	NA	Maassen2004.r	Maassen2004.r_tasteshorrible		P
+barriers to quitting	self-efficacy	aggregate	numeric	cessation	inconsistent	behavior		martin2006.r	martin2006.r_barrierstoquitting		P
+motivation to quit	intention	aggregate	numeric	cessation	consistent	behavior		martin2006.r	martin2006.r_motivationtoquit		P
+self-efficacy	self-efficacy	question	numeric	cessation	consistent	behavior	NA	martin2006.r	martin2006.r_selfefficacy		P
+Best friend's smoking status	descriptive norm	question	numeric	initiation	consistent	belief	NA	miller2006.r	miller2006.r_bestfriendssmokingstatus		P
+experimentation	attitude	question	logical	initiation	consistent	behavior	NA	miller2006.r	miller2006.r_experimentation		P
+no. of best friends using tobacco	descriptive norm	question	numeric	initiation	consistent	belief	NA	miller2006.r	miller2006.r_noofbestfriendsusingtobacco		P
+reactance	attitude	aggregate	numeric	initiation	consistent	determinant	NA	miller2006.r	miller2006.r_reactance		P
+susceptibility to initiation	pending	aggregate	numeric	initiation	consistent	determinant	NA	miller2006.r	miller2006.r_susceptibilitytoinitiation		P
+Degree of difficulty in quitting	self-efficacy	question	numeric	cessation		belief		myung2012.r	myung2012.r_degreeofdifficultyinquitting		P
+Health damage from smoking	risk perception	question	numeric	cessation		belief		myung2012.r	myung2012.r_healthdamagefromsmoking		P
+Intention to quit	intention	question	numeric	cessation		proxy		myung2012.r	myung2012.r_intentiontoquit		P
+Medical evidence is exaggerated	risk perception	question	numeric	cessation		belief		myung2012.r	myung2012.r_medicalevidenceisexaggerated		P
+Self-efficacy regarding quitting smoking	self-efficacy	question	numeric	cessation		belief		myung2012.r	myung2012.r_selfefficacyregardingquittingsmoking		P
+Smoking is no riskier than many other things	risk perception	question	numeric	cessation		belief		myung2012.r	myung2012.r_smokingisnoriskierthanmanyotherthings		P
+You've got to die of something	risk perception	question	numeric	cessation		belief		myung2012.r	myung2012.r_youvegottodieofsomething		P
+Addiction - physical and psychological	irrelevant	question	text	cessation		belief		nandemin2010.r	nandemin2010.r_addictionphysicalandpsychological	irrelevant	P
+Appetite suppression and weight	attitude	question	text	cessation		belief		nandemin2010.r	nandemin2010.r_appetitesuppressionandweight	attitude	P
+Attention to alcohol and smoking	attentional bias	question	text	cessation		belief		nandemin2010.r	nandemin2010.r_attentiontoalcoholandsmoking	attentional bias	P
+Buddy-systems	external factor	question	text	cessation		belief		nandemin2010.r	nandemin2010.r_buddysystems	external factor	P
+Exercise	external factor	question	text	cessation		belief		nandemin2010.r	nandemin2010.r_exercise	external factor	P
+Group based meetings	external factor	question	text	cessation		belief		nandemin2010.r	nandemin2010.r_groupbasedmeetings	external factor	P
+Inspirational motivation	external factor	question	text	cessation		belief		nandemin2010.r	nandemin2010.r_inspirationalmotivation	external factor	P
+Intervention should be fun	irrelevant	question	text	cessation		belief		nandemin2010.r	nandemin2010.r_interventionshouldbefun	irrelevant	P
+Lecturing should be avoided	irrelevant	question	text	cessation		belief		nandemin2010.r	nandemin2010.r_lecturingshouldbeavoided	irrelevant	P
+Overal healthy behavior should be promoted alongside intervention	irrelevant	question	text	cessation		belief		nandemin2010.r	nandemin2010.r_overalhealthybehaviorshouldbepromotedalongsideintervention	irrelevant	P
+Pairing of alcohol and cigarettes	attitude	question	text	cessation		belief		nandemin2010.r	nandemin2010.r_pairingofalcoholandcigarettes	attitude	P
+Peer influence	subjective norms	question	text	cessation		belief		nandemin2010.r	nandemin2010.r_peerinfluence	subjective norms	P
+Projected social image	injunctive norm	question	text	cessation		belief		nandemin2010.r	nandemin2010.r_projectedsocialimage	injunctive norm	P
+Stress management and relaxation	attitude	question	text	cessation		belief		nandemin2010.r	nandemin2010.r_stressmanagementandrelaxation	attitude	P
+Support	external factor	question	text	cessation		belief		nandemin2010.r	nandemin2010.r_support	external factor	P
+Time management e.g. boredom	attitude	question	text	cessation		belief		nandemin2010.r	nandemin2010.r_timemanagementegboredom	attitude	P
+I believed I could quit whenever I wanted to	disengagement beliefs	question	text	initiation	consistent	belief	NA	oh2010.r	oh2010.r_ibelievedicouldquitwheneveriwantedto	disengagement beliefs	P
+It helped me manage my stress	attitude	question	text	initiation	consistent	belief	NA	oh2010.r	oh2010.r_ithelpedmemanagemystress	attitude	P
+I was less depressed when I smoked	attitude	question	text	initiation	consistent	belief	NA	oh2010.r	oh2010.r_iwaslessdepressedwhenismoked		P
+I was not worried about health effects	risk perception	question	text	initiation	consistent	belief	NA	oh2010.r	oh2010.r_iwasnotworriedabouthealtheffects		P
+My friends approved of my smoking	injunctive norm	question	text	initiation	consistent	belief	NA	oh2010.r	oh2010.r_myfriendsapprovedofmysmoking	injunctive norm	P
+my friends smoked	descriptive norm	question	text	initiation	consistent	belief	NA	oh2010.r	oh2010.r_myfriendssmoked		P
+other	irrelevant	question	text	initiation	consistent	belief	NA	oh2010.r	oh2010.r_other		P
+Smoking made me look more cool	injunctive norm	question	text	initiation	consistent	belief	NA	oh2010.r	oh2010.r_smokingmademelookmorecool	injunctive norm	P
+Tobacco advertising was attractive to me	attitude	question	text	initiation	consistent	belief	NA	oh2010.r	oh2010.r_tobaccoadvertisingwasattractivetome	attitude	P
+Weight concerns	attitude	question	text	initiation	consistent	belief	NA	oh2010.r	oh2010.r_weightconcerns	attitude	P
+	self-efficacy								owen1992.r_lowconfidenceinabilitytoquit	self-efficacy	P
+	risk perception								owen1992.r_seesfewhealthrisks	risk perception	P
+	self-efficacy								owen1992.r_seesquittingasbeingverydifficultv	self-efficacy	P
+attitude cons	attitude	aggregate	numeric	cessation	consistent	belief	NA	panday2005.r	panday2005.r_attitudecons		P
+best friend non-smoking	descriptive norm	question	numeric	cessation	consistent	belief	NA	panday2005.r	panday2005.r_bestfriendnonsmoking		P
+brother non-smoking	descriptive norm	question	numeric	cessation	consistent	belief	NA	panday2005.r	panday2005.r_brothernonsmoking		P
+Cons of smoking	attitude	aggregate	numeric	cessation	consistent	belief	NA	panday2005.r	panday2005.r_consofsmoking	attitude	P
+intention not to smoke	intention	question	numeric	cessation	consistent	belief	NA	panday2005.r	panday2005.r_intentionnottosmoke		P
+Intention not to smoke within next year	intention	question	numeric	cessation	consistent	belief	NA	panday2005.r	panday2005.r_intentionnottosmokewithinnextyear	intention	P
+Perceived behavior of important others	descriptive norm	aggregate	logical	cessation	consistent	belief	NA	panday2005.r	panday2005.r_perceivedbehaviorofimportantothers		P
+	descriptive norm								panday2005.r_perceivednonsmokingbehaviorofimportantothers	descriptive norm	P
+Pros of smoking	attitude	aggregate	numeric	cessation	inconsistent	belief	NA	panday2005.r	panday2005.r_prosofsmoking	attitude	P
+self-efficacy not to smoke	self-efficacy	aggregate	numeric	cessation	consistent	belief	NA	panday2005.r	panday2005.r_selfefficacynottosmoke		P
+Self efficacy - routine	self-efficacy	aggregate	numeric	cessation	consistent	belief	NA	panday2005.r	panday2005.r_selfefficacyroutine	self-efficacy	P
+Self efficacy - social	self-efficacy	aggregate	numeric	cessation	consistent	belief	NA	panday2005.r	panday2005.r_selfefficacysocial	self-efficacy	P
+Self efficacy - stress	self-efficacy	aggregate	numeric	cessation	consistent	belief	NA	panday2005.r	panday2005.r_selfefficacystress	self-efficacy	P
+smoking status	behavior	question	logical	cessation	consistent	behavior	NA	panday2005.r	panday2005.r_smokingstatus		P
+Social nonsmoking pressure family	injunctive norm	aggregate	numeric	cessation	consistent	belief	NA	panday2005.r	panday2005.r_socialnonsmokingpressurefamily	injunctive norm	P
+Social nonsmoking pressure friends	injunctive norm	question	numeric	cessation	consistent	belief	NA	panday2005.r	panday2005.r_socialnonsmokingpressurefriends	injunctive norm	P
+Social nonsmoking pressure teachers	injunctive norm	question	numeric	cessation	consistent	belief	NA	panday2005.r	panday2005.r_socialnonsmokingpressureteachers	injunctive norm	P
+Social norm family	subjective norms	aggregate	numeric	cessation	consistent	belief	NA	panday2005.r	panday2005.r_socialnormfamily	subjective norms	P
+Social norm friends	subjective norms	question	numeric	cessation	consistent	belief	NA	panday2005.r	panday2005.r_socialnormfriends		P
+	subjective norms								panday2005.r_socialnormfriendssocialnormteachers	subjective norms	P
+Social norm teachers	subjective norms	question	numeric	cessation	consistent	belief	NA	panday2005.r	panday2005.r_socialnormteachers		P
+social pressure not to smoke	injunctive norm	aggregate	numeric	cessation	consistent	belief	NA	panday2005.r	panday2005.r_socialpressurenottosmoke		P
+Concern over disease	risk perception	question	numeric	cessation	consistent	belief	NA	Pederson1984.r	Pederson1984.r_concernoverdisease		P
+Efficacy of smoking cessation	response efficacy	question	numeric	cessation	consistent	belief	NA	Pederson1984.r	Pederson1984.r_efficacyofsmokingcessation		P
+Likelihood that smoking is causing chest problem	risk perception	question	numeric	cessation	consistent	belief	NA	Pederson1984.r	Pederson1984.r_likelihoodthatsmokingiscausingchestproblem		P
+Perceived severity	risk perception	question	numeric	cessation	consistent	belief	NA	Pederson1984.r	Pederson1984.r_perceivedseverity		P
+Quitting	behavior	question	numeric	cessation	consistent	belief	NA	Pederson1984.r	Pederson1984.r_quitting		P
+activities/rap contest	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_activitiesrapcontest		P
+Aesthetics	attitude	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_aesthetics		P
+affected source/direct communication	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_affectedsourcedirectcommunication		P
+affected source of communication	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_affectedsourceofcommunication		P
+attractive source/direct communication	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_attractivesourcedirectcommunication		P
+attractive source of communication	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_attractivesourceofcommunication		P
+Awareness of declining personal fitness aids cessation	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_awarenessofdecliningpersonalfitnessaidscessation		P
+causes smoking	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_causessmoking		P
+Cessation programmes are more enjoyable if they involve fun activities	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_cessationprogrammesaremoreenjoyableiftheyinvolvefunactivities		P
+Cessation programmes without fun activities are boring and aren't inviting to learn	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_cessationprogrammeswithoutfunactivitiesareboringandarentinvitingtolearn		P
+Communication by affected sources could aid recruitment for cessation programmes	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_communicationbyaffectedsourcescouldaidrecruitmentforcessationprogrammes		P
+Current cessation programmes only talk about cigarettes, not life experiences	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_currentcessationprogrammesonlytalkaboutcigarettesnotlifeexperiences		P
+Damage to personal health	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_damagetopersonalhealth		P
+direct communication	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_directcommunication		P
+Direct communication about hazards from affected source	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_directcommunicationabouthazardsfromaffectedsource		P
+Direct communication by attractive source	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_directcommunicationbyattractivesource		P
+Don't know	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_dontknow		P
+encouragement	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_encouragement		P
+Encouragement without pressure aids cessation	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_encouragementwithoutpressureaidscessation		P
+environmental change	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_environmentalchange		P
+Family sickness	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_familysickness		P
+food/fun activities	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_foodfunactivities		P
+Give people real, truthful information about the importance of cessation	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_givepeoplerealtruthfulinformationabouttheimportanceofcessation		P
+If I knew my younger sister smoked -that would aid my cessation-	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_ifiknewmyyoungersistersmokedthatwouldaidmycessation		P
+lack activities	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_lackactivities		P
+music	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_music		P
+Never thought about it	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_neverthoughtaboutit		P
+non-supportive	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_nonsupportive		P
+Non-supportive comments from the environment are discouraging	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_nonsupportivecommentsfromtheenvironmentarediscouraging		P
+not effective	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_noteffective		P
+Not liking the way you smell aids cessation	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_notlikingthewayyousmellaidscessation		P
+Organize youth activities  - rap battle- about non-smoking and positive activities	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_organizeyouthactivitiesrapbattleaboutnonsmokingandpositiveactivities		P
+parental cessation	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_parentalcessation		P
+Parental cessation could be encouraging	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_parentalcessationcouldbeencouraging		P
+parental encouragement	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_parentalencouragement		P
+Parental encouragement aides cessation	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_parentalencouragementaidescessation		P
+partner encouragement	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_partnerencouragement		P
+Partner encouragement motivates to quit	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_partnerencouragementmotivatestoquit		P
+Peer pressure	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_peerpressure		P
+Peer pressure from friends encourages to quit	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_peerpressurefromfriendsencouragestoquit		P
+Personal fitness	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_personalfitness		P
+personal health	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_personalhealth		P
+professional sources of communication	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_professionalsourcesofcommunication		P
+real information	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_realinformation		P
+Recruitment for cessation programme by attractive source	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_recruitmentforcessationprogrammebyattractivesource		P
+Recruitment should happen face to face so questions can be answered	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_recruitmentshouldhappenfacetofacesoquestionscanbeanswered		P
+Seeing ill relatives aids cessation	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_seeingillrelativesaidscessation		P
+Self-control	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_selfcontrol		P
+Talks and recruitment by physicians	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_talksandrecruitmentbyphysicians		P
+Tobacco awareness programmes don't do anything, are boring and cause desire to smoke	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_tobaccoawarenessprogrammesdontdoanythingareboringandcausedesiretosmoke		P
+unknown	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_unknown		P
+Wanting more control in life	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_wantingmorecontrolinlife		P
+younger family smokes	peripheral	question	text	cessation	consistent	belief	NA	peters2011.r	peters2011.r_youngerfamilysmokes		P
+Personal desire is required to quit	self-efficacy	question	text	cessation	consistent	belief	NA	pletsch2003.r	pletsch2003.r_personaldesireisrequiredtoquit	self-efficacy	P
+Smoking relieves stress	attitude	question	text	cessation	inconsistent	belief	NA	pletsch2003.r	pletsch2003.r_smokingrelievesstress		P
+Stress from violent environment/neighbourhood	external factor	question	text	cessation	inconsistent	belief	NA	pletsch2003.r	pletsch2003.r_stressfromviolentenvironmentneighbourhood	external factor	P
+Stressful family situation	external factor	question	text	cessation	inconsistent	belief	NA	pletsch2003.r	pletsch2003.r_stressfulfamilysituation	external factor	P
+Stress increases need to smoke	attitude	question	text	cessation	inconsistent	belief	NA	pletsch2003.r	pletsch2003.r_stressincreasesneedtosmoke	attitude	P
+Willpower is required to quit	self-efficacy	question	text	cessation	consistent	belief	NA	pletsch2003.r	pletsch2003.r_willpowerisrequiredtoquit	self-efficacy	P
+Worry about health problems	risk perception	question	text	cessation	consistent	belief	NA	pletsch2003.r	pletsch2003.r_worryabouthealthproblems	risk perception	P
+You can do it if you want to	self-efficacy	question	text	cessation	consistent	belief	NA	pletsch2003.r	pletsch2003.r_youcandoitifyouwantto	self-efficacy	P
+You have to be ready to quit	self-efficacy	question	text	cessation	consistent	belief	NA	pletsch2003.r	pletsch2003.r_youhavetobereadytoquit	self-efficacy	P
+attitude towards SCTs	attitude	aggregate	numeric	cessation	consistent	determinant	NA	rijt2004.r	rijt2004.r_attitudetowardsscts		P
+cessation readiness	intention	aggregate	numeric	cessation	consistent	determinant	NA	rijt2004.r	rijt2004.r_cessationreadiness		P
+cons of abstinence,	attitude	aggregate	numeric	cessation	consistent	determinant	NA	rijt2004.r	rijt2004.r_consofabstinence		P
+experienced social stimulation for abstinence	injunctive norm	aggregate	numeric	cessation	consistent	determinant	NA	rijt2004.r	rijt2004.r_experiencedsocialstimulationforabstinence		P
+pros of abstinence	attitude	aggregate	numeric	cessation	consistent	determinant	NA	rijt2004.r	rijt2004.r_prosofabstinence		P
+self-efficacy for abstinence	self-efficacy	aggregate	numeric	cessation	consistent	determinant	NA	rijt2004.r	rijt2004.r_selfefficacyforabstinence		P
+any sibling smoking	descriptive norm	question	logical	initiation	consistent	belief	NA	rohde2003.r	rohde2003.r_anysiblingsmoking		P
+initiation	behavior	question	logical	initiation	consistent	behavior	NA	rohde2003.r	rohde2003.r_initiation		P
+maternal smoking	descriptive norm	question	logical	initiation	consistent	belief	NA	rohde2003.r	rohde2003.r_maternalsmoking		P
+paternal smoking	descriptive norm	question	logical	initiation	consistent	belief	NA	rohde2003.r	rohde2003.r_paternalsmoking		P
+aesthetics	attitude	aggregate	numeric	cessation	consistent	belief	NA	Salih1996.r	Salih1996.r_aesthetics		P
+cessation status	behavior	question	logical	cessation	consistent	behavior	NA	Salih1996.r	Salih1996.r_cessationstatus		P
+example setting	attitude	aggregate	numeric	cessation	consistent	belief	NA	Salih1996.r	Salih1996.r_examplesetting		P
+health	risk perception	aggregate	numeric	cessation	consistent	belief	NA	Salih1996.r	Salih1996.r_health		P
+I am capable of stopping	self-efficacy	aggregate	numeric	cessation	consistent	belief	NA	Salih1996.r	Salih1996.r_iamcapableofstopping		P
+quitting is important	attitude	aggregate	numeric	cessation	consistent	belief	NA	Salih1996.r	Salih1996.r_quittingisimportant		P
+quitting is personally relevant	moral norm	aggregate	numeric	cessation	consistent	belief	NA	Salih1996.r	Salih1996.r_quittingispersonallyrelevant		P
+self-control	selfregulation	aggregate	numeric	cessation	consistent	belief	NA	Salih1996.r	Salih1996.r_selfcontrol		P
+stopping is valuable	attitude	aggregate	numeric	cessation	consistent	belief	NA	Salih1996.r	Salih1996.r_stoppingisvaluable		P
+Craving-Negative Reinforcement	pending	aggregate	numeric	cessation	inconsistent	belief	NA	schnoll2011.r	schnoll2011.r_cravingnegativereinforcement		P
+Craving-Positive Reinforcement	pending	aggregate	numeric	cessation	inconsistent	belief	NA	schnoll2011.r	schnoll2011.r_cravingpositivereinforcement		P
+intention to quit	intention	question	numeric	cessation	consistent	proxy	NA	schnoll2011.r	schnoll2011.r_intentiontoquit		P
+RFS-Reduce Negative Affect	attitude	aggregate	numeric	cessation	inconsistent	belief	NA	schnoll2011.r	schnoll2011.r_rfsreducenegativeaffect		P
+RFS-Stimulation	attitude	aggregate	numeric	cessation	inconsistent	belief	NA	schnoll2011.r	schnoll2011.r_rfsstimulation		P
+Risk Perception	risk perception	aggregate	numeric	cessation	consistent	belief	NA	schnoll2011.r	schnoll2011.r_riskperception		P
+Self-efficacy	self-efficacy	aggregate	numeric	cessation	consistent	belief	NA	schnoll2011.r	schnoll2011.r_selfefficacy		P
+ceased smoking	behavior	question	logical	cessation	consistent	behavior	NA	siahpush2003.r	siahpush2003.r_ceasedsmoking		P
+friends who smoke	descriptive norm	question	numeric	cessation	inconsistent	belief	NA	siahpush2003.r	siahpush2003.r_friendswhosmoke		P
+believe that smoking makes diabetes worse	risk perception	question	numeric	cessation	consistent	belief	NA	stacy1990.r	stacy1990.r_believethatsmokingmakesdiabetesworse		P
+cessation	behavior	question	logical	behavior	consistent	belief	NA	stacy1990.r	stacy1990.r_cessation		P
+social support to stop	injunctive norm	question	numeric	cessation	consistent	belief	NA	stacy1990.r	stacy1990.r_socialsupporttostop		P
+stopping improves diabetes	risk perception	question	numeric	cessation	consistent	belief	NA	stacy1990.r	stacy1990.r_stoppingimprovesdiabetes		P
+advertising saying smoking is cool work against quitting motivation	irrelevant	question	text	cessation	inconsistent	belief	NA	tu2000.r	tu2000.r_advertisingsayingsmokingiscoolworkagainstquittingmotivation		P
+avoidance of smokers aids quitting	self-efficacy	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_avoidanceofsmokersaidsquitting		P
+balance/yin&yang	attitude	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_balanceyinyang		P
+being able to affor smoking lifts social status	injunctive norm	question	text	cessation	inconsistent	belief	NA	tu2000.r	tu2000.r_beingabletoafforsmokingliftssocialstatus		P
+breathing problems during exercise when smoking	attitude	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_breathingproblemsduringexercisewhensmoking		P
+cancer cells explode after quitting, therefore it is better to quit gradually	risk perception	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_cancercellsexplodeafterquittingthereforeitisbettertoquitgradually		P
+cigarettes are given as gifts	external factor	question	text	cessation	inconsistent	belief	NA	tu2000.r	tu2000.r_cigarettesaregivenasgifts		P
+cues	external factor	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_cues		P
+cultural attitude against smoking motivates to quit	external factor	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_culturalattitudeagainstsmokingmotivatestoquit		P
+cultural differences in US	external factor	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_culturaldifferencesinus		P
+dependence	external factor	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_dependence		P
+desire to be part of the group	injunctive norm	question	text	cessation	inconsistent	belief	NA	tu2000.r	tu2000.r_desiretobepartofthegroup		P
+dislike smell of cigarettes	attitude	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_dislikesmellofcigarettes		P
+distractions aid quitting	self-efficacy	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_distractionsaidquitting		P
+doctors and nurses also smoke	disengagement beliefs	question	text	cessation	inconsistent	belief	NA	tu2000.r	tu2000.r_doctorsandnursesalsosmoke		P
+doctors don't adequatly explain the risks of smoking	peripheral	question	text	cessation	inconsistent	belief	NA	tu2000.r	tu2000.r_doctorsdontadequatlyexplaintherisksofsmoking		P
+entree/business	peripheral	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_entreebusiness		P
+etiquette	peripheral	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_etiquette		P
+exercise can balance disadvantages of smoking	disengagement beliefs	question	text	cessation	inconsistent	belief	NA	tu2000.r	tu2000.r_exercisecanbalancedisadvantagesofsmoking		P
+felt sick when on two packs a day	attitude	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_feltsickwhenontwopacksaday		P
+friends smoked	descriptive norm	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_friendssmoked		P
+having health problems helps determination to quit	risk perception	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_havinghealthproblemshelpsdeterminationtoquit		P
+I haven't smoked long enough to damage my health	risk perception	question	text	cessation	inconsistent	belief	NA	tu2000.r	tu2000.r_ihaventsmokedlongenoughtodamagemyhealth		P
+inadequacy of knowledge alone	peripheral	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_inadequacyofknowledgealone		P
+I quit because I was determined	selfregulation	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_iquitbecauseiwasdetermined		P
+I smoke outside to prevent exposure to family	peripheral	question	text	cessation	inconsistent	belief	NA	tu2000.r	tu2000.r_ismokeoutsidetopreventexposuretofamily		P
+I will die anyway	disengagement beliefs	question	text	cessation	inconsistent	belief	NA	tu2000.r	tu2000.r_iwilldieanyway		P
+lacked skill to deal with stress	self-efficacy	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_lackedskilltodealwithstress		P
+lack of symptoms/abnormal checkup	risk perception	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_lackofsymptomsabnormalcheckup		P
+maturity/maleness	peripheral	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_maturitymaleness		P
+negative health effects of smoking	risk perception	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_negativehealtheffectsofsmoking		P
+not educated enough to absorb health information/lack language	peripheral	question	text	cessation	inconsistent	belief	NA	tu2000.r	tu2000.r_noteducatedenoughtoabsorbhealthinformationlacklanguage		P
+personal willingness/determination	selfregulation	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_personalwillingnessdetermination		P
+physical	attitude	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_physical		P
+pressure from social group motivates quitting	injunctive norm	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_pressurefromsocialgroupmotivatesquitting		P
+psychological	attitude	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_psychological		P
+quitting improves health and looks	attitude	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_quittingimproveshealthandlooks		P
+quitting in social group builds motivation to quit	injunctive norm	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_quittinginsocialgroupbuildsmotivationtoquit		P
+quitting makes you feel uneasy/lonely	attitude	question	text	cessation	inconsistent	belief	NA	tu2000.r	tu2000.r_quittingmakesyoufeeluneasylonely		P
+reduced smoking cues in media	peripheral	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_reducedsmokingcuesinmedia		P
+replacing cigarette with other, less harmful thing aids quitting	peripheral	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_replacingcigarettewithotherlessharmfulthingaidsquitting		P
+restrictions	peripheral	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_restrictions		P
+rules about smoking at home	injunctive norm	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_rulesaboutsmokingathome		P
+rules of family/friends	injunctive norm	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_rulesoffamilyfriends		P
+smoke to relax from nervousness	attitude	question	text	cessation	inconsistent	belief	NA	tu2000.r	tu2000.r_smoketorelaxfromnervousness		P
+smoke to relieve pressure	attitude	question	text	cessation	inconsistent	belief	NA	tu2000.r	tu2000.r_smoketorelievepressure		P
+smoking brings good luck in business, studies and mahjong	attitude	question	text	cessation	inconsistent	belief	NA	tu2000.r	tu2000.r_smokingbringsgoodluckinbusinessstudiesandmahjong		P
+smoking is fun	attitude	question	text	cessation	inconsistent	belief	NA	tu2000.r	tu2000.r_smokingisfun		P
+smoking is like burning money	attitude	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_smokingislikeburningmoney		P
+smoking is like drinking, don't do it too much	attitude	question	text	cessation	inconsistent	belief	NA	tu2000.r	tu2000.r_smokingislikedrinkingdontdoittoomuch		P
+smoking is part of social life in china	descriptive norm	question	text	cessation	inconsistent	belief	NA	tu2000.r	tu2000.r_smokingispartofsociallifeinchina		P
+smoking is pleasurable	attitude	question	text	cessation	inconsistent	belief	NA	tu2000.r	tu2000.r_smokingispleasurable		P
+smoking is relaxing	attitude	question	text	cessation	inconsistent	belief	NA	tu2000.r	tu2000.r_smokingisrelaxing		P
+smoking is wasteful	attitude	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_smokingiswasteful		P
+smoking not allowed in public places	peripheral	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_smokingnotallowedinpublicplaces		P
+smoking sooths/relaxes	attitude	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_smokingsoothsrelaxes		P
+social status	injunctive norm	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_socialstatus		P
+stimulates thinking	attitude	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_stimulatesthinking		P
+there are examples of smoking impacting and not-impacting health	risk perception	question	text	cessation	inconsistent	belief	NA	tu2000.r	tu2000.r_thereareexamplesofsmokingimpactingandnotimpactinghealth		P
+to not accept a cigarette in china is bad form	self-efficacy	question	text	cessation	inconsistent	belief	NA	tu2000.r	tu2000.r_tonotacceptacigaretteinchinaisbadform		P
+weight gain/better complexion after quitting	attitude	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_weightgainbettercomplexionafterquitting		P
+you don't smoke where it isn't allowed	peripheral	question	text	cessation	consistent	belief	NA	tu2000.r	tu2000.r_youdontsmokewhereitisntallowed		P
+attitude	attitude	aggregate	numeric	cessation	consistent	belief	NA	willemsen1996.r	willemsen1996.r_attitude		P
+intention to quit	intention	aggregate	numeric	cessation	consistent	belief	NA	willemsen1996.r	willemsen1996.r_intentiontoquit		P
+number of daily cigarettes	irrelevant	behavior	numeric	cessation	consistent	belief	NA	willemsen1996.r	willemsen1996.r_numberofdailycigarettes		P
+past smoking behavior	irrelevant	question	numeric	cessation	consistent	behavior	NA	willemsen1996.r	willemsen1996.r_pastsmokingbehavior		P
+self-efficacy	self-efficacy	aggregate	numeric	cessation	consistent	belief	NA	willemsen1996.r	willemsen1996.r_selfefficacy		P
+smoking behavior at work	irrelevant	question	numeric	cessation	consistent	belief	NA	willemsen1996.r	willemsen1996.r_smokingbehavioratwork		P
+smoking behavior outside work	irrelevant	aggregate	numeric	cessation	consistent	belief	NA	willemsen1996.r	willemsen1996.r_smokingbehavioroutsidework		P
+social pressure at work	injunctive norm	aggregate	numeric	cessation	consistent	belief	NA	willemsen1996.r	willemsen1996.r_socialpressureatwork		P
+social pressure outside work	injunctive norm	aggregate	numeric	cessation	consistent	belief	NA	willemsen1996.r	willemsen1996.r_socialpressureoutsidework		P
+tolerance toward smoking	moral norm	aggregate	numeric	cessation	consistent	belief	NA	willemsen1996.r	willemsen1996.r_tolerancetowardsmoking		P

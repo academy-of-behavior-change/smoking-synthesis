@@ -1,0 +1,431 @@
+"study"	"variable"	"subsample"	"percentage"	"comment"	"qualitative"	"dominanceCoefficient"	"mean"	"sd"	"size"	"dependent"	"direction"	"values"	"uniqueVarID"
+"ahmed2004.r"	"curiosity"	"smokers"	52	"Table 2"	NA	NA	NA	NA	26	"initiation"	"consistent"	NA	"ahmed2004.r_curiosity"
+"ahmed2004.r"	"everyone smokes"	"smokers"	28	"Table 2"	NA	NA	NA	NA	26	"initiation"	"consistent"	NA	"ahmed2004.r_everyonesmokes"
+"ahmed2004.r"	"for fun"	"smokers"	16	"Table 2"	NA	NA	NA	NA	26	"initiation"	"consistent"	NA	"ahmed2004.r_forfun"
+"ahmed2004.r"	"to be cool"	"smokers"	40	"Table 2"	NA	NA	NA	NA	26	"initiation"	"consistent"	NA	"ahmed2004.r_tobecool"
+"ahmed2004.r"	"to please a friend"	"smokers"	24	"Table 2"	NA	NA	NA	NA	26	"initiation"	"consistent"	NA	"ahmed2004.r_topleaseafriend"
+"ahmed2004.r"	"afraid to say no"	"smokers"	20	"Table 2"	NA	NA	NA	NA	26	"initiation"	"consistent"	NA	"ahmed2004.r_afraidtosayno"
+"ahmed2004.r"	"stress at home (reason)"	"smokers"	24	"Table 2"	NA	NA	NA	NA	26	"initiation"	"consistent"	NA	"ahmed2004.r_stressathomereason"
+"ahmed2004.r"	"forget problems"	"smokers"	41.7	"Table 2"	NA	NA	NA	NA	26	"initiation"	"consistent"	NA	"ahmed2004.r_forgetproblems"
+"ahmed2004.r"	"relax"	"smokers"	36	"Table 2"	NA	NA	NA	NA	26	"initiation"	"consistent"	NA	"ahmed2004.r_relax"
+"ahmed2004.r"	"lung cancer"	"smokers"	60	"Table 2"	NA	NA	NA	NA	26	"initiation"	"inconsistent"	NA	"ahmed2004.r_lungcancer"
+"ahmed2004.r"	"mouth cancer"	"smokers"	36	"Table 2"	NA	NA	NA	NA	26	"initiation"	"inconsistent"	NA	"ahmed2004.r_mouthcancer"
+"ahmed2004.r"	"gum disease"	"smokers"	28	"Table 2"	NA	NA	NA	NA	26	"initiation"	"inconsistent"	NA	"ahmed2004.r_gumdisease"
+"ahmed2004.r"	"heart disease"	"smokers"	0	"Table 2"	NA	NA	NA	NA	26	"initiation"	"inconsistent"	NA	"ahmed2004.r_heartdisease"
+"ahmed2004.r"	"stroke"	"smokers"	4	"Table 2"	NA	NA	NA	NA	26	"initiation"	"inconsistent"	NA	"ahmed2004.r_stroke"
+"ahmed2004.r"	"short-term health risk"	"smokers"	4	"Table 2"	NA	NA	NA	NA	26	"initiation"	"inconsistent"	NA	"ahmed2004.r_shorttermhealthrisk"
+"ahmed2004.r"	"smoking"	NA	25.585	"Page 206, lower left column"	NA	NA	NA	NA	238	"initiation"	"consistent"	NA	"ahmed2004.r_smoking"
+"Berg2013.r"	"quitting will decrease the odds of more chemotherapy treatment"	NA	NA	"Table 4, page 804 in Knowing I have cancer"	"nothing reported"	NA	NA	NA	2467	"cessation"	"consistent"	NA	"Berg2013.r_quittingwilldecreasetheoddsofmorechemotherapytreatment"
+"Berg2013.r"	"Quitting decreases cancer spread"	NA	NA	"Table 4, page 804 in Knowing I have cancer"	"nothing reported"	NA	NA	NA	2467	"cessation"	"consistent"	NA	"Berg2013.r_quittingdecreasescancerspread"
+"Berg2013.r"	"Quitting decreases imminence of death"	NA	NA	"Table 4, page 804 in Knowing I have cancer"	"nothing reported"	NA	NA	NA	2467	"cessation"	"consistent"	NA	"Berg2013.r_quittingdecreasesimminenceofdeath"
+"Berg2013.r"	"Quitting makes physician provide cancer treatment"	NA	NA	"Table 4, page 804. Physician will withhold treatment to smokers. see: Doctors advice"	"nothing reported"	NA	NA	NA	2467	"cessation"	"consistent"	NA	"Berg2013.r_quittingmakesphysicianprovidecancertreatment"
+"Berg2013.r"	"Initiation of cancer treatment motivates to quit"	NA	NA	"Table 4, page 804"	"nothing reported, in Doctors advice"	NA	NA	NA	2467	"cessation"	"consistent"	NA	"Berg2013.r_initiationofcancertreatmentmotivatestoquit"
+"Berg2013.r"	"Quitting aides success of chemotherapy treatment"	NA	NA	"Table 4, page 804, in Doctors advice"	"nothing reported"	NA	NA	NA	2467	"cessation"	"consistent"	NA	"Berg2013.r_quittingaidessuccessofchemotherapytreatment"
+"Berg2013.r"	"Regret of re-initiation aides quitting"	NA	NA	"Table 4, page 804 in Doctors advice"	"nothing reported"	NA	NA	NA	2467	"cessation"	"consistent"	NA	"Berg2013.r_regretofreinitiationaidesquitting"
+"Berg2013.r"	"Surgeon refuses to operate on smokers"	NA	NA	"Table 4, page 804 in Doctors advice"	"nothing reported"	NA	NA	NA	2467	"cessation"	"consistent"	NA	"Berg2013.r_surgeonrefusestooperateonsmokers"
+"Berg2013.r"	"Quitting makes health problems beyond cancer less likely"	NA	NA	"Table 4, page 804 in Other health concerns"	"nothing reported"	NA	NA	NA	2467	"cessation"	"consistent"	NA	"Berg2013.r_quittingmakeshealthproblemsbeyondcancerlesslikely"
+"Berg2013.r"	"Quitting is smart"	NA	NA	"Table 4, page 804 in Other health concerns"	"nothing reported"	NA	NA	NA	2467	"cessation"	"consistent"	NA	"Berg2013.r_quittingissmart"
+"Berg2013.r"	"Quitting with partner"	NA	NA	"Table 4, page 804, in Social motivators"	"nothing reported"	NA	NA	NA	2467	"cessation"	"consistent"	NA	"Berg2013.r_quittingwithpartner"
+"Berg2013.r"	"Family advice motivates to quit"	NA	NA	"Table 4, page 804, in Social motivators"	"nothing reported"	NA	NA	NA	2467	"cessation"	"consistent"	NA	"Berg2013.r_familyadvicemotivatestoquit"
+"Berg2013.r"	"No other relief available (hopelessness)"	NA	NA	"Table 4, page 804, in Hopelessness"	"nothing reported"	NA	NA	NA	2467	"cessation"	"inconsistent"	NA	"Berg2013.r_nootherreliefavailablehopelessness"
+"Berg2013.r"	"No other relief available (stress)"	NA	NA	"Table 4, page 804, in Hopelessness"	"nothing reported"	NA	NA	NA	2467	"cessation"	"inconsistent"	NA	"Berg2013.r_nootherreliefavailablestress"
+"Berg2013.r"	"No other relief available (anxiety)"	NA	NA	"Table 4, page 804, in Hopelessness"	"nothing reported"	NA	NA	NA	2467	"cessation"	"inconsistent"	NA	"Berg2013.r_nootherreliefavailableanxiety"
+"Berg2013.r"	"Smoking alleviates stress"	NA	NA	"Table 4, page 804, in Stress"	"nothing reported"	NA	NA	NA	2467	"cessation"	"inconsistent"	NA	"Berg2013.r_smokingalleviatesstress"
+"Berg2013.r"	"Quitting causes severe discomfort"	NA	NA	"Table 4, page 804, in Addiction cravings"	"nothing reported"	NA	NA	NA	2467	"cessation"	"inconsistent"	NA	"Berg2013.r_quittingcausesseverediscomfort"
+"Berg2013.r"	"Cravings cause disregard of set rules"	NA	NA	"Table 4, page 804, in Addiction cravings"	"nothing reported"	NA	NA	NA	2467	"cessation"	"inconsistent"	NA	"Berg2013.r_cravingscausedisregardofsetrules"
+"Berg2013.r"	"Quitting raises mental addiction"	NA	NA	"Table 4, page 804, in Habit/routine"	"nothing reported"	NA	NA	NA	2467	"cessation"	"inconsistent"	NA	"Berg2013.r_quittingraisesmentaladdiction"
+"Berg2013.r"	"Use of replacement stimulus helps break smoking habit"	NA	NA	"Table 4, page 804, in Habit/routine"	"nothing reported"	NA	NA	NA	2467	"cessation"	"consistent"	NA	"Berg2013.r_useofreplacementstimulushelpsbreaksmokinghabit"
+"Berg2013.r"	"Quitting is difficult with smoking partner"	NA	NA	"Table 4, page 804, in Being around smokers"	"nothing reported"	NA	NA	NA	2467	"cessation"	"inconsistent"	NA	"Berg2013.r_quittingisdifficultwithsmokingpartner"
+"Berg2013.r"	"Self-control is difficult around smokers"	NA	NA	"Table 4, page 804, in Being around smokers"	"nothing reported"	NA	NA	NA	2467	"cessation"	"inconsistent"	NA	"Berg2013.r_selfcontrolisdifficultaroundsmokers"
+"Bidstrup2011.r"	"negative health effects"	NA	NA	"retrieved from bottom-left paragraph of page 92"	"nothing reported"	NA	NA	NA	534	"initiation"	"inconsistent"	NA	"Bidstrup2011.r_negativehealtheffects"
+"Bidstrup2011.r"	"negative effects on looks"	NA	NA	"retrieved from bottom-left paragraph of page 92"	"nothing reported"	NA	NA	NA	534	"initiation"	"inconsistent"	NA	"Bidstrup2011.r_negativeeffectsonlooks"
+"Bidstrup2011.r"	"negative effects on smell"	NA	NA	"retrieved from bottom-left paragraph of page 92"	"nothing reported"	NA	NA	NA	534	"initiation"	"inconsistent"	NA	"Bidstrup2011.r_negativeeffectsonsmell"
+"Bidstrup2011.r"	"risks of addiction"	NA	NA	"retrieved from bottom-left paragraph of page 92"	"nothing reported"	NA	NA	NA	534	"initiation"	"inconsistent"	NA	"Bidstrup2011.r_risksofaddiction"
+"Bidstrup2011.r"	"negative effects on physical shape"	NA	NA	"retrieved from bottom-left paragraph of page 92"	"nothing reported"	NA	NA	NA	534	"initiation"	"inconsistent"	NA	"Bidstrup2011.r_negativeeffectsonphysicalshape"
+"Bidstrup2011.r"	"Smoking is stupid"	NA	NA	"retrieved from bottom-left paragraph of page 92"	"nothing reported"	NA	NA	NA	534	"initiation"	"inconsistent"	NA	"Bidstrup2011.r_smokingisstupid"
+"Bidstrup2011.r"	"Smoking is disgusting"	NA	NA	"retrieved from bottom-left paragraph of page 92"	"nothing reported"	NA	NA	NA	534	"initiation"	"inconsistent"	NA	"Bidstrup2011.r_smokingisdisgusting"
+"Bidstrup2011.r"	"Smoking-opportunity is often facilitated by friends"	NA	NA	"retrieved from page 93, right text-column, in current findings-paragraph"	"nothing reported"	NA	NA	NA	534	"initiation"	"consistent"	NA	"Bidstrup2011.r_smokingopportunityisoftenfacilitatedbyfriends"
+"Bidstrup2011.r"	"Self-efficacy to resist smoking on situational social opportunities"	NA	NA	"retrieved from page 95 top left text column"	"nothing reported"	NA	NA	NA	534	"initiation"	"consistent"	NA	"Bidstrup2011.r_selfefficacytoresistsmokingonsituationalsocialopportunities"
+"Bidstrup2011.r"	"Pressure to smoke from friends"	NA	NA	"retrieved from page 94, bottom-left page"	"nothing reported"	NA	NA	NA	534	"initiation"	"consistent"	NA	"Bidstrup2011.r_pressuretosmokefromfriends"
+"cortes2005.r"	"Damage to own and others health is the worst about smoking"	"Non-smokers"	94.7	NA	NA	NA	NA	NA	105	"initiation"	NA	"NA"	"cortes2005.r_damagetoownandothershealthistheworstaboutsmoking"
+"cortes2005.r"	"Damage to own and others health is the worst about smoking"	"Experimenters"	89	NA	NA	NA	NA	NA	105	"initiation"	NA	"NA"	"cortes2005.r_damagetoownandothershealthistheworstaboutsmoking"
+"cortes2005.r"	"Damage to own and others health is the worst about smoking"	"Smokers"	62.5	NA	NA	NA	NA	NA	54	"initiation"	NA	"NA"	"cortes2005.r_damagetoownandothershealthistheworstaboutsmoking"
+"cortes2005.r"	"Bad breath is the worst about smoking"	"Non-smokers"	4.4	NA	NA	NA	NA	NA	105	"initiation"	NA	"NA"	"cortes2005.r_badbreathistheworstaboutsmoking"
+"cortes2005.r"	"Bad breath is the worst about smoking"	"Experimenters"	8.5	NA	NA	NA	NA	NA	105	"initiation"	NA	"NA"	"cortes2005.r_badbreathistheworstaboutsmoking"
+"cortes2005.r"	"Bad breath is the worst about smoking"	"Smokers"	12.5	NA	NA	NA	NA	NA	54	"initiation"	NA	"NA"	"cortes2005.r_badbreathistheworstaboutsmoking"
+"cortes2005.r"	"expense is the worst about smoking"	"Non-smokers"	0.6	NA	NA	NA	NA	NA	105	"initiation"	NA	"NA"	"cortes2005.r_expenseistheworstaboutsmoking"
+"cortes2005.r"	"expense is the worst about smoking"	"Experimenters"	2.4	NA	NA	NA	NA	NA	105	"initiation"	NA	"NA"	"cortes2005.r_expenseistheworstaboutsmoking"
+"cortes2005.r"	"expense is the worst about smoking"	"Smokers"	25	NA	NA	NA	NA	NA	54	"initiation"	NA	"NA"	"cortes2005.r_expenseistheworstaboutsmoking"
+"cortes2005.r"	"Disagree that smoking makes you feel good"	"Non-smokers"	7.2	NA	NA	NA	NA	NA	105	"initiation"	NA	"NA"	"cortes2005.r_disagreethatsmokingmakesyoufeelgood"
+"cortes2005.r"	"Disagree that smoking makes you feel good"	"Experimenters"	31	NA	NA	NA	NA	NA	105	"initiation"	NA	"NA"	"cortes2005.r_disagreethatsmokingmakesyoufeelgood"
+"cortes2005.r"	"Disagree that smoking makes you feel good"	"Smokers"	12.8	NA	NA	NA	NA	NA	54	"initiation"	NA	"NA"	"cortes2005.r_disagreethatsmokingmakesyoufeelgood"
+"cortes2005.r"	"Never bought tobacco for personal use"	"Non-smokers"	97.5	NA	NA	NA	NA	NA	105	"initiation"	"NA"	"NA"	"cortes2005.r_neverboughttobaccoforpersonaluse"
+"cortes2005.r"	"Never bought tobacco for personal use"	"Experimenters"	69.1	NA	NA	NA	NA	NA	105	"initiation"	"NA"	"NA"	"cortes2005.r_neverboughttobaccoforpersonaluse"
+"cortes2005.r"	"Never bought tobacco for personal use"	"Smokers"	12.1	"Self efficacy measure"	NA	NA	NA	NA	54	"initiation"	"NA"	"NA"	"cortes2005.r_neverboughttobaccoforpersonaluse"
+"cortes2005.r"	"Wouldn't take a cigarette from a friend"	"Non-smokers"	95.6	NA	NA	NA	NA	NA	105	"initiation"	"NA"	"NA"	"cortes2005.r_wouldnttakeacigarettefromafriend"
+"cortes2005.r"	"Wouldn't take a cigarette from a friend"	"Experimenters"	67.8	NA	NA	NA	NA	NA	105	"initiation"	"NA"	"NA"	"cortes2005.r_wouldnttakeacigarettefromafriend"
+"cortes2005.r"	"Wouldn't take a cigarette from a friend"	"Smokers"	12.8	NA	NA	NA	NA	NA	54	"initiation"	"NA"	"NA"	"cortes2005.r_wouldnttakeacigarettefromafriend"
+"cortes2005.r"	"Believe I won't smoke as an adult"	"Non-smokers"	91.1	NA	NA	NA	NA	NA	105	"initiation"	"NA"	"NA"	"cortes2005.r_believeiwontsmokeasanadult"
+"cortes2005.r"	"Believe I won't smoke as an adult"	"Experimenters"	67.9	NA	NA	NA	NA	NA	105	"initiation"	"NA"	"NA"	"cortes2005.r_believeiwontsmokeasanadult"
+"cortes2005.r"	"Believe I won't smoke as an adult"	"Smokers"	22.4	NA	NA	NA	NA	NA	54	"initiation"	"NA"	"NA"	"cortes2005.r_believeiwontsmokeasanadult"
+"echer2008.r"	"Willpower/determination to change"	NA	NA	"Extracted from p. 447, bottom left page below -Determination to cease smoking-, and top right paragraph."	"Similar reports by most participants"	NA	NA	NA	229	"cessation"	NA	NA	"echer2008.r_willpowerdeterminationtochange"
+"echer2008.r"	"Supportive community"	NA	NA	"Extracted from p. 447, bottom right page. This includes family, friends and health professionals"	"Similar reports by several participants"	NA	NA	NA	229	"cessation"	NA	NA	"echer2008.r_supportivecommunity"
+"echer2008.r"	"Fear of withdrawal symptoms"	NA	NA	"Extracted from p. 448, mid to lower left page"	"Similar reports by several participants"	NA	NA	NA	229	"cessation"	NA	NA	"echer2008.r_fearofwithdrawalsymptoms"
+"echer2008.r"	"Minimized abstinence syndrome"	NA	NA	"Extracted from p. 448, bottom left page "	"Similar reports by several participants"	NA	NA	NA	229	"cessation"	NA	NA	"echer2008.r_minimizedabstinencesyndrome"
+"echer2008.r"	"Professional intervention"	NA	NA	"Extracted from p. 448, bottom left page "	"Similar reports by several participants"	NA	NA	NA	229	"cessation"	NA	NA	"echer2008.r_professionalintervention"
+"echer2008.r"	"Drugs"	NA	NA	"Extracted from p. 448 bottom left page "	"Similar reports by several participants"	NA	NA	NA	229	"cessation"	NA	NA	"echer2008.r_drugs"
+"echer2008.r"	"Supportive family"	NA	NA	"Extracted from p. 448, bottom right, below -Received support- "	"Similar reports by several participants"	NA	NA	NA	229	"cessation"	NA	NA	"echer2008.r_supportivefamily"
+"echer2008.r"	"received spiritual support"	NA	NA	"Extracted from p. 448, bottom right, from -Received support- "	"Similar reports by several participants"	NA	NA	NA	229	"cessation"	NA	NA	"echer2008.r_receivedspiritualsupport"
+"echer2008.r"	"Spiritual beliefs"	NA	NA	"Extracted from p. 448, bottom right, from -Received support- "	"Similar reports by several participants"	NA	NA	NA	229	"cessation"	NA	NA	"echer2008.r_spiritualbeliefs"
+"echer2008.r"	"Social support"	NA	NA	"Extracted from p. 448, bottom right, from -Received support-"	"Similar reports by several participants"	NA	NA	NA	229	"cessation"	NA	NA	"echer2008.r_socialsupport"
+"echer2008.r"	"Professional support -nurse, physician, dentist-"	NA	NA	"Extracted from p. 448, bottom right, from -Received support-"	"Similar reports by several participants"	NA	NA	NA	229	"cessation"	NA	NA	"echer2008.r_professionalsupportnursephysiciandentist"
+"echer2008.r"	"Support groups"	NA	NA	"Extracted from p. 449, bottom right, from -Specific course and support groups-."	"Similar reports by several participants"	NA	NA	NA	229	"cessation"	NA	NA	"echer2008.r_supportgroups"
+"echer2008.r"	"Sharing experiences with quitters"	NA	NA	"Extracted from p. 449, bottom right"	"Similar reports by several participants"	NA	NA	NA	229	"cessation"	NA	NA	"echer2008.r_sharingexperienceswithquitters"
+"echer2008.r"	"support groups provide quitting strategies"	NA	NA	"Extracted from p.449, bottom right"	"Similar reports by several participants"	NA	NA	NA	229	"cessation"	NA	NA	"echer2008.r_supportgroupsprovidequittingstrategies"
+"echer2008.r"	"smokers who refrain around quitters"	NA	NA	"Extracted from p. 450, bottom left."	"Similar reports by several participants"	NA	NA	NA	229	"cessation"	NA	NA	"echer2008.r_smokerswhorefrainaroundquitters"
+"echer2008.r"	"will to change/determination"	NA	NA	"retrieved from table 1. p 447"	"retrieved from table 1"	80	NA	NA	229	"cessation"	"consistent"	"NA"	"echer2008.r_willtochangedetermination"
+"echer2008.r"	"cigarette intrference in social life and laws that restrict smoking"	NA	NA	"retrieved from table 1. p 447"	"retrieved from table 1"	35	NA	NA	229	"cessation"	"consistent"	"NA"	"echer2008.r_cigaretteintrferenceinsociallifeandlawsthatrestrictsmoking"
+"echer2008.r"	"influence of close people"	NA	NA	"retrieved from table 1. p 447"	"retrieved from table 1"	35	NA	NA	229	"cessation"	"consistent"	"NA"	"echer2008.r_influenceofclosepeople"
+"echer2008.r"	"esthetical and smelling sense"	NA	NA	"retrieved from table 1. p 447"	"retrieved from table 1"	30	NA	NA	229	"cessation"	"consistent"	"NA"	"echer2008.r_estheticalandsmellingsense"
+"echer2008.r"	"health harm"	NA	NA	"retrieved from table 1. p 447"	"retrieved from table 1"	26	NA	NA	229	"cessation"	"consistent"	"NA"	"echer2008.r_healthharm"
+"echer2008.r"	"health concerns"	NA	NA	"retrieved from table 1. p 447"	"retrieved from table 1"	23	NA	NA	229	"cessation"	"consistent"	"NA"	"echer2008.r_healthconcerns"
+"echer2008.r"	"life appreciation"	NA	NA	"retrieved from table 1. p 447"	"retrieved from table 1"	13	NA	NA	229	"cessation"	"consistent"	"NA"	"echer2008.r_lifeappreciation"
+"echer2008.r"	"health problem observation"	NA	NA	"retrieved from table 1. p 447"	"retrieved from table 1"	10	NA	NA	229	"cessation"	"consistent"	"NA"	"echer2008.r_healthproblemobservation"
+"echer2008.r"	"knowing health harms"	NA	NA	"retrieved from table 1. p 447"	"retrieved from table 1"	9	NA	NA	229	"cessation"	"consistent"	"NA"	"echer2008.r_knowinghealthharms"
+"echer2008.r"	"getting annoyed about cigarette"	NA	NA	"retrieved from table 1. p 447"	"retrieved from table 1"	7	NA	NA	229	"cessation"	"consistent"	"NA"	"echer2008.r_gettingannoyedaboutcigarette"
+"echer2008.r"	"shame/frustration of being a smoker"	NA	NA	"retrieved from table 1. p 447"	"retrieved from table 1"	7	NA	NA	229	"cessation"	"consistent"	"NA"	"echer2008.r_shamefrustrationofbeingasmoker"
+"echer2008.r"	"money"	NA	NA	"retrieved from table 1. p 447"	"retrieved from table 1"	6	NA	NA	229	"cessation"	"consistent"	"NA"	"echer2008.r_money"
+"echer2008.r"	"health professional"	NA	NA	"retrieved from table 1. p 447"	"retrieved from table 1"	4	NA	NA	229	"cessation"	"consistent"	"NA"	"echer2008.r_healthprofessional"
+"echer2008.r"	"media campaigns"	NA	NA	"retrieved from table 1. p 447"	"retrieved from table 1"	4	NA	NA	229	"cessation"	"consistent"	"NA"	"echer2008.r_mediacampaigns"
+"echer2008.r"	"spiritual support"	NA	NA	"retrieved from table 1. p 447"	"retrieved from table 1"	2	NA	NA	229	"cessation"	"consistent"	"NA"	"echer2008.r_spiritualsupport"
+"echer2008.r"	"acting as a smoker on stage"	NA	NA	"retrieved from table 1. p 447"	"retrieved from table 1"	1	NA	NA	229	"cessation"	"consistent"	"NA"	"echer2008.r_actingasasmokeronstage"
+"echer2008.r"	"participation in anti-smoking commission"	NA	NA	"retrieved from table 1. p 447"	"retrieved from table 1"	1	NA	NA	229	"cessation"	"consistent"	"NA"	"echer2008.r_participationinantismokingcommission"
+"echer2008.r"	"age"	NA	NA	"retrieved from table 1. p 447"	"retrieved from table 1"	1	NA	NA	229	"cessation"	"consistent"	"NA"	"echer2008.r_age"
+"elshatarat2013.r"	"Better for health in general"	"Cigarette smokers intending to quit"	95.2380952380952	"Extracted from Table 4, p. 129"	NA	NA	NA	NA	908	"cessation"	NA	NA	"elshatarat2013.r_betterforhealthingeneral"
+"elshatarat2013.r"	"Less risk of getting smoking related illness"	"Cigarette smokers intending to quit"	80.9523809523809	"Extracted from Table 4, p. 129"	NA	NA	NA	NA	908	"cessation"	NA	NA	"elshatarat2013.r_lessriskofgettingsmokingrelatedillness"
+"elshatarat2013.r"	"Present health problems"	"Cigarette smokers intending to quit"	97.6190476190476	"Extracted from Table 4, p. 129"	NA	NA	NA	NA	908	"cessation"	NA	NA	"elshatarat2013.r_presenthealthproblems"
+"elshatarat2013.r"	"Financial reasons"	"Cigarette smokers intending to quit"	22.6190476190476	"Extracted from Table 4, p. 129"	NA	NA	NA	NA	908	"cessation"	NA	NA	"elshatarat2013.r_financialreasons"
+"elshatarat2013.r"	"Family pressure"	"Cigarette smokers intending to quit"	65.4761904761905	"Extracted from Table 4, p. 129"	NA	NA	NA	NA	908	"cessation"	NA	NA	"elshatarat2013.r_familypressure"
+"elshatarat2013.r"	"Harms children and others"	"Cigarette smokers intending to quit"	46.4285714285714	"Extracted from Table 4, p. 129"	NA	NA	NA	NA	908	"cessation"	NA	NA	"elshatarat2013.r_harmschildrenandothers"
+"elshatarat2013.r"	"Ban on smoking in public places"	"Cigarette smokers intending to quit"	28.5714285714286	"Extracted from Table 4, p. 129"	NA	NA	NA	NA	908	"cessation"	NA	NA	"elshatarat2013.r_banonsmokinginpublicplaces"
+"elshatarat2013.r"	"Doctor's advice"	"Cigarette smokers intending to quit"	94.0476190476191	"Extracted from Table 4, p. 129"	NA	NA	NA	NA	908	"cessation"	NA	NA	"elshatarat2013.r_doctorsadvice"
+"elshatarat2013.r"	"quitting decreases health problems"	"Cigarette smokers"	88.3495145631068	"Extracted from Table 2, p. 128"	NA	NA	NA	NA	908	"cessation"	NA	NA	"elshatarat2013.r_quittingdecreaseshealthproblems"
+"elshatarat2013.r"	"smoking harms my health"	"Cigarette smokers"	95.1456310679612	"Extracted from Table 2, p. 128"	NA	NA	NA	NA	908	"cessation"	NA	NA	"elshatarat2013.r_smokingharmsmyhealth"
+"elshatarat2013.r"	"little benefit to quitting"	"Cigarette smokers"	33.0097087378641	"Extracted from Table 2, p. 128"	NA	NA	NA	NA	908	"cessation"	NA	NA	"elshatarat2013.r_littlebenefittoquitting"
+"elshatarat2013.r"	"quitting decreases risk respiratory disease"	"Cigarette smokers"	92.2330097087379	"Extracted from Table 2, p. 128"	NA	NA	NA	NA	908	"cessation"	NA	NA	"elshatarat2013.r_quittingdecreasesriskrespiratorydisease"
+"elshatarat2013.r"	"quitting decreases risk heart disease"	"Cigarette smokers"	91.2621359223301	"Extracted from Table 2, p. 128"	NA	NA	NA	NA	908	"cessation"	NA	NA	"elshatarat2013.r_quittingdecreasesriskheartdisease"
+"elshatarat2013.r"	"quitting decreases risk lung cancer"	"Cigarette smokers"	69.9029126213592	"Extracted from Table 2, p. 128"	NA	NA	NA	NA	908	"cessation"	NA	NA	"elshatarat2013.r_quittingdecreasesrisklungcancer"
+"elshatarat2013.r"	"smoking causes stroke"	"Cigarette smokers"	48.5436893203884	"Extracted from Table 2, p. 128"	NA	NA	NA	NA	908	"cessation"	NA	NA	"elshatarat2013.r_smokingcausesstroke"
+"elshatarat2013.r"	"smoking causes cardiovascular effects"	"Cigarette smokers"	95.1456310679612	"Extracted from Table 2, p. 128"	NA	NA	NA	NA	908	"cessation"	NA	NA	"elshatarat2013.r_smokingcausescardiovasculareffects"
+"elshatarat2013.r"	"smoking causes respiratory system diseases"	"Cigarette smokers"	100	"Extracted from Table 2, p. 128"	NA	NA	NA	NA	908	"cessation"	NA	NA	"elshatarat2013.r_smokingcausesrespiratorysystemdiseases"
+"elshatarat2013.r"	"smoking causes lung cancer"	"Cigarette smokers"	84.4660194174757	"Extracted from Table 2, p. 128"	NA	NA	NA	NA	908	"cessation"	NA	NA	"elshatarat2013.r_smokingcauseslungcancer"
+"elshatarat2013.r"	"smoking causes other bodily effects"	"Cigarette smokers"	38.8349514563107	"Extracted from Table 2, p. 128"	NA	NA	NA	NA	908	"cessation"	NA	NA	"elshatarat2013.r_smokingcausesotherbodilyeffects"
+"kleinjan2009.r"	"Pollution is just as unhealthy"	"Adolescents"	NA	"Table 2, p. 442, Disengagement beliefs "	NA	NA	3.27	1.2	12	"initiation"	"NA"	"NA"	"kleinjan2009.r_pollutionisjustasunhealthy"
+"kleinjan2009.r"	"There are lots of risks in life"	"Adolescents"	NA	"Table 2, p. 442 "	NA	NA	3.92	1.07	12	"initiation"	"NA"	"NA"	"kleinjan2009.r_therearelotsofrisksinlife"
+"kleinjan2009.r"	"Everything is unhealthy"	"Adolescents"	NA	"Table 2, p. 442 "	NA	NA	3.44	1.14	12	"initiation"	"NA"	"NA"	"kleinjan2009.r_everythingisunhealthy"
+"kleinjan2009.r"	"You have to die of something"	"Adolescents"	NA	"Table 2, p. 442 "	NA	NA	2.86	1.38	12	"initiation"	"NA"	"NA"	"kleinjan2009.r_youhavetodieofsomething"
+"kleinjan2009.r"	"Everyone acts unhealthy sometimes"	"Adolescents"	NA	"Table 2, p. 442 "	NA	NA	3.85	1.04	12	"initiation"	"NA"	"NA"	"kleinjan2009.r_everyoneactsunhealthysometimes"
+"kleinjan2009.r"	"Not everyone gets sick through smoking"	"Adolescents"	NA	"Table 2, p. 442 "	NA	NA	3.97	1.01	12	"initiation"	"NA"	"NA"	"kleinjan2009.r_noteveryonegetssickthroughsmoking"
+"kleinjan2009.r"	"Know heavy smokers that lived long"	"Adolescents"	NA	"Table 2, p. 442 "	NA	NA	3.72	1.26	12	"initiation"	"NA"	"NA"	"kleinjan2009.r_knowheavysmokersthatlivedlong"
+"kleinjan2009.r"	"Medical science will invent something"	"Adolescents"	NA	"Table 2, p. 442 "	NA	NA	2.69	1.16	12	"initiation"	"NA"	"NA"	"kleinjan2009.r_medicalsciencewillinventsomething"
+"kleinjan2009.r"	"Rather a short/good life than a long/boring life"	"Adolescents"	NA	"Table 2, p. 442 "	NA	NA	3.42	1.34	12	"initiation"	"NA"	"NA"	"kleinjan2009.r_ratherashortgoodlifethanalongboringlife"
+"kleinjan2009.r"	"If it were really bad, it would be forbidden"	"Adolescents"	NA	"Table 2, p. 442 "	NA	NA	3.15	1.24	12	"initiation"	"NA"	"NA"	"kleinjan2009.r_ifitwerereallybaditwouldbeforbidden"
+"kleinjan2009.r"	"I live healthy otherwise"	"Adolescents"	NA	"Table 2, p. 442 "	NA	NA	3.74	1.05	12	"initiation"	"NA"	"NA"	"kleinjan2009.r_ilivehealthyotherwise"
+"kleinjan2009.r"	"Health is not the only thing in life"	"Adolescents"	NA	"Table 2, p. 442 "	NA	NA	3.03	1.19	12	"initiation"	"NA"	"NA"	"kleinjan2009.r_healthisnottheonlythinginlife"
+"nandemin2010.r"	"Pairing of alcohol and cigarettes"	NA	NA	"Retrieved from bottom page 656"	"most common beliefs"	NA	NA	NA	3364	"cessation"	NA	NA	"nandemin2010.r_pairingofalcoholandcigarettes"
+"nandemin2010.r"	"Peer influence"	NA	NA	"Retrieved from bottom page 656"	"most common beliefs"	NA	NA	NA	3364	"cessation"	NA	NA	"nandemin2010.r_peerinfluence"
+"nandemin2010.r"	"Stress management and relaxation"	NA	NA	"Retrieved from bottom page 657"	"most common beliefs"	NA	NA	NA	3364	"cessation"	NA	NA	"nandemin2010.r_stressmanagementandrelaxation"
+"nandemin2010.r"	"Projected social image"	NA	NA	"Retrieved from bottom page 657"	"most common beliefs"	NA	NA	NA	3364	"cessation"	NA	NA	"nandemin2010.r_projectedsocialimage"
+"nandemin2010.r"	"Appetite suppression and weight"	NA	NA	"Retrieved from bottom page 657"	"most common beliefs"	NA	NA	NA	3364	"cessation"	NA	NA	"nandemin2010.r_appetitesuppressionandweight"
+"nandemin2010.r"	"Time management e.g. boredom"	NA	NA	"Retrieved from bottom page 657"	"most common beliefs"	NA	NA	NA	3364	"cessation"	NA	NA	"nandemin2010.r_timemanagementegboredom"
+"nandemin2010.r"	"Addiction - physical and psychological"	NA	NA	"Retrieved from bottom page 657"	"most common beliefs"	NA	NA	NA	3364	"cessation"	NA	NA	"nandemin2010.r_addictionphysicalandpsychological"
+"nandemin2010.r"	"Attention to alcohol and smoking"	NA	NA	"Retrieved from bottom page 659, suggestions for interventions"	"nothing reported"	NA	NA	NA	3364	"cessation"	NA	NA	"nandemin2010.r_attentiontoalcoholandsmoking"
+"nandemin2010.r"	"Exercise"	NA	NA	"Retrieved from bottom page 659, suggestions for interventions"	"nothing reported"	NA	NA	NA	3364	"cessation"	NA	NA	"nandemin2010.r_exercise"
+"nandemin2010.r"	"Buddy-systems"	NA	NA	"Retrieved from bottom page 659, suggestions for interventions"	"nothing reported"	NA	NA	NA	3364	"cessation"	NA	NA	"nandemin2010.r_buddysystems"
+"nandemin2010.r"	"Group based meetings"	NA	NA	"Retrieved from bottom page 659, suggestions for interventions"	"nothing reported"	NA	NA	NA	3364	"cessation"	NA	NA	"nandemin2010.r_groupbasedmeetings"
+"nandemin2010.r"	"Support"	NA	NA	"Retrieved from bottom page 659, suggestions for interventions"	"nothing reported"	NA	NA	NA	3364	"cessation"	NA	NA	"nandemin2010.r_support"
+"nandemin2010.r"	"Inspirational motivation"	NA	NA	"Retrieved from bottom page 659, suggestions for interventions"	"nothing reported"	NA	NA	NA	3364	"cessation"	NA	NA	"nandemin2010.r_inspirationalmotivation"
+"nandemin2010.r"	"Intervention should be fun"	NA	NA	"Retrieved from bottom page 659, suggestions for interventions"	"nothing reported"	NA	NA	NA	3364	"cessation"	NA	NA	"nandemin2010.r_interventionshouldbefun"
+"nandemin2010.r"	"Overal healthy behavior should be promoted alongside intervention"	NA	NA	"Retrieved from bottom page 659, suggestions for interventions"	"nothing reported"	NA	NA	NA	3364	"cessation"	NA	NA	"nandemin2010.r_overalhealthybehaviorshouldbepromotedalongsideintervention"
+"nandemin2010.r"	"Lecturing should be avoided"	NA	NA	"Retrieved from bottom page 659, suggestions for interventions"	"nothing reported"	NA	NA	NA	3364	"cessation"	NA	NA	"nandemin2010.r_lecturingshouldbeavoided"
+"oh2010.r"	"my friends smoked"	NA	62.3	"Retrieved from Table 3, p. 6 "	NA	NA	NA	NA	755	"initiation"	"consistent"	"NA"	"oh2010.r_myfriendssmoked"
+"oh2010.r"	"Smoking made me look more cool"	NA	25.5	"Retrieved from Table 3, p. 6 "	NA	NA	NA	NA	755	"initiation"	"consistent"	"NA"	"oh2010.r_smokingmademelookmorecool"
+"oh2010.r"	"My friends approved of my smoking"	NA	6.9	"Retrieved from Table 3, p. 6 "	NA	NA	NA	NA	755	"initiation"	"consistent"	"NA"	"oh2010.r_myfriendsapprovedofmysmoking"
+"oh2010.r"	"It helped me manage my stress"	NA	6.8	"Retrieved from Table 3, p. 6 "	NA	NA	NA	NA	755	"initiation"	"consistent"	"NA"	"oh2010.r_ithelpedmemanagemystress"
+"oh2010.r"	"I was not worried about health effects"	NA	5.9	"Retrieved from Table 3, p. 6 "	NA	NA	NA	NA	755	"initiation"	"consistent"	"NA"	"oh2010.r_iwasnotworriedabouthealtheffects"
+"oh2010.r"	"I believed I could quit whenever I wanted to"	NA	5.6	"Retrieved from Table 3, p. 6 "	NA	NA	NA	NA	755	"initiation"	"consistent"	"NA"	"oh2010.r_ibelievedicouldquitwheneveriwantedto"
+"oh2010.r"	"Tobacco advertising was attractive to me"	NA	1.7	"Retrieved from Table 3, p. 6 "	NA	NA	NA	NA	755	"initiation"	"consistent"	"NA"	"oh2010.r_tobaccoadvertisingwasattractivetome"
+"oh2010.r"	"Weight concerns"	NA	1.5	"Retrieved from Table 3, p. 6 "	NA	NA	NA	NA	755	"initiation"	"consistent"	"NA"	"oh2010.r_weightconcerns"
+"oh2010.r"	"I was less depressed when I smoked"	NA	1.5	"Retrieved from Table 3, p. 6 "	NA	NA	NA	NA	755	"initiation"	"consistent"	"NA"	"oh2010.r_iwaslessdepressedwhenismoked"
+"oh2010.r"	"other"	NA	15.6	"Retrieved from Table 3, p. 6
+  Some common responses listed under 'Other' were curiosity, rebellion, because
+other people were smoking, or because they had personal problems."	NA	NA	NA	NA	755	"initiation"	"consistent"	"NA"	"oh2010.r_other"
+"panday2005.r"	"Pros of smoking"	"Smokers"	NA	"Retrieved from Table III, p. 594 N= 517
+  answer scale -2 to +2 (where social pressure is scaled 0 to 4) 
+  bad for health = -2"	NA	NA	1.17	NA	1137	"cessation"	"inconsistent"	"NA"	"panday2005.r_prosofsmoking"
+"panday2005.r"	"Pros of smoking"	"Former smokers"	NA	"Retrieved from Table III, p. 594, N= 659
+  answer scale -2 to +2 (where social pressure is scaled 0 to 4)"	NA	NA	1.53	NA	1137	"cessation"	"inconsistent"	"NA"	"panday2005.r_prosofsmoking"
+"panday2005.r"	"Cons of smoking"	"Smokers"	NA	"Retrieved from Table III, p. 594, N = 517
+  answer scale -2 to +2 (where social pressure is scaled 0 to 4)"	NA	NA	-0.69	NA	1137	"cessation"	"consistent"	"NA"	"panday2005.r_consofsmoking"
+"panday2005.r"	"Cons of smoking"	"Former smokers"	NA	"Retrieved from Table III, p. 594, N = 659
+  answer scale -2 to +2 (where social pressure is scaled 0 to 4)"	NA	NA	-1.01	NA	1137	"cessation"	"consistent"	"NA"	"panday2005.r_consofsmoking"
+"panday2005.r"	"Social norm family"	"Smokers"	NA	"Retrieved from Table III, p. 594, Perceived social norm not to smoke. N = 505
+  answer scale -2 to +2 (where social pressure is scaled 0 to 4)
+  -2 = def. should smoke"	NA	NA	0.96	NA	1137	"cessation"	"consistent"	"NA"	"panday2005.r_socialnormfamily"
+"panday2005.r"	"Social norm family"	"Former smokers"	NA	"Retrieved from Table III, p. 594, Perceived social norm not to smoke. N = 648
+  answer scale -2 to +2 (where social pressure is scaled 0 to 4)"	NA	NA	1.22	NA	1137	"cessation"	"consistent"	"NA"	"panday2005.r_socialnormfamily"
+"panday2005.r"	"Social norm friends"	"Smokers"	NA	"Retrieved from Table III, p. 594, Perceived social norm not to smoke N = 505
+  answer scale -2 to +2 (where social pressure is scaled 0 to 4)"	NA	NA	0.68	NA	1137	"cessation"	"consistent"	"NA"	"panday2005.r_socialnormfriends"
+"panday2005.r"	"Social norm friends"	"Former smokers"	NA	"Retrieved from Table III, p. 594, Perceived social norm not to smoke, N = 648
+  answer scale -2 to +2 (where social pressure is scaled 0 to 4)"	NA	NA	1.15	NA	1137	"cessation"	"consistent"	"NA"	"panday2005.r_socialnormfriends"
+"panday2005.r"	"Social norm teachers"	"Smokers"	NA	"Retrieved from Table III, p. 594, Perceived social norm not to smoke, N = 505 
+  answer scale -2 to +2 (where social pressure is scaled 0 to 4)"	NA	NA	1.19	NA	1137	"cessation"	"consistent"	"NA"	"panday2005.r_socialnormteachers"
+"panday2005.r"	"Social norm teachers"	"Former smokers"	NA	"Retrieved from Table III, p. 594, Perceived social norm not to smoke N = 648
+  answer scale -2 to +2 (where social pressure is scaled 0 to 4)"	NA	NA	1.42	NA	1137	"cessation"	"consistent"	"NA"	"panday2005.r_socialnormteachers"
+"panday2005.r"	"Perceived behavior of important others"	"Smokers"	NA	"Retrieved from Table III, p. 594. N = 505
+  answer scale 0 to +1 (where social pressure is scaled 0 to 4)
+  from page 590:
+   important others (combined into family,friends,and teacher, see
+Table I) thought that they definitely should (-2) or should not (+2) smoke."	NA	NA	0.44	NA	1137	"cessation"	"consistent"	"NA"	"panday2005.r_perceivedbehaviorofimportantothers"
+"panday2005.r"	"Perceived behavior of important others"	"Former smokers"	NA	"Retrieved from Table III, p. 594, N = 648
+  answer scale 0 to +1 (where social pressure is scaled 0 to 4)
+  "	NA	NA	0.51	NA	1137	"cessation"	"consistent"	"NA"	"panday2005.r_perceivedbehaviorofimportantothers"
+"panday2005.r"	"Social nonsmoking pressure family"	"Smokers"	NA	"Retrieved from Table III, p. 594, N = 505
+  answer scale 0 to 4 (where pros of smoking is scaled -2 to +2
+  )
+  0= Never"	NA	NA	1.48	NA	1137	"cessation"	"consistent"	"NA"	"panday2005.r_socialnonsmokingpressurefamily"
+"panday2005.r"	"Social nonsmoking pressure family"	"Former smokers"	NA	"Retrieved from Table III, p. 594. N = 648
+  answer scale 0 to 4 (where pros of smoking is scaled -2 to +2)"	NA	NA	1.51	NA	1137	"cessation"	"consistent"	"NA"	"panday2005.r_socialnonsmokingpressurefamily"
+"panday2005.r"	"Social nonsmoking pressure friends"	"Smokers"	NA	"Retrieved from Table III, p. 594, N = 505
+  answer scale 0 to 4 (where pros of smoking is scaled -2 to +2)"	NA	NA	1.4	NA	1137	"cessation"	"consistent"	"NA"	"panday2005.r_socialnonsmokingpressurefriends"
+"panday2005.r"	"Social nonsmoking pressure friends"	"Former smokers"	NA	"Retrieved from Table III, p. 594. N = 648
+  answer scale 0 to 4 (where pros of smoking is scaled -2 to +2)"	NA	NA	1.62	NA	1137	"cessation"	"consistent"	"NA"	"panday2005.r_socialnonsmokingpressurefriends"
+"panday2005.r"	"Social nonsmoking pressure teachers"	"Smokers"	NA	"Retrieved from Table III, p. 594, N = 505
+  answer scale 0 to 4 (where pros of smoking is scaled -2 to +2)"	NA	NA	1.76	NA	1137	"cessation"	"consistent"	"NA"	"panday2005.r_socialnonsmokingpressureteachers"
+"panday2005.r"	"Social nonsmoking pressure teachers"	"Former smokers"	NA	"Retrieved from Table III, p. 594., N = 648
+  answer scale 0 to 4 (where pros of smoking is scaled -2 to +2)"	NA	NA	2.03	NA	1137	"cessation"	"consistent"	"NA"	"panday2005.r_socialnonsmokingpressureteachers"
+"panday2005.r"	"Self efficacy - stress"	"Smokers"	NA	"Retrieved from Table III, p. 594 N = 519
+  answer scale  -2 to +2 (where social pressure is scaled 0 to 4)
+  -2 = sure I will smoke"	NA	NA	0	NA	1137	"cessation"	"consistent"	"NA"	"panday2005.r_selfefficacystress"
+"panday2005.r"	"Self efficacy - stress"	"Former smokers"	NA	"Retrieved from Table III, p. 594. N = 659
+  answer scale  -2 to +2 (where social pressure is scaled 0 to 4)"	NA	NA	1.39	NA	1137	"cessation"	"consistent"	"NA"	"panday2005.r_selfefficacystress"
+"panday2005.r"	"Self efficacy - routine"	"Smokers"	NA	"Retrieved from Table III, p. 594, N = 519
+  answer scale  -2 to +2 (where social pressure is scaled 0 to 4)"	NA	NA	0.56	NA	1137	"cessation"	"consistent"	"NA"	"panday2005.r_selfefficacyroutine"
+"panday2005.r"	"Self efficacy - routine"	"Former smokers"	NA	"Retrieved from Table III, p. 594. N = 659
+  answer scale -2 to +2 (where social pressure is scaled 0 to 4)"	NA	NA	1.57	NA	1137	"cessation"	"consistent"	"NA"	"panday2005.r_selfefficacyroutine"
+"panday2005.r"	"Self efficacy - social"	"Smokers"	NA	"Retrieved from Table III, p. 594, N = 519
+  answer scale  -2 to +2 (where social pressure is scaled 0 to 4)"	NA	NA	-0.08	NA	1137	"cessation"	"consistent"	"NA"	"panday2005.r_selfefficacysocial"
+"panday2005.r"	"Self efficacy - social"	"Former smokers"	NA	"Retrieved from Table III, p. 594. N = 659
+  answer scale -2 to +2 (where social pressure is scaled 0 to 4)"	NA	NA	1.3	NA	1137	"cessation"	"consistent"	"NA"	"panday2005.r_selfefficacysocial"
+"panday2005.r"	"Intention not to smoke within next year"	"Smokers"	NA	"Retrieved from Table III, p. 594, N = 519
+  answer scale -2 to +2 (where social pressure is scaled 0 to 4)
+  -2 def. will smoke"	NA	NA	-0.04	NA	1137	"cessation"	"consistent"	"NA"	"panday2005.r_intentionnottosmokewithinnextyear"
+"panday2005.r"	"Intention not to smoke within next year"	"Former smokers"	NA	"Retrieved from Table III, p. 594. N = 659
+  answer scale -2 to +2 (where social pressure is scaled 0 to 4)"	NA	NA	1.25	NA	1137	"cessation"	"consistent"	"NA"	"panday2005.r_intentionnottosmokewithinnextyear"
+"peters2011.r"	"Personal fitness"	NA	0.245283018867925	"Retrieved from table 2 p. 251, response to the question: If you never thought about quitting, what caused you to think about
+quitting cigarette smoking?"	NA	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_personalfitness"
+"peters2011.r"	"Peer pressure"	NA	0.150943396226415	"Retrieved from table 2 p. 251, response to the question: If you never thought about quitting, what caused you to think about
+quitting cigarette smoking?"	NA	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_peerpressure"
+"peters2011.r"	"Aesthetics"	NA	0.113207547169811	"Retrieved from table 2 p. 251, response to the question: If you never thought about quitting, what caused you to think about
+quitting cigarette smoking?"	NA	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_aesthetics"
+"peters2011.r"	"Family sickness"	NA	0.169811320754717	"Retrieved from table 2 p. 251, response to the question: If you never thought about quitting, what caused you to think about
+quitting cigarette smoking?"	NA	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_familysickness"
+"peters2011.r"	"Self-control"	NA	0.0566037735849057	"Retrieved from table 2 p. 251, response to the question: If you never thought about quitting, what caused you to think about
+quitting cigarette smoking?"	NA	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_selfcontrol"
+"peters2011.r"	"Never thought about it"	NA	0.0377358490566038	"Retrieved from table 2 p. 251, response to the question: If you never thought about quitting, what caused you to think about
+quitting cigarette smoking?"	NA	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_neverthoughtaboutit"
+"peters2011.r"	"Don't know"	NA	0.0377358490566038	"Retrieved from table 2 p. 251, response to the question: If you never thought about quitting, what caused you to think about
+quitting cigarette smoking?"	NA	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_dontknow"
+"peters2011.r"	"parental encouragement"	NA	0.30188679245283	"Retrieved from table 2 p. 251, response to the question: What would personally motivate you to stop smoking?"	"response to What would personally motivate you to stop smoking?"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_parentalencouragement"
+"peters2011.r"	"partner encouragement"	NA	0.169811320754717	"Retrieved from table 2 p. 251, response to the question: What would personally motivate you to stop smoking?"	"response to What would personally motivate you to stop smoking?"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_partnerencouragement"
+"peters2011.r"	"personal health"	NA	0.207547169811321	"Retrieved from table 2 p. 251, response to the question: What would personally motivate you to stop smoking?"	"response to What would personally motivate you to stop smoking?"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_personalhealth"
+"peters2011.r"	"parental cessation"	NA	0.0943396226415094	"Retrieved from table 2 p. 251, response to the question: What would personally motivate you to stop smoking?"	"response to What would personally motivate you to stop smoking?"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_parentalcessation"
+"peters2011.r"	"younger family smokes"	NA	0.113207547169811	"Retrieved from table 2 p. 251, response to the question: What would personally motivate you to stop smoking?"	"response to What would personally motivate you to stop smoking?"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_youngerfamilysmokes"
+"peters2011.r"	"environmental change"	NA	0.0943396226415094	"Retrieved from table 2 p. 251, response to the question: What would personally motivate you to stop smoking?"	"response to What would personally motivate you to stop smoking?"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_environmentalchange"
+"peters2011.r"	"affected source/direct communication"	NA	0.358490566037736	"Retrieved from table 2 p. 251, "	"response to If there were an ideal program that would help students your age stop smoking, what would the program consist of?"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_affectedsourcedirectcommunication"
+"peters2011.r"	"attractive source/direct communication"	NA	0.226415094339623	"Retrieved from table 2 p. 251, "	"response to If there were an ideal program that would help students your age stop smoking, what would the program consist of?"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_attractivesourcedirectcommunication"
+"peters2011.r"	"food/fun activities"	NA	0.30188679245283	"Retrieved from table 2 p. 251, 
+  food/fun activities are somehow pooled for boys 
+  separated for girls, they are now all combined"	"response to If there were an ideal program that would help students your age stop smoking, what would the program consist of?"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_foodfunactivities"
+"peters2011.r"	"activities/rap contest"	NA	0.0754716981132075	"Retrieved from table 2 p. 251, "	"response to If there were an ideal program that would help students your age stop smoking, what would the program consist of?"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_activitiesrapcontest"
+"peters2011.r"	"music"	NA	0.0377358490566038	"Retrieved from table 2 p. 251, "	"response to If there were an ideal program that would help students your age stop smoking, what would the program consist of?"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_music"
+"peters2011.r"	"not effective"	NA	0.69811320754717	"Retrieved from table 2 p. 251, "	"response to What do you think about ''quit smoking'' programs?"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_noteffective"
+"peters2011.r"	"causes smoking"	NA	0.150943396226415	"Retrieved from table 2 p. 251, "	"response to What do you think about ''quit smoking'' programs?"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_causessmoking"
+"peters2011.r"	"lack activities"	NA	0.132075471698113	"Retrieved from table 2 p. 251, "	"response to What do you think about ''quit smoking'' programs?"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_lackactivities"
+"peters2011.r"	"affected source of communication"	NA	0.509433962264151	"Retrieved from table 2 p. 251, "	"response to What could health professionals do as a motivator or incentive to help youth participate in ''quit smoking'' programs?"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_affectedsourceofcommunication"
+"peters2011.r"	"attractive source of communication"	NA	0.150943396226415	"Retrieved from table 2 p. 251, "	"response to What could health professionals do as a motivator or incentive to help youth participate in ''quit smoking'' programs?"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_attractivesourceofcommunication"
+"peters2011.r"	"direct communication"	NA	0.207547169811321	"Retrieved from table 2 p. 251, "	"response to What could health professionals do as a motivator or incentive to help youth participate in ''quit smoking'' programs?"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_directcommunication"
+"peters2011.r"	"professional sources of communication"	NA	0.0566037735849057	"Retrieved from table 2 p. 251, "	"response to What could health professionals do as a motivator or incentive to help youth participate in ''quit smoking'' programs?"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_professionalsourcesofcommunication"
+"peters2011.r"	"real information"	NA	0.0754716981132075	"Retrieved from table 2 p. 251, "	"response to What could health professionals do as a motivator or incentive to help youth participate in ''quit smoking'' programs?"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_realinformation"
+"peters2011.r"	"encouragement"	NA	0.886792452830189	"Retrieved from table 2 p. 251, "	"response to What would your peers think about you if you tried to stop smoking?"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_encouragement"
+"peters2011.r"	"non-supportive"	NA	0.0754716981132075	"Retrieved from table 2 p. 251, "	"response to What would your peers think about you if you tried to stop smoking?"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_nonsupportive"
+"peters2011.r"	"unknown"	NA	0.0377358490566038	"Retrieved from table 2 p. 251, "	"response to What would your peers think about you if you tried to stop smoking?"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_unknown"
+"peters2011.r"	"Organize youth activities  - rap battle- about non-smoking and positive activities"	NA	NA	"Retrieved from table 1. p. 250, Examples of Salient Beliefs Related to Smoking Cessation"	"nothing reported"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_organizeyouthactivitiesrapbattleaboutnonsmokingandpositiveactivities"
+"peters2011.r"	"Direct communication about hazards from affected source"	NA	NA	"Retrieved from table 1. p. 250, Examples of Salient Beliefs Related to Smoking Cessation"	"nothing reported"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_directcommunicationabouthazardsfromaffectedsource"
+"peters2011.r"	"Communication by affected sources could aid recruitment for cessation programmes"	NA	NA	"Retrieved from table 1. p. 250, Examples of Salient Beliefs Related to Smoking Cessation"	"nothing reported"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_communicationbyaffectedsourcescouldaidrecruitmentforcessationprogrammes"
+"peters2011.r"	"Direct communication by attractive source"	NA	NA	"Retrieved from table 1. p. 250, Examples of Salient Beliefs Related to Smoking Cessation"	"nothing reported"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_directcommunicationbyattractivesource"
+"peters2011.r"	"Recruitment for cessation programme by attractive source"	NA	NA	"Retrieved from table 1. p. 250, Examples of Salient Beliefs Related to Smoking Cessation"	"nothing reported"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_recruitmentforcessationprogrammebyattractivesource"
+"peters2011.r"	"Current cessation programmes only talk about cigarettes, not life experiences"	NA	NA	"Retrieved from table 1. p. 250, Examples of Salient Beliefs Related to Smoking Cessation"	"nothing reported"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_currentcessationprogrammesonlytalkaboutcigarettesnotlifeexperiences"
+"peters2011.r"	"Recruitment should happen face to face so questions can be answered"	NA	NA	"Retrieved from table 1. p. 250, Examples of Salient Beliefs Related to Smoking Cessation"	"nothing reported"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_recruitmentshouldhappenfacetofacesoquestionscanbeanswered"
+"peters2011.r"	"Encouragement without pressure aids cessation"	NA	NA	"Retrieved from table 1. p. 250, Examples of Salient Beliefs Related to Smoking Cessation"	"nothing reported"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_encouragementwithoutpressureaidscessation"
+"peters2011.r"	"Not liking the way you smell aids cessation"	NA	NA	"Retrieved from table 1. p. 250, Examples of Salient Beliefs Related to Smoking Cessation"	"nothing reported"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_notlikingthewayyousmellaidscessation"
+"peters2011.r"	"Seeing ill relatives aids cessation"	NA	NA	"Retrieved from table 1. p. 250, Examples of Salient Beliefs Related to Smoking Cessation"	"nothing reported"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_seeingillrelativesaidscessation"
+"peters2011.r"	"Cessation programmes are more enjoyable if they involve fun activities"	NA	NA	"Retrieved from table 1. p. 250, Examples of Salient Beliefs Related to Smoking Cessation"	"nothing reported"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_cessationprogrammesaremoreenjoyableiftheyinvolvefunactivities"
+"peters2011.r"	"Cessation programmes without fun activities are boring and aren't inviting to learn"	NA	NA	"Retrieved from table 1. p. 250, Examples of Salient Beliefs Related to Smoking Cessation"	"nothing reported"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_cessationprogrammeswithoutfunactivitiesareboringandarentinvitingtolearn"
+"peters2011.r"	"Non-supportive comments from the environment are discouraging"	NA	NA	"Retrieved from table 1. p. 250, Examples of Salient Beliefs Related to Smoking Cessation"	"nothing reported"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_nonsupportivecommentsfromtheenvironmentarediscouraging"
+"peters2011.r"	"Tobacco awareness programmes don't do anything, are boring and cause desire to smoke"	NA	NA	"Retrieved from table 1. p. 250, Examples of Salient Beliefs Related to Smoking Cessation"	"nothing reported"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_tobaccoawarenessprogrammesdontdoanythingareboringandcausedesiretosmoke"
+"peters2011.r"	"Parental encouragement aides cessation"	NA	NA	"Retrieved from table 1. p. 250, Examples of Salient Beliefs Related to Smoking Cessation"	"nothing reported"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_parentalencouragementaidescessation"
+"peters2011.r"	"Parental cessation could be encouraging"	NA	NA	"Retrieved from table 1. p. 250, Examples of Salient Beliefs Related to Smoking Cessation"	"nothing reported"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_parentalcessationcouldbeencouraging"
+"peters2011.r"	"Partner encouragement motivates to quit"	NA	NA	"Retrieved from table 1. p. 250, Examples of Salient Beliefs Related to Smoking Cessation"	"nothing reported"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_partnerencouragementmotivatestoquit"
+"peters2011.r"	"Peer pressure from friends encourages to quit"	NA	NA	"Retrieved from table 1. p. 250, Examples of Salient Beliefs Related to Smoking Cessation"	"nothing reported"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_peerpressurefromfriendsencouragestoquit"
+"peters2011.r"	"Awareness of declining personal fitness aids cessation"	NA	NA	"Retrieved from table 1. p. 250, Examples of Salient Beliefs Related to Smoking Cessation"	"nothing reported"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_awarenessofdecliningpersonalfitnessaidscessation"
+"peters2011.r"	"Damage to personal health"	NA	NA	"Retrieved from table 1. p. 250, Examples of Salient Beliefs Related to Smoking Cessation"	"nothing reported"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_damagetopersonalhealth"
+"peters2011.r"	"Talks and recruitment by physicians"	NA	NA	"Retrieved from table 1. p. 250, Examples of Salient Beliefs Related to Smoking Cessation"	"nothing reported"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_talksandrecruitmentbyphysicians"
+"peters2011.r"	"Give people real, truthful information about the importance of cessation"	NA	NA	"Retrieved from table 1. p. 250, Examples of Salient Beliefs Related to Smoking Cessation"	"nothing reported"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_givepeoplerealtruthfulinformationabouttheimportanceofcessation"
+"peters2011.r"	"Wanting more control in life"	NA	NA	"Retrieved from table 1. p. 250, Examples of Salient Beliefs Related to Smoking Cessation"	"nothing reported"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_wantingmorecontrolinlife"
+"peters2011.r"	"If I knew my younger sister smoked -that would aid my cessation-"	NA	NA	"Retrieved from table 1. p. 250, Examples of Salient Beliefs Related to Smoking Cessation"	"nothing reported"	NA	NA	NA	10476	"cessation"	"consistent"	NA	"peters2011.r_ifiknewmyyoungersistersmokedthatwouldaidmycessation"
+"pletsch2003.r"	"Stressful family situation"	NA	NA	"retrieved from p. 323 "	"nothing reported"	NA	NA	NA	379	"cessation"	"inconsistent"	"NA"	"pletsch2003.r_stressfulfamilysituation"
+"pletsch2003.r"	"Stress from violent environment/neighbourhood"	NA	NA	"retrieved from p. 323"	"nothing reported"	NA	NA	NA	379	"cessation"	"inconsistent"	"NA"	"pletsch2003.r_stressfromviolentenvironmentneighbourhood"
+"pletsch2003.r"	"Worry about health problems"	NA	NA	"retrieved from p. 323"	"nothing reported"	NA	NA	NA	379	"cessation"	"consistent"	"NA"	"pletsch2003.r_worryabouthealthproblems"
+"pletsch2003.r"	"Smoking relieves stress"	NA	NA	"retrieved from p. 323"	"nothing reported"	NA	NA	NA	379	"cessation"	"inconsistent"	"NA"	"pletsch2003.r_smokingrelievesstress"
+"pletsch2003.r"	"Stress increases need to smoke"	NA	NA	"retrieved from p. 323"	"nothing reported"	NA	NA	NA	379	"cessation"	"inconsistent"	"NA"	"pletsch2003.r_stressincreasesneedtosmoke"
+"pletsch2003.r"	"Willpower is required to quit"	NA	NA	"retrieved from p. 323"	"nothing reported"	NA	NA	NA	379	"cessation"	"consistent"	"NA"	"pletsch2003.r_willpowerisrequiredtoquit"
+"pletsch2003.r"	"Personal desire is required to quit"	NA	NA	"retrieved from p. 323"	"nothing reported"	NA	NA	NA	379	"cessation"	"consistent"	"NA"	"pletsch2003.r_personaldesireisrequiredtoquit"
+"pletsch2003.r"	"You can do it if you want to"	NA	NA	"retrieved from p. 323"	"nothing reported"	NA	NA	NA	379	"cessation"	"consistent"	"NA"	"pletsch2003.r_youcandoitifyouwantto"
+"pletsch2003.r"	"You have to be ready to quit"	NA	NA	"retrieved from p. 323"	"nothing reported"	NA	NA	NA	379	"cessation"	"consistent"	"NA"	"pletsch2003.r_youhavetobereadytoquit"
+"tu2000.r"	"felt sick when on two packs a day"	NA	NA	"retrieved from  page 3, 
+  1. major recurring themes, 
+  segment a, top paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_feltsickwhenontwopacksaday"
+"tu2000.r"	"breathing problems during exercise when smoking"	NA	NA	"retrieved from  page 3, 
+  1. major recurring themes, 
+  segment a, top paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_breathingproblemsduringexercisewhensmoking"
+"tu2000.r"	"there are examples of smoking impacting and not-impacting health"	NA	NA	"retrieved from  page 3, 
+  1. major recurring themes, 
+  segment a, bottom paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"inconsistent"	"NA"	"tu2000.r_thereareexamplesofsmokingimpactingandnotimpactinghealth"
+"tu2000.r"	"I will die anyway"	NA	NA	"retrieved from  page 4, 
+  1. major recurring themes, 
+  segment a, top paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"inconsistent"	"NA"	"tu2000.r_iwilldieanyway"
+"tu2000.r"	"exercise can balance disadvantages of smoking"	NA	NA	"retrieved from  page 4, 
+  1. major recurring themes, 
+  segment a, top paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"inconsistent"	"NA"	"tu2000.r_exercisecanbalancedisadvantagesofsmoking"
+"tu2000.r"	"smoking is like drinking, don't do it too much"	NA	NA	"retrieved from  page 4, 
+  1. major recurring themes, 
+  segment a, third to last quote"	"nothing reported"	NA	NA	NA	217	"cessation"	"inconsistent"	"NA"	"tu2000.r_smokingislikedrinkingdontdoittoomuch"
+"tu2000.r"	"I haven't smoked long enough to damage my health"	NA	NA	"retrieved from  page 4, 
+  1. major recurring themes, 
+  segment a, second to last quote"	"nothing reported"	NA	NA	NA	217	"cessation"	"inconsistent"	"NA"	"tu2000.r_ihaventsmokedlongenoughtodamagemyhealth"
+"tu2000.r"	"cancer cells explode after quitting, therefore it is better to quit gradually"	NA	NA	"retrieved from  page 4, 
+  1. major recurring themes, 
+  segment a, top paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_cancercellsexplodeafterquittingthereforeitisbettertoquitgradually"
+"tu2000.r"	"smoking is part of social life in china"	NA	NA	"retrieved from  page 4, 
+  1. major recurring themes, 
+  segment B, Reinforcing factors, top paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"inconsistent"	"NA"	"tu2000.r_smokingispartofsociallifeinchina"
+"tu2000.r"	"to not accept a cigarette in china is bad form"	NA	NA	"retrieved from  page 4, 
+  1. major recurring themes, 
+  segment B, Reinforcing factors, top paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"inconsistent"	"NA"	"tu2000.r_tonotacceptacigaretteinchinaisbadform"
+"tu2000.r"	"being able to affor smoking lifts social status"	NA	NA	"retrieved from  page 4, 
+  1. major recurring themes, 
+  segment B, Reinforcing factors, middle paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"inconsistent"	"NA"	"tu2000.r_beingabletoafforsmokingliftssocialstatus"
+"tu2000.r"	"smoking brings good luck in business, studies and mahjong"	NA	NA	"retrieved from  page 4, 
+  1. major recurring themes, 
+  segment B, Reinforcing factors, bottom paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"inconsistent"	"NA"	"tu2000.r_smokingbringsgoodluckinbusinessstudiesandmahjong"
+"tu2000.r"	"smoking is fun"	NA	NA	"retrieved from  page 4, 
+  1. major recurring themes, 
+  segment B, Reinforcing factors, bottom paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"inconsistent"	"NA"	"tu2000.r_smokingisfun"
+"tu2000.r"	"smoking is relaxing"	NA	NA	"retrieved from  page 4, 
+  1. major recurring themes, 
+  segment B, Reinforcing factors, bottom paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"inconsistent"	"NA"	"tu2000.r_smokingisrelaxing"
+"tu2000.r"	"smoking is pleasurable"	NA	NA	"retrieved from  page 4, 
+  1. major recurring themes, 
+  segment B, Reinforcing factors, bottom paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"inconsistent"	"NA"	"tu2000.r_smokingispleasurable"
+"tu2000.r"	"desire to be part of the group"	NA	NA	"retrieved from page 5, 
+  1. major recurring themes, 
+  segment B, Reinforcing factors, second paragraph from top"	"nothing reported"	NA	NA	NA	217	"cessation"	"inconsistent"	"NA"	"tu2000.r_desiretobepartofthegroup"
+"tu2000.r"	"cigarettes are given as gifts"	NA	NA	"retrieved from page 5, 
+  1. major recurring themes, 
+  segment B, Reinforcing factors, tird paragraph from top"	"nothing reported"	NA	NA	NA	217	"cessation"	"inconsistent"	"NA"	"tu2000.r_cigarettesaregivenasgifts"
+"tu2000.r"	"doctors and nurses also smoke"	NA	NA	"retrieved from page 5, 
+  1. major recurring themes, 
+  segment B, Reinforcing factors, second to last paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"inconsistent"	"NA"	"tu2000.r_doctorsandnursesalsosmoke"
+"tu2000.r"	"doctors don't adequatly explain the risks of smoking"	NA	NA	"retrieved from page 5, 
+  1. major recurring themes, 
+  segment B, Reinforcing factors, bottom paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"inconsistent"	"NA"	"tu2000.r_doctorsdontadequatlyexplaintherisksofsmoking"
+"tu2000.r"	"not educated enough to absorb health information/lack language"	NA	NA	"retrieved from page 6, 
+  1. major recurring themes, 
+  segment B, Reinforcing factors, top paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"inconsistent"	"NA"	"tu2000.r_noteducatedenoughtoabsorbhealthinformationlacklanguage"
+"tu2000.r"	"quitting makes you feel uneasy/lonely"	NA	NA	"retrieved from page 6, 
+  1. major recurring themes, 
+  segment B, Reinforcing factors, middle paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"inconsistent"	"NA"	"tu2000.r_quittingmakesyoufeeluneasylonely"
+"tu2000.r"	"smoke to relieve pressure"	NA	NA	"retrieved from page 6, 
+  1. major recurring themes, 
+  segment c, enabling factors top paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"inconsistent"	"NA"	"tu2000.r_smoketorelievepressure"
+"tu2000.r"	"smoke to relax from nervousness"	NA	NA	"retrieved from page 6, 
+  1. major recurring themes, 
+  segment c, enabling factors top paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"inconsistent"	"NA"	"tu2000.r_smoketorelaxfromnervousness"
+"tu2000.r"	"I smoke outside to prevent exposure to family"	NA	NA	"retrieved from page 6, 
+  1. major recurring themes, 
+  segment c, enabling factors bottom paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"inconsistent"	"NA"	"tu2000.r_ismokeoutsidetopreventexposuretofamily"
+"tu2000.r"	"I quit because I was determined"	NA	NA	"retrieved from page 6, 
+  1. major recurring themes, -smoking cessation-
+  segment a, predisposing factors"	"nothing reported"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_iquitbecauseiwasdetermined"
+"tu2000.r"	"having health problems helps determination to quit"	NA	NA	"retrieved from page 6/7, 
+  1. major recurring themes, -smoking cessation-
+  segment a, predisposing factors, bottom/top paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_havinghealthproblemshelpsdeterminationtoquit"
+"tu2000.r"	"quitting improves health and looks"	NA	NA	"retrieved from page 7, 
+  1. major recurring themes, -smoking cessation-
+  segment a, predisposing factors, bottom paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_quittingimproveshealthandlooks"
+"tu2000.r"	"you don't smoke where it isn't allowed"	NA	NA	"retrieved from page 7, 
+  1. major recurring themes, -smoking cessation-
+  segment b, reinforcing factors, top paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_youdontsmokewhereitisntallowed"
+"tu2000.r"	"quitting in social group builds motivation to quit"	NA	NA	"retrieved from page 7, 
+  1. major recurring themes, -smoking cessation-
+  segment b, reinforcing factors, third paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_quittinginsocialgroupbuildsmotivationtoquit"
+"tu2000.r"	"pressure from social group motivates quitting"	NA	NA	"retrieved from page 7, 
+  1. major recurring themes, -smoking cessation-
+  segment b, reinforcing factors bottom paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_pressurefromsocialgroupmotivatesquitting"
+"tu2000.r"	"cultural attitude against smoking motivates to quit"	NA	NA	"retrieved from page 8, 
+  1. major recurring themes, -smoking cessation-
+  segment c, enabling factors, top paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_culturalattitudeagainstsmokingmotivatestoquit"
+"tu2000.r"	"avoidance of smokers aids quitting"	NA	NA	"retrieved from page 8, 
+  1. major recurring themes, -smoking cessation-
+  segment c, enabling factors, second paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_avoidanceofsmokersaidsquitting"
+"tu2000.r"	"replacing cigarette with other, less harmful thing aids quitting"	NA	NA	"retrieved from page 8, 
+  1. major recurring themes, -smoking cessation-
+  segment c, enabling factors, second paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_replacingcigarettewithotherlessharmfulthingaidsquitting"
+"tu2000.r"	"distractions aid quitting"	NA	NA	"retrieved from page 8, 
+  1. major recurring themes, -smoking cessation-
+  segment c, enabling factors, second paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_distractionsaidquitting"
+"tu2000.r"	"advertising saying smoking is cool work against quitting motivation"	NA	NA	"retrieved from page 8, 
+  1. major recurring themes, -smoking cessation-
+  segment c, enabling factors, second to last paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"inconsistent"	"NA"	"tu2000.r_advertisingsayingsmokingiscoolworkagainstquittingmotivation"
+"tu2000.r"	"smoking is wasteful"	NA	NA	"retrieved from page 8, 
+  1. major recurring themes, -smoking cessation-
+  segment c, enabling factors, last paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_smokingiswasteful"
+"tu2000.r"	"smoking is like burning money"	NA	NA	"retrieved from page 8, 
+  1. major recurring themes, -smoking cessation-
+  segment c, enabling factors, last paragraph"	"nothing reported"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_smokingislikeburningmoney"
+"tu2000.r"	"dependence"	NA	0.7	"retrieved from table 2, page 13, predisposing factors"	"nothing reported"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_dependence"
+"tu2000.r"	"physical"	NA	0.38	"retrieved from table 2, page 13, predisposing factors"	"dependence"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_physical"
+"tu2000.r"	"psychological"	NA	0.32	"retrieved from table 2, page 13, pedisposing factors"	"dependence"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_psychological"
+"tu2000.r"	"inadequacy of knowledge alone"	NA	0.68	"retrieved from table 2, page 13, pedisposing factors"	"nothing reported"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_inadequacyofknowledgealone"
+"tu2000.r"	"lack of symptoms/abnormal checkup"	NA	0.59	"retrieved from table 2, page 13, pedisposing factors"	"nothing reported"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_lackofsymptomsabnormalcheckup"
+"tu2000.r"	"etiquette"	NA	0.29	"retrieved from table 2, page 13, reinforcing factors"	"social attitude/values"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_etiquette"
+"tu2000.r"	"social status"	NA	0.32	"retrieved from table 2, page 13, reinforcing factors"	"social attitude/values"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_socialstatus"
+"tu2000.r"	"maturity/maleness"	NA	0.32	"retrieved from table 2, page 13, reinforcing factors"	"social attitude/values"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_maturitymaleness"
+"tu2000.r"	"entree/business"	NA	0.47	"retrieved from table 2, page 13, reinforcing factors"	"social attitude/values"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_entreebusiness"
+"tu2000.r"	"stimulates thinking"	NA	0.5	"retrieved from table 2, page 13, reinforcing factors"	"perception"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_stimulatesthinking"
+"tu2000.r"	"balance/yin&yang"	NA	0.35	"retrieved from table 2, page 13, reinforcing factors"	"perception"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_balanceyinyang"
+"tu2000.r"	"cues"	NA	0.29	"retrieved from table 2, page 13, reinforcing factors"	"nothing reported"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_cues"
+"tu2000.r"	"friends smoked"	NA	0.68	"retrieved from table 2, page 13, reinforcing factors"	"nothing reported"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_friendssmoked"
+"tu2000.r"	"rules about smoking at home"	NA	0.44	"retrieved from table 2, page 13, reinforcing factors"	"nothing reported"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_rulesaboutsmokingathome"
+"tu2000.r"	"lacked skill to deal with stress"	NA	0.38	"retrieved from table 2, page 13, enabling factors"	"nothing reported"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_lackedskilltodealwithstress"
+"tu2000.r"	"smoking sooths/relaxes"	NA	0.32	"retrieved from table 2, page 13, enabling factors"	"nothing reported"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_smokingsoothsrelaxes"
+"tu2000.r"	"personal willingness/determination"	NA	0.68	"retrieved from table 3, page 14, themes of smoking cessation"	"predisposing factors"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_personalwillingnessdetermination"
+"tu2000.r"	"negative health effects of smoking"	NA	0.56	"retrieved from table 3, page 14, themes of smoking cessation"	"predisposing factors"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_negativehealtheffectsofsmoking"
+"tu2000.r"	"weight gain/better complexion after quitting"	NA	0.26	"retrieved from table 3, page 14, themes of smoking cessation"	"predisposing factors"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_weightgainbettercomplexionafterquitting"
+"tu2000.r"	"restrictions"	NA	0.73	"retrieved from table 3, page 14, themes of smoking cessation"	"reinforcing factors"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_restrictions"
+"tu2000.r"	"rules of family/friends"	NA	0.68	"retrieved from table 3, page 14, themes of smoking cessation"	"reinforcing factors"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_rulesoffamilyfriends"
+"tu2000.r"	"cultural differences in US"	NA	0.38	"retrieved from table 3, page 14, themes of smoking cessation"	"enabling factors"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_culturaldifferencesinus"
+"tu2000.r"	"dislike smell of cigarettes"	NA	0.35	"retrieved from table 3, page 14, themes of smoking cessation"	"enabling factors"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_dislikesmellofcigarettes"
+"tu2000.r"	"smoking not allowed in public places"	NA	0.62	"retrieved from table 3, page 14, themes of smoking cessation"	"enabling factors"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_smokingnotallowedinpublicplaces"
+"tu2000.r"	"reduced smoking cues in media"	NA	0.15	"retrieved from table 3, page 14, themes of smoking cessation"	"enabling factors"	NA	NA	NA	217	"cessation"	"consistent"	"NA"	"tu2000.r_reducedsmokingcuesinmedia"

@@ -1,0 +1,287 @@
+STARTING to process 40 files ...
+
+Processing 'ahmed2004.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'ahmed2004.r'
+... File contains variables 'smoking', 'knowledge of health risks', 'stress', 'stress at home (stress)', 'stress at school work', 'feel lonely', 'life is boring', 'curiosity', 'everyone smokes', 'for fun', 'to be cool', 'to please a friend', 'afraid to say no', 'stress at home (reason)', 'forget problems', 'relax', 'lung cancer', 'mouth cancer', 'gum disease', 'heart disease', 'stroke' & 'short-term health risk'.
+... Combining with aggregate: univariate added, association added & variable added.
+Finished processing 'ahmed2004.r'
+
+Processing 'Ayo-Yusuf2010.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'Ayo-Yusuf2010.r'
+... File contains variables 'Cessation', 'Descriptive norm (workplace)', 'Descriptive norm (home)' & 'Smoking is harmful'.
+... Combining with aggregate: univariate skipped (0 lines), association added & variable added.
+Finished processing 'Ayo-Yusuf2010.r'
+
+Processing 'Barton1982.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'Barton1982.r'
+... File contains variables 'Smoker approximates ideal healthiness', 'Smoker approximates ideal wisdom', 'Smoker approximates ideal toughness', 'Smoker approximates ideal looks', 'Smoker approximates ideal relaxedness', 'Smoker approximates ideal sexual orientation', 'Smoker approximates ideal goodness', 'Smoker approximates ideal school performance', 'Smoker approximates ideal drinking behavior', 'Smoker approximates ideal sociability', 'Smoker approximates ideal maturity', 'Smoker approximates ideal conformity' & 'Smoking initiation intention'.
+... Combining with aggregate: univariate skipped (0 lines), association added & variable added.
+Finished processing 'Barton1982.r'
+
+Processing 'Berg2013.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'Berg2013.r'
+... File contains variables 'quitting will decrease the odds of more chemotherapy treatment', 'Quitting decreases cancer spread', 'Quitting decreases imminence of death', 'Quitting makes physician provide cancer treatment', 'Initiation of cancer treatment motivates to quit', 'Quitting aides success of chemotherapy treatment', 'Regret of re-initiation aides quitting', 'Surgeon refuses to operate on smokers', 'Quitting makes health problems beyond cancer less likely', 'Quitting is smart', 'Quitting with partner', 'Family advice motivates to quit', 'No other relief available (hopelessness)', 'No other relief available (stress)', 'No other relief available (anxiety)', 'Smoking alleviates stress', 'Quitting causes severe discomfort', 'Cravings cause disregard of set rules', 'Quitting raises mental addiction', 'Use of replacement stimulus helps break smoking habit', 'Quitting is difficult with smoking partner' & 'Self-control is difficult around smokers'.
+... Combining with aggregate: univariate added, association skipped (0 lines) & variable added.
+Finished processing 'Berg2013.r'
+
+Processing 'Bewley1974.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'Bewley1974.r'
+... File contains variables 'Bad idea for children to smoke', 'Smoking is enjoyable', 'Smoking is a waste of money', 'Nice to smoke with friends', 'Smoking makes you feel grown up', 'Parents should not be angry if their children smoke', 'Smoking causes cancer', 'Smoking is not harmful', 'People my age smoke to show off' & 'Smoking status'.
+... Combining with aggregate: univariate skipped (0 lines), association added & variable added.
+Finished processing 'Bewley1974.r'
+
+Processing 'Bidstrup2009.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'Bidstrup2009.r'
+... File contains variables 'Attitude toward smoking', 'Mother smokes', 'Father smokes', 'Best friend smokes', 'Social influence (norms)', 'Social influence (pressure)', 'Self-efficacy', 'Smoking at 1st follow up' & 'Smoking at 2nd follow up'.
+... Combining with aggregate: univariate skipped (0 lines), association added & variable added.
+Finished processing 'Bidstrup2009.r'
+
+Processing 'Bidstrup2011.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'Bidstrup2011.r'
+... File contains variables 'negative health effects', 'negative effects on looks', 'negative effects on smell', 'risks of addiction', 'negative effects on physical shape', 'Smoking is stupid', 'Smoking is disgusting', 'Smoking-opportunity is often facilitated by friends', 'Self-efficacy to resist smoking on situational social opportunities' & 'Pressure to smoke from friends'.
+... Combining with aggregate: univariate added, association skipped (0 lines) & variable added.
+Finished processing 'Bidstrup2011.r'
+
+Processing 'Bosse1973.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'Bosse1973.r'
+... File contains variables 'Affected acquaintance', 'cessation' & 'Warning label awareness'.
+... Combining with aggregate: univariate skipped (0 lines), association added & variable added.
+Finished processing 'Bosse1973.r'
+
+Processing 'Brandstetter2012.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'Brandstetter2012.r'
+... File contains variables 'gender', 'Cessation in past 7 days', 'Increased CPD', 'Smoking within 30 mins of waking', 'Low confidence in ability to quit', 'Prior quit attempts', 'Addiction', 'Baseline CPD', 'Motivation to quit', 'Confidence in quitting', 'Quit outcome' & 'Reasons for smoking'.
+... Combining with aggregate: univariate skipped (0 lines), association added & variable added.
+Finished processing 'Brandstetter2012.r'
+
+Processing 'Carvajal2006.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'Carvajal2006.r'
+... File contains variables 'initiation', 'Depressive symptoms', 'Global positive expectancies', 'Maladaptive coping', 'Smoking intentions', 'Perceived risk', 'Negative attitudes', 'Positive attitudes' & 'Self efficacy'.
+... Combining with aggregate: univariate skipped (0 lines), association added & variable added.
+Finished processing 'Carvajal2006.r'
+
+Processing 'chen1999.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'chen1999.r'
+... File contains variables 'Parent smoking', 'Sibling smoking', 'Friend smoking (m)', 'Friend smoking (f)', 'Teacher smoking', 'Hate being around smokers', 'Smokers turn me off', 'Feel OK around smokers', 'Good at parties', 'Smoking helps relax', 'Alleviates boredom', 'Parents approve of my smoking' & 'Smoking initiation'.
+... Combining with aggregate: univariate skipped (0 lines), association added & variable added.
+Finished processing 'chen1999.r'
+
+Processing 'cortes2005.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'cortes2005.r'
+... File contains variables 'Damage to own and others health is the worst about smoking', 'Bad breath is the worst about smoking', 'expense is the worst about smoking', 'Disagree that smoking makes you feel good', 'Never bought tobacco for personal use', 'Wouldn't take a cigarette from a friend' & 'Believe I won't smoke as an adult'.
+... Combining with aggregate: univariate added, association skipped (0 lines) & variable added.
+Finished processing 'cortes2005.r'
+
+Processing 'donze2007.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'donze2007.r'
+... File contains variables 'Quitting' & 'Belief that quitting is very difficult'.
+... Combining with aggregate: univariate skipped (0 lines), association added & variable added.
+Finished processing 'donze2007.r'
+
+Processing 'echer2008.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'echer2008.r'
+... File contains variables 'will to change/determination', 'cigarette intrference in social life and laws that restrict smoking', 'influence of close people', 'esthetical and smelling sense', 'health harm', 'health concerns', 'life appreciation', 'health problem observation', 'knowing health harms', 'getting annoyed about cigarette', 'shame/frustration of being a smoker', 'money', 'health professional', 'media campaigns', 'spiritual support', 'acting as a smoker on stage', 'participation in anti-smoking commission', 'age', 'Willpower/determination to change', 'Supportive community', 'Fear of withdrawal symptoms', 'Minimized abstinence syndrome', 'Professional intervention', 'Drugs', 'Supportive family', 'received spiritual support', 'Spiritual beliefs', 'Social support', 'Professional support -nurse, physician, dentist-', 'Support groups', 'Sharing experiences with quitters', 'support groups provide quitting strategies' & 'smokers who refrain around quitters'.
+... Combining with aggregate: univariate added, association skipped (0 lines) & variable added.
+Finished processing 'echer2008.r'
+
+Processing 'elshatarat2013.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'elshatarat2013.r'
+... File contains variables 'Better for health in general', 'Less risk of getting smoking related illness', 'Present health problems', 'Financial reasons', 'Family pressure', 'Harms children and others', 'Ban on smoking in public places', 'Doctor's advice', 'quitting decreases health problems', 'smoking harms my health', 'little benefit to quitting', 'quitting decreases risk respiratory disease', 'quitting decreases risk heart disease', 'quitting decreases risk lung cancer', 'smoking causes stroke', 'smoking causes cardiovascular effects', 'smoking causes respiratory system diseases', 'smoking causes lung cancer' & 'smoking causes other bodily effects'.
+... Combining with aggregate: univariate added, association skipped (0 lines) & variable added.
+Finished processing 'elshatarat2013.r'
+
+Processing 'feng2010.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'feng2010.r'
+... File contains variables 'Intention to quit', 'Outcome expectancy', 'Worried about future health', 'Positive attitudes toward smoking' & 'Overall opinion of smoking'.
+... Combining with aggregate: univariate skipped (0 lines), association added & variable added.
+Finished processing 'feng2010.r'
+
+Processing 'garcia2010.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'garcia2010.r'
+... File contains variables 'Knowledge of health effects', 'Positive beliefs on physical and social consequences of smoking', 'Household smoking prohibited' & 'Successful quitting'.
+... Error processing data in 'garcia2010.r': One of the association values is a vector - only single values can be specified here!
+
+Finished processing 'garcia2010.r'
+
+Processing 'kleinjan2009.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'kleinjan2009.r'
+... File contains variables 'Pollution is just as unhealthy', 'There are lots of risks in life', 'Everything is unhealthy', 'You have to die of something', 'Everyone acts unhealthy sometimes', 'Not everyone gets sick through smoking', 'Know heavy smokers that lived long', 'Medical science will invent something', 'Rather a short/good life than a long/boring life', 'If it were really bad, it would be forbidden', 'I live healthy otherwise', 'Health is not the only thing in life' & 'quit intention'.
+... Combining with aggregate: univariate added, association added & variable added.
+Finished processing 'kleinjan2009.r'
+
+Processing 'lazuras2012.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'lazuras2012.r'
+... File contains variables 'Quit intention', 'Attitudes', 'Health benefit from quitting', 'Health risk from continuing smoking', 'Subjective norms', 'Descriptive norms - smokers', 'Descriptive norms - quitters', 'Self-efficacy' & 'Anticipated regret'.
+... Combining with aggregate: univariate skipped (0 lines), association added & variable added.
+Finished processing 'lazuras2012.r'
+
+Processing 'lennox1994.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'lennox1994.r'
+... File contains variables 'Successful quitting', 'Psychosocial smoker', 'Perceived support from partner', 'Perceived support from other family members', 'Perceived support from friends', 'Perceived support from workmates', 'Smoking increases risk of bronchitis', 'Smoking increases risk of heart disease' & 'Smoking increases risk of lung cancer'.
+... Combining with aggregate: univariate skipped (0 lines), association added & variable added.
+Finished processing 'lennox1994.r'
+
+Processing 'Maassen2004.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'Maassen2004.r'
+... File contains variables 'smoking is pleasant', 'smoking', 'Helps calm nerves', 'Bad for health', 'Helps keep slim', 'Is stupid of me', 'Helps relax', 'Helps feel confident in company', 'Is wrong', 'Sorry I ever started', 'Tastes horrible', 'Friends pay more attention to me', 'Easier to be part of the crowd', 'Helps concentrate in class', 'Social norm mother', 'Social norm father', 'Social norm brother', 'Social norm sister', 'Social norm friends', 'Social norm best friend', 'Social norm teacher', 'Percieved behavior - mother smokes', 'Smokers', 'Percieved behavior - father smokes', 'Percieved behavior - brother smokes', 'Percieved behavior - sister smokes', 'Percieved behavior - most friends smoke', 'Percieved behavior - best friend smokes', 'Percieved behavior - teacher smokes', 'social pressure mother', 'social pressure father', 'Social pressure brother', 'Social pressure sister', 'Social pressure best friend', 'Social pressure teacher', 'Self efficacy with smoking friends', 'Self efficacy when offered a cigarette', 'Self efficacy when upset', 'Self efficacy when nervous', 'Self efficacy when on the way home from school', 'Self efficacy when doing homework', 'Intention to smoke next year', 'Difficult to quit', 'Safe to smoke for a year or two', 'Smoke from other people is harmful', 'Smoking harms health', 'It's ok if not inhaled' & 'Only harmful if you smoke a lot'.
+... Combining with aggregate: univariate skipped (0 lines), association added & variable added.
+Finished processing 'Maassen2004.r'
+
+Processing 'martin2006.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'martin2006.r'
+... File contains variables 'motivation to quit', 'barriers to quitting' & 'self-efficacy'.
+... Combining with aggregate: univariate skipped (0 lines), association added & variable added.
+Finished processing 'martin2006.r'
+
+Processing 'miller2006.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'miller2006.r'
+... File contains variables 'experimentation', 'susceptibility to initiation', 'reactance', 'no. of best friends using tobacco' & 'Best friend's smoking status'.
+... Combining with aggregate: univariate skipped (0 lines), association added & variable added.
+Finished processing 'miller2006.r'
+
+Processing 'myung2012.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'myung2012.r'
+... File contains variables 'Medical evidence is exaggerated', 'You've got to die of something', 'Intention to quit', 'Smoking is no riskier than many other things', 'Self-efficacy regarding quitting smoking', 'Degree of difficulty in quitting' & 'Health damage from smoking'.
+... Combining with aggregate: univariate skipped (0 lines), association added & variable added.
+Finished processing 'myung2012.r'
+
+Processing 'nandemin2010.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'nandemin2010.r'
+... File contains variables 'Pairing of alcohol and cigarettes', 'Peer influence', 'Stress management and relaxation', 'Projected social image', 'Appetite suppression and weight', 'Time management e.g. boredom', 'Addiction - physical and psychological', 'Attention to alcohol and smoking', 'Exercise', 'Buddy-systems', 'Group based meetings', 'Support', 'Inspirational motivation', 'Intervention should be fun', 'Overal healthy behavior should be promoted alongside intervention' & 'Lecturing should be avoided'.
+... Combining with aggregate: univariate added, association skipped (0 lines) & variable added.
+Finished processing 'nandemin2010.r'
+
+Processing 'Odukoya2013.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'Odukoya2013.r'
+... File contains variables 'in favour of smoking ban in public places', 'smoking status', 'parent smokes', 'friend smokes', 'in favour of public smoking ban', 'susceptibility', 'ever been offered a cigarette', 'tobacco-related health knowledge' & 'Positive attitude toward smoking'.
+... Error processing data in 'Odukoya2013.r': One of the association values is a vector - only single values can be specified here!
+
+Finished processing 'Odukoya2013.r'
+
+Processing 'oh2010.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'oh2010.r'
+... File contains variables 'my friends smoked', 'Smoking made me look more cool', 'My friends approved of my smoking', 'It helped me manage my stress', 'I was not worried about health effects', 'I believed I could quit whenever I wanted to', 'Tobacco advertising was attractive to me', 'Weight concerns', 'I was less depressed when I smoked' & 'other'.
+... Combining with aggregate: univariate added, association skipped (0 lines) & variable added.
+Finished processing 'oh2010.r'
+
+Processing 'panday2005.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'panday2005.r'
+... File contains variables 'brother non-smoking', 'smoking status', 'self-efficacy not to smoke', 'attitude cons', 'social pressure not to smoke', 'best friend non-smoking', 'intention not to smoke', 'Pros of smoking', 'Cons of smoking', 'Social norm family', 'Social norm friends', 'Social norm teachers', 'Perceived behavior of important others', 'Social nonsmoking pressure family', 'Social nonsmoking pressure friends', 'Social nonsmoking pressure teachers', 'Self efficacy - stress', 'Self efficacy - routine', 'Self efficacy - social' & 'Intention not to smoke within next year'.
+... Combining with aggregate: univariate added, association added & variable added.
+Finished processing 'panday2005.r'
+
+Processing 'Pederson1984.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'Pederson1984.r'
+... File contains variables 'Perceived severity', 'Quitting', 'Likelihood that smoking is causing chest problem', 'Efficacy of smoking cessation' & 'Concern over disease'.
+... Combining with aggregate: univariate skipped (0 lines), association added & variable added.
+Finished processing 'Pederson1984.r'
+
+Processing 'peters2011.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'peters2011.r'
+... File contains variables 'Personal fitness', 'Peer pressure', 'Aesthetics', 'Family sickness', 'Self-control', 'Never thought about it', 'Don't know', 'parental encouragement', 'partner encouragement', 'personal health', 'parental cessation', 'younger family smokes', 'environmental change', 'affected source/direct communication', 'attractive source/direct communication', 'food/fun activities', 'activities/rap contest', 'music', 'not effective', 'causes smoking', 'lack activities', 'affected source of communication', 'attractive source of communication', 'direct communication', 'professional sources of communication', 'real information', 'encouragement', 'non-supportive', 'unknown', 'Organize youth activities  - rap battle- about non-smoking and positive activities', 'Direct communication about hazards from affected source', 'Communication by affected sources could aid recruitment for cessation programmes', 'Direct communication by attractive source', 'Recruitment for cessation programme by attractive source', 'Current cessation programmes only talk about cigarettes, not life experiences', 'Recruitment should happen face to face so questions can be answered', 'Encouragement without pressure aids cessation', 'Not liking the way you smell aids cessation', 'Seeing ill relatives aids cessation', 'Cessation programmes are more enjoyable if they involve fun activities', 'Cessation programmes without fun activities are boring and aren't inviting to learn', 'Non-supportive comments from the environment are discouraging', 'Tobacco awareness programmes don't do anything, are boring and cause desire to smoke', 'Parental encouragement aides cessation', 'Parental cessation could be encouraging', 'Partner encouragement motivates to quit', 'Peer pressure from friends encourages to quit', 'Awareness of declining personal fitness aids cessation', 'Damage to personal health', 'Talks and recruitment by physicians', 'Give people real, truthful information about the importance of cessation', 'Wanting more control in life' & 'If I knew my younger sister smoked -that would aid my cessation-'.
+... Combining with aggregate: univariate added, association skipped (0 lines) & variable added.
+Finished processing 'peters2011.r'
+
+Processing 'pletsch2003.r' ...
+Placed generated template bits on the clipboard (specifya path and filename in argument 'outputFile' if you want towrite the output directly to a file) for variables 'Stressful family situation', 'Stress from violent environment/neighbourhood', 'Worry about health problems', 'Smoking relieves stress', 'Stress increases need to smoke', 'Willpower is required to quit', 'Personal desire is required to quit', 'You can do it if you want to' & 'You have to be ready to quit'.... Verified extraction file without errors!
+... Finished reading source file of 'pletsch2003.r'
+... File contains variables 'Stressful family situation', 'Stress from violent environment/neighbourhood', 'Worry about health problems', 'Smoking relieves stress', 'Stress increases need to smoke', 'Willpower is required to quit', 'Personal desire is required to quit', 'You can do it if you want to' & 'You have to be ready to quit'.
+... Combining with aggregate: univariate added, association skipped (0 lines) & variable added.
+Finished processing 'pletsch2003.r'
+
+Processing 'rijt2004.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'rijt2004.r'
+... File contains variables 'experienced social stimulation for abstinence', 'cessation readiness', 'pros of abstinence', 'cons of abstinence,', 'self-efficacy for abstinence' & 'attitude towards SCTs'.
+... Combining with aggregate: univariate skipped (0 lines), association added & variable added.
+Finished processing 'rijt2004.r'
+
+Processing 'rohde2003.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'rohde2003.r'
+... File contains variables 'maternal smoking', 'initiation', 'paternal smoking' & 'any sibling smoking'.
+... Combining with aggregate: univariate skipped (0 lines), association added & variable added.
+Finished processing 'rohde2003.r'
+
+Processing 'Salih1996.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'Salih1996.r'
+... File contains variables 'health', 'cessation status', 'example setting', 'aesthetics', 'self-control', 'quitting is important', 'quitting is personally relevant', 'stopping is valuable' & 'I am capable of stopping'.
+... Combining with aggregate: univariate skipped (0 lines), association added & variable added.
+Finished processing 'Salih1996.r'
+
+Processing 'schnoll2006.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'schnoll2006.r'
+... File contains variables 'knowledge', 'cessation status', 'pros of quitting', 'cons of quitting' & 'risk perception'.
+... Error processing data in 'schnoll2006.r': One of the association values is a vector - only single values can be specified here!
+
+Finished processing 'schnoll2006.r'
+
+Processing 'schnoll2011.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'schnoll2011.r'
+... File contains variables 'RFS-Stimulation', 'intention to quit', 'RFS-Reduce Negative Affect', 'Craving-Positive Reinforcement', 'Craving-Negative Reinforcement', 'Risk Perception' & 'Self-efficacy'.
+... Combining with aggregate: univariate skipped (0 lines), association added & variable added.
+Finished processing 'schnoll2011.r'
+
+Processing 'siahpush2003.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'siahpush2003.r'
+... File contains variables 'ceased smoking' & 'friends who smoke'.
+... Combining with aggregate: univariate skipped (0 lines), association added & variable added.
+Finished processing 'siahpush2003.r'
+
+Processing 'stacy1990.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'stacy1990.r'
+... File contains variables 'believe that smoking makes diabetes worse', 'cessation', 'stopping improves diabetes' & 'social support to stop'.
+... Combining with aggregate: univariate skipped (0 lines), association added & variable added.
+Finished processing 'stacy1990.r'
+
+Processing 'tu2000.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'tu2000.r'
+... File contains variables 'felt sick when on two packs a day', 'breathing problems during exercise when smoking', 'there are examples of smoking impacting and not-impacting health', 'I will die anyway', 'exercise can balance disadvantages of smoking', 'smoking is like drinking, don't do it too much', 'I haven't smoked long enough to damage my health', 'cancer cells explode after quitting, therefore it is better to quit gradually', 'smoking is part of social life in china', 'to not accept a cigarette in china is bad form', 'being able to affor smoking lifts social status', 'smoking brings good luck in business, studies and mahjong', 'smoking is fun', 'smoking is relaxing', 'smoking is pleasurable', 'desire to be part of the group', 'cigarettes are given as gifts', 'doctors and nurses also smoke', 'doctors don't adequatly explain the risks of smoking', 'not educated enough to absorb health information/lack language', 'quitting makes you feel uneasy/lonely', 'smoke to relieve pressure', 'smoke to relax from nervousness', 'I smoke outside to prevent exposure to family', 'I quit because I was determined', 'having health problems helps determination to quit', 'quitting improves health and looks', 'you don't smoke where it isn't allowed', 'quitting in social group builds motivation to quit', 'pressure from social group motivates quitting', 'cultural attitude against smoking motivates to quit', 'avoidance of smokers aids quitting', 'replacing cigarette with other, less harmful thing aids quitting', 'distractions aid quitting', 'advertising saying smoking is cool work against quitting motivation', 'smoking is wasteful', 'smoking is like burning money', 'dependence', 'physical', 'psychological', 'inadequacy of knowledge alone', 'lack of symptoms/abnormal checkup', 'etiquette', 'social status', 'maturity/maleness', 'entree/business', 'stimulates thinking', 'balance/yin&yang', 'cues', 'friends smoked', 'rules about smoking at home', 'lacked skill to deal with stress', 'smoking sooths/relaxes', 'personal willingness/determination', 'negative health effects of smoking', 'weight gain/better complexion after quitting', 'restrictions', 'rules of family/friends', 'cultural differences in US', 'dislike smell of cigarettes', 'smoking not allowed in public places' & 'reduced smoking cues in media'.
+... Combining with aggregate: univariate added, association skipped (0 lines) & variable added.
+Finished processing 'tu2000.r'
+
+Processing 'willemsen1996.r' ...
+... Verified extraction file without errors!
+... Finished reading source file of 'willemsen1996.r'
+... File contains variables 'attitude', 'intention to quit', 'social pressure at work', 'social pressure outside work', 'smoking behavior at work', 'smoking behavior outside work', 'self-efficacy', 'past smoking behavior', 'number of daily cigarettes' & 'tolerance toward smoking'.
+... Combining with aggregate: univariate skipped (0 lines), association added & variable added.
+Finished processing 'willemsen1996.r'
+
+FINISHED processing 40 files.
+
